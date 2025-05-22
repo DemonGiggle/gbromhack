@@ -84,21 +84,39 @@ def yaml_dump_script(offset, end_offset):
 
     cur_byte = rom.read(1)
     message_offset = HexInt(offset)
-    while(offset != end_offset):
+    while(offset < end_offset): # Use < to ensure reading up to end_offset
         message_bytes += cur_byte
-        if int.from_bytes(cur_byte, 'little') == int('FF', base=16) or int.from_bytes(cur_byte, 'little') == int('FC', base=16) :
+        # Check if current byte is a terminator OR if it's the last byte of the range
+        if int.from_bytes(cur_byte, 'little') == 0xFF or int.from_bytes(cur_byte, 'little') == 0xFC :
             if table:
-                message["original"] = table.convert_bytearray(message_bytes)
+                original_text = table.convert_bytearray(message_bytes)
+                message["original"] = original_text
+                message["translation"] = original_text # Pre-fill with original if table exists
             else:
                 message["original"] = message_bytes.copy()
-            message["translation"] = "TODO_" + "{0:#0{1}x}".format(message_offset, 7)
-            message["pointer_location"] = 0
+                # For raw bytes, a generic TODO is safer for YAML
+                message["translation"] = "TODO_" + "{0:#0{1}x}".format(message_offset, 7)
+            message["pointer_location"] = 0 # Default pointer_location
             messages[message_offset] = message.copy()
             message_bytes.clear()
-            message_offset = HexInt(offset)
+            if offset + 1 < end_offset: # Avoid setting message_offset beyond end_offset if terminator is the last byte
+                 message_offset = HexInt(offset + 1) # Next message starts after this byte
 
-        cur_byte = rom.read(1)
+        if offset + 1 < end_offset:
+            cur_byte = rom.read(1)
         offset += 1
+
+    # Handle any remaining bytes if the script doesn't end with FF/FC but hits end_offset
+    if len(message_bytes) > 0:
+        if table:
+            original_text = table.convert_bytearray(message_bytes)
+            message["original"] = original_text
+            message["translation"] = original_text
+        else:
+            message["original"] = message_bytes.copy()
+            message["translation"] = "TODO_" + "{0:#0{1}x}".format(message_offset, 7)
+        message["pointer_location"] = 0
+        messages[message_offset] = message.copy()
 
     script["script"] = messages
 

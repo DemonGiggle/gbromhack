@@ -56,6 +56,9 @@ SPECIAL_BYTES = {
     "<gold>": 4,          # F9
     "<price>": 4,         # FA
     "<FC>": 1,            # FC
+    "<FF>": 1,            # FF - End of text
+    "<FE>": 1,            # FE - Line feed in same box
+    "<FD>": 1,            # FD - Line feed, new box (next page)
 }
 
 
@@ -83,58 +86,84 @@ class TextString:
         """
 
         words = self.text.split()
-        lines = [line.strip() for line in self.text.split("<br>")]
+        lines = [line.strip() for line in self.text.split("<br>")] # Segments split by explicit <br>
 
         prepared_text = ""
         self.length = 0
-        line_num = 0
-        for line in range(len(lines)):
-            words = lines[line].split()
-            cur_line_length = 0
-            for i in range(len(words)):
-                word = words[i]
-                word_length = len(word)
+        line_num_in_box = 0 # 0 for top line of current text box, 1 for bottom line.
 
-                for b in SPECIAL_BYTES:
-                    if word.find(b) != -1:
-                        word_length -= len(b)
-                        word_length += SPECIAL_BYTES[b]
+        for line_idx, current_line_segment in enumerate(lines):
+            words = current_line_segment.split()
+            cur_line_char_width = 0 # Tracks character width on the current visual line in the box
 
-                if i == 0:
-                    prepared_text += word
-                    self.length += word_length
-                    cur_line_length += word_length
+            for word_idx, word in enumerate(words):
+                # Calculate effective character width for screen fitting (word_char_width)
+                # This part includes the word.count() fix.
+                word_char_width = len(word) 
+                for token_str, token_val_width in SPECIAL_BYTES.items():
+                    count = word.count(token_str)
+                    if count > 0:
+                        word_char_width -= len(token_str) * count
+                        word_char_width += token_val_width * count
+                
+                # For this script, effective_byte_length is the same as word_char_width.
+                # If special codes had different byte lengths than their screen widths, this would need adjustment.
+                effective_byte_length = word_char_width
 
-                else:
-                    if cur_line_length + 1 + word_length <= self.max_length:
-                        prepared_text += " " + word
-                        self.length += word_length + 1
-                        cur_line_length += word_length + 1
-                    else:
-                        if line_num % 2 == 0:
+                if word_idx > 0: # Not the first word of the current_line_segment
+                    # Try to add a space
+                    if cur_line_char_width + 1 + word_char_width <= self.max_length:
+                        prepared_text += " "
+                        self.length += 1 # For the space
+                        cur_line_char_width += 1
+                    else: # Auto-wrap before this space and word
+                        if line_num_in_box == 0: # Was on top line
                             prepared_text += "<FE>"
-                        else:
+                            line_num_in_box = 1
+                        else: # Was on bottom line (line_num_in_box == 1)
                             prepared_text += "<FD>"
-                        line_num += 1
-                        self.length += 1
-                        cur_line_length = 0
+                            line_num_in_box = 0
+                        self.length += 1 # For <FE> or <FD> byte
+                        cur_line_char_width = 0
+                
+                # Now add the word itself
+                if cur_line_char_width + word_char_width <= self.max_length:
+                    prepared_text += word
+                    self.length += effective_byte_length
+                    cur_line_char_width += word_char_width
+                else: # Word itself causes overflow, or is first word on new line but too long
+                    if cur_line_char_width > 0: # If there's already text on this line, it needs a break.
+                        if line_num_in_box == 0:
+                            prepared_text += "<FE>"
+                            line_num_in_box = 1
+                        else: # line_num_in_box == 1
+                            prepared_text += "<FD>"
+                            line_num_in_box = 0
+                        self.length += 1 # For <FE> or <FD> byte
+                        cur_line_char_width = 0
+                    
+                    prepared_text += word # Add the word (it might overflow visually if too long)
+                    self.length += effective_byte_length
+                    cur_line_char_width += word_char_width
+                    # If a single word is longer than max_length, it will just be on its own line.
 
-                        prepared_text += word
-                        self.length += word_length
-                        cur_line_length += word_length
-
-            if line < len(lines) - 1:
-                if line_num % 2 == 0:
-                    prepared_text += "<FE>"
-                else:
-                    prepared_text += "<FD>"
-            else:
-                if prepared_text[-4:] not in ['<FF>', '<FC>']:
-                    prepared_text += "<FF>"
-            self.length += 1
-            line_num += 1
-            cur_line_length = 0
-        # print(prepared_text)
+            # After processing all words in current_line_segment (from original <br> split)
+            if line_idx < len(lines) - 1: # This segment was followed by a <br>
+                prepared_text += "<FD>"   # <br> always means new box page (FD)
+                self.length += 1          # For the <FD> byte
+                line_num_in_box = 0       # Reset to top line of new box
+            # No explicit "else" for final terminator here; handled after all segments.
+            
+        # After all segments from <br> split are processed: add final terminator IF NEEDED.
+        if not prepared_text: # Handle empty input text case
+            prepared_text = "<FF>"
+            self.length = 1
+        elif not prepared_text.endswith(("<FF>", "<FC>")):
+            # This check is to ensure that if the input text itself ended with, e.g., "<var2><FC>",
+            # we don't add another <FF>. The word processing loop would have added <FC> and its length.
+            prepared_text += "<FF>"
+            self.length += 1 # For the added <FF> byte
+            
         return prepared_text
 
 

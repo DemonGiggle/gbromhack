@@ -182,7 +182,10 @@ if __name__ == '__main__':
 
     elif arguments['apply_enemies']:
         rom = open(arguments["<romfile>"], 'rb+')
+        # It seems logical to apply the name loading redirection first,
+        # as it patches an earlier part of the original code block.
         insert_enemy_name_loading_redirection_code(rom)
+        insert_enemies_code(rom)
         rom.close()
 
     elif arguments['apply_npcs']:
