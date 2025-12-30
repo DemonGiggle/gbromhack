@@ -989,7 +989,7 @@ script:
   !!int 0x20034:
     original: "しかし もちものが いっぱいです.<FD>どこかで うるか<FE>すてるかしてください.<FF>"
     pointer_location: 0x02098
-    translation: "TODO_0x20034"
+    translation: "Inventory full.<br>Sell or drop."
 
   !!int 0x2005b:
     original: "<item>は すてられません.<FF>"
@@ -1602,7 +1602,7 @@ script:
   !!int 0x20b86:
     original: "<enemy>は<FE>マタタビに よっている<FF>"
     pointer_location: 0
-    translation: "TODO_0x20b86"
+    translation: "<enemy><br>is tipsy!"
 
   !!int 0x20b95:
     original: "<enemy>は<FE>とびあがった!!<FF>"
@@ -1847,12 +1847,12 @@ script:
   !!int 0x20ebb:
     original: '「そうは 7073のピー<FE><var0>たちは<FE>つかまって しまった!<FF>'
     pointer_location: 0
-    translation: TODO_0x20ebb
+    translation: "Soha 7073's Pi<br><var0> captured!"
 
   !!int 0x20ed7:
     original: '<var1>は<FE><var8>ダメージうけた!<FF>'
     pointer_location: 0
-    translation: TODO_0x20ed7
+    translation: "<var1><br>took <var8> dmg!"
 
   !!int 0x20ee4:
     original: "<var1>は すばやく<FE>みを かわした!!<FF>"
@@ -2210,7 +2210,7 @@ script:
   !!int 0x21360:
     original: "<enemy>には<FE>すでに かかっていた!<FF>"
     pointer_location: 0x12c5d
-    translation: "TODO_0x21360"
+    translation: "<enemy><br>already hit!"
 
   !!int 0x21370:
     original: "<var1>の<FE>しゅびりょくを<FE>さげた!!<FF>"
@@ -2240,7 +2240,7 @@ script:
   !!int 0x213bb:
     original: "<var1>はE<var1>をEこうげきした!!<FF>"
     pointer_location: 0
-    translation: "TODO_0x213bb"
+    translation: "<var1><br>attacked <var1>!!"
 
   !!int 0x213ca:
     original: "ドングりを<FE>なげつけて きた!<FF>"
@@ -2380,22 +2380,22 @@ script:
   !!int 0x21580:
     original: "しかし<FE><enemy>は<FE>きがつかない!!<FF>"
     pointer_location: 0x13380
-    translation: "TODO_0x21580"
+    translation: "But <enemy><br>didn't notice!"
 
   !!int 0x21590:
     original: "<enemy>は<FE>いまごろ きがついた!<FF>"
     pointer_location: 0
-    translation: "TODO_0x21590"
+    translation: "<enemy><br>noticed late!"
 
   !!int 0x215aa:
     original: "<var3>たちは<FE>とつぜん おそいかかってきたっ!<FF>"
     pointer_location: 0x10fdb
-    translation: "TODO_0x215aa"
+    translation: "<var3><br>sudden attack!"
 
   !!int 0x215c0:
     original: "<var3>たちは<FE>まだ こちらに きづいていないっ!<FF>"
     pointer_location: 0x10fd6
-    translation: "TODO_0x215c0"
+    translation: "<var3><br>not aware yet!"
 
   !!int 0x215d7:
     original: "<var1>は<FE>ちからつきた!<FF>"
@@ -2405,12 +2405,12 @@ script:
   !!int 0x215e2:
     original: "<var3>たちは<FE>いなくなった!![FC]<var3>は いなくなった!![FC]ボーイたちの<FE>せんせい こうげき!!<FF>"
     pointer_location: 0x115f6
-    translation: "TODO_0x215e2"
+    translation: "<var3><br>are gone!!<FC><var3> is gone!!<FC>Boys' first<br>attack!!"
 
   !!int 0x2160f:
     original: "<enemy>は<FE>もう いなかった!!<FF>"
     pointer_location: 0x1391f
-    translation: "TODO_0x2160f"
+    translation: "<enemy><br>already gone!!"
 
   !!int 0x2161d:
     original: "しかし<FE>にげられなかった!!<FF>"
@@ -2430,7 +2430,7 @@ script:
   !!int 0x21648:
     original: "「へンシーン!<FE><enemy>は<FE>どすこいカバに<FE>へんしん した!<FF>"
     pointer_location: 0
-    translation: "TODO_0x21648"
+    translation: "Transform!<br><enemy><br>became Sumo Hippo!"
 
   !!int 0x2166d:
     original: "<var1>は<FE>みを まもった!<FF>"
@@ -2440,22 +2440,22 @@ script:
   !!int 0x21679:
     original: "ケンは くちばしで<FE>つっついた!!<FF>"
     pointer_location: 0x1326b
-    translation: "TODO_0x21679"
+    translation: "Ken pecked!!"
 
   !!int 0x2168b:
     original: "りラは<FE>つめで ひっかいた!!<FF>"
     pointer_location: 0x13274
-    translation: "TODO_0x2168b"
+    translation: "Rira scratched!!"
 
   !!int 0x2169b:
     original: "ゴンタは あしをあげた<FF>"
     pointer_location: 0x11a0e
-    translation: "TODO_0x2169b"
+    translation: "Gonta raised<br>his leg."
 
   !!int 0x216a7:
     original: "ゴンタは<FE>あしを ふみおろした!<FF>"
     pointer_location: 0x11a20
-    translation: "TODO_0x216a7"
+    translation: "Gonta<br>stomped!"
 
   !!int 0x216b8:
     original: "<character>たちは ちからつきた***<FF>"
@@ -2470,17 +2470,17 @@ script:
   !!int 0x216d4:
     original: "<var1>は<FE>こんらんしている!!<FF>"
     pointer_location: 0x1189a
-    translation: "TODO_0x216d4"
+    translation: "<var1><br>is confused!!"
 
   !!int 0x216e2:
     original: "<enemy>は<FE>こんらんしている!!<FF>"
     pointer_location: 0x1207e
-    translation: "TODO_0x216e2"
+    translation: "<enemy><br>is confused!!"
 
   !!int 0x216f0:
     original: "<var1>の<FE>こんらんが とけた!!<FF>"
     pointer_location: 0
-    translation: "TODO_0x216f0"
+    translation: "<var1><br>back to normal!"
 
   !!int 0x216ff:
     original: "<enemy>の<FE>こんらんが とけた!!<FF>"
