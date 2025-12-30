@@ -2485,177 +2485,177 @@ script:
   !!int 0x216ff:
     original: "<enemy>の<FE>こんらんが とけた!!<FF>"
     pointer_location: 0
-    translation: "TODO_0x216ff"
+    translation: "<enemy><FE>is no longer confused!!<FF>"
 
   !!int 0x2170e:
     original: "サスケは<FE>みがまえている!!<FF>"
     pointer_location: 0
-    translation: "TODO_0x2170e"
+    translation: "Sasuke<FE>is ready!!<FF>"
 
   !!int 0x2171d:
     original: "ステッキから かすかな<FE>かおりが ただよった!<FF>"
     pointer_location: 0x11dab
-    translation: "TODO_0x2171d"
+    translation: "A faint scent<FE>rose from the staff!<FF>"
 
   !!int 0x21735:
     original: "ステッキから ほのおが<FE>ふきだした!!<FF>"
     pointer_location: 0x133fe
-    translation: "TODO_0x21735"
+    translation: "Flames burst<FE>from the staff!!<FF>"
 
   !!int 0x21749:
     original: "うでわが しずかな<FE>おとを かなでた!<FF>"
     pointer_location: 0x11db4
-    translation: "TODO_0x21749"
+    translation: "The bracelet's quiet<FE>chime rang!<FF>"
 
   !!int 0x2175d:
     original: "<enemy>に<FE>つめが つきささった!<FF>"
     pointer_location: 0x11e3f
-    translation: "TODO_0x2175d"
+    translation: "<enemy><FE>was clawed!<FF>"
 
   !!int 0x2176c:
     original: "<enemy>を<FE>つかまえた!!<FF>"
     pointer_location: 0x11ee3
-    translation: "TODO_0x2176c"
+    translation: "<enemy><FE>was caught!!<FF>"
 
   !!int 0x21777:
     original: "かまわには たこやきを<FE>たべている!!<FF>"
     pointer_location: 0x1204c
-    translation: "TODO_0x21777"
+    translation: "Kamawa is eating<FE>takoyaki!!<FF>"
 
   !!int 0x2178b:
     original: "かまわには おなかが<FE>いっぱいで<FE>ねむって しまった!!<FF>"
     pointer_location: 0x1205f
-    translation: "TODO_0x2178b"
+    translation: "Kamawa's belly<FE>is full and<FE>fell asleep!!<FF>"
 
   !!int 0x217a8:
     original: "ルビーりングは<FE>くだけちった!!<FF>"
     pointer_location: 0x11dec
-    translation: "TODO_0x217a8"
+    translation: "The ruby ring<FE>shattered!!<FF>"
 
   !!int 0x217b9:
     original: "<enemy>は<FE>みがまえている!!<FF>"
     pointer_location: 0
-    translation: "TODO_0x217b9"
+    translation: "<enemy><FE>is ready!!<FF>"
 
   !!int 0x217c6:
     original: "サスケの なげた<FE>きのみに あたって<FC>"
     pointer_location: 0x020e2
-    translation: "TODO_0x217c6"
+    translation: "Hit by Sasuke's<FE>thrown nuts<FC>"
 
   !!int 0x217ea:
     original: "「ひつじが いっぴき<FE> ひつじが にひき**<FE><var1>は<FE>ねむって しまった!<FF>"
     pointer_location: 0
-    translation: "TODO_0x217ea"
+    translation: "「One sheep...<FE>two sheep...<FE><var1><FE>fell asleep!<FF>"
 
   !!int 0x2180f:
     original: "<var1>は くささに<FE>たえて おきあがった!<FF>"
     pointer_location: 0
-    translation: "TODO_0x2180f"
+    translation: "<var1> endured<FE>the stench and got up!<FF>"
 
   !!int 0x21823:
     original: "<var1>は<FE>からさを がまんした!<FF>"
     pointer_location: 0
-    translation: "TODO_0x21823"
+    translation: "<var1><FE>withstood the heat!<FF>"
 
   !!int 0x21832:
     original: "<enemy>は<FE>あみに かかっている!<FF>"
     pointer_location: 0
-    translation: "TODO_0x21832"
+    translation: "<enemy><FE>is caught in the net!<FF>"
 
   !!int 0x21841:
     original: "<enemy>は<FE>あみから はいだした!<FF>"
     pointer_location: 0
-    translation: "TODO_0x21841"
+    translation: "<enemy><FE>escaped the net!<FF>"
 
   !!int 0x21850:
     original: "<enemy>は<FE>あなに<FE>はまって しまった!<FF>"
     pointer_location: 0x122cb
-    translation: "TODO_0x21850"
+    translation: "<enemy><FE>fell into<FE>a hole!<FF>"
 
   !!int 0x21862:
     original: "<enemy>は<FE>あなに<FE>はまって うごけない!<FF>"
     pointer_location: 0
-    translation: "TODO_0x21862"
+    translation: "<enemy><FE>is stuck in<FE>a hole!<FF>"
 
   !!int 0x21875:
     original: "<enemy>は<FE>あなから<FE>ぬけだした!<FF>"
     pointer_location: 0
-    translation: "TODO_0x21875"
+    translation: "<enemy><FE>climbed out<FE>of the hole!<FF>"
 
   !!int 0x21884:
     original: "[FB]が<FE>なくなった!!<FF>"
     pointer_location: 0x13129
-    translation: "TODO_0x21884"
+    translation: "<FB><FE>ran out!!<FF>"
 
   !!int 0x2188f:
     original: "<enemy>は<FE>ボケッとしている<FF>"
     pointer_location: 0
-    translation: "TODO_0x2188f"
+    translation: "<enemy><FE>is dazed.<FF>"
 
   !!int 0x2189b:
     original: "しかしなにも<FE>とられなかった!<FF>"
     pointer_location: 0x1270a
-    translation: "TODO_0x2189b"
+    translation: "But nothing<FE>was stolen!<FF>"
 
   !!int 0x218ab:
     original: "MPがたりない!!<FF>"
     pointer_location: 0x027d7
-    translation: "TODO_0x218ab"
+    translation: "Not enough MP!!<FF>"
 
   !!int 0x218b5:
     original: "「いいもの みっけ!!<FD><var3>は<FE><item>を おとしていった!<FF>"
     pointer_location: 0x1167f
-    translation: "TODO_0x218b5"
+    translation: "「Found something good!!<FD><var3> dropped<FE><item>!<FF>"
 
   !!int 0x218d0:
     original: "しかし はずれて<FE>しまった!<FF>"
     pointer_location: 0x129a8
-    translation: "TODO_0x218d0"
+    translation: "But it<FE>missed!<FF>"
 
   !!int 0x218df:
     original: "せんせいかばの せんせいこうげき!<FF>"
     pointer_location: 0x10fe6
-    translation: "TODO_0x218df"
+    translation: "Teacher Hippo's lesson attack!<FF>"
 
   !!int 0x218f1:
     original: "<var1>の<FE>MPが かいふくした!<FF>"
     pointer_location: 0x11ddb
-    translation: "TODO_0x218f1"
+    translation: "<var1>'s<FE>MP recovered!<FF>"
 
   !!int 0x21900:
     original: "「いらっしゃい.<FE> ここは サルの よろずやだ.<FD> どんな ようだい?<FC>"
     pointer_location: 0
-    translation: "TODO_0x21900"
+    translation: "「Welcome.<FE>This is the monkey shop.<FD>What do you need?<FC>"
 
   !!int 0x2192f:
     original: "「<item>だね.<FD>「<price>ゴールドになるよ.<FE> いいかな?<FC>"
     pointer_location: 0
-    translation: "TODO_0x2192f"
+    translation: "「<item>, right?<FD>That'll be <price> gold.<FE>OK?<FC>"
 
   !!int 0x21981:
     original: "「<var1>は これいじょう<FE> もちものを もつことができないな.<FF>"
     pointer_location: 0
-    translation: "TODO_0x21981"
+    translation: "「<var1> can't carry<FE>any more.<FF>"
 
   !!int 0x2199f:
     original: "「<var1>が もつかい?<FC>"
     pointer_location: 0
-    translation: "TODO_0x2199f"
+    translation: "「<var1> will carry it?<FC>"
 
   !!int 0x219c3:
     original: "「<var1>は これを<FE> そうびできないけど いいかい?<FC>"
     pointer_location: 0
-    translation: "TODO_0x219c3"
+    translation: "「<var1> can't equip<FE>this. OK?<FC>"
 
   !!int 0x21a2c:
     original: "「<var1>は もちものを<FE> なにも もってないな.<FF>"
     pointer_location: 0
-    translation: "TODO_0x21a2c"
+    translation: "「<var1> has<FE>no items.<FF>"
 
   !!int 0x21a43:
     original: "「おっと そいつを<FE> かいとるわけには いかないな.<FF>"
     pointer_location: 0
-    translation: "TODO_0x21a43"
+    translation: "「Sorry, I can't<FE>buy that.<FF>"
 
   !!int 0x21a5e:
     original: "「いらっしゃいませ.<FE>「ここは カバの おみせです.<FD> どんな ごようですか?<FC>"
@@ -2675,7 +2675,7 @@ script:
   !!int 0x21ab5:
     original: "「だれが もちますか?<FC>"
     pointer_location: 0
-    translation: "TODO_0x21ab5"
+    translation: "「Who will carry it?<FC>"
 
   !!int 0x21ac1:
     original: "「ありがとう ございました.<FE>「ほかに ごようは ありますか?<FC>"
@@ -2695,12 +2695,12 @@ script:
   !!int 0x21af3:
     original: "「<var1>さんは これいじょう<FE> もちものを もつことができません.<FF>"
     pointer_location: 0x10343
-    translation: "TODO_0x21af3"
+    translation: "「<var1> can't carry<FE>any more.<FF>"
 
   !!int 0x21b13:
     original: "「<var1>さんが もちますか?<FC>"
     pointer_location: 0
-    translation: "TODO_0x21b13"
+    translation: "「Let <var1> carry it?<FC>"
 
   !!int 0x21b3b:
     original: "「<var1>は これを<FE> そうびできないけど いい?<FC>"
@@ -2715,112 +2715,112 @@ script:
   !!int 0x21bb9:
     original: "「<var1>さんは もちものを<FE> なにも もってないようですが.<FF>"
     pointer_location: 0x10486
-    translation: "TODO_0x21bb9"
+    translation: "「<var1> doesn't have<FE>any items.<FF>"
 
   !!int 0x21bd6:
     original: "「すみません.<FE> それは かいとれないのですが.<FF>"
     pointer_location: 0
-    translation: "TODO_0x21bd6"
+    translation: "「Sorry.<FE>I can't buy that.<FF>"
 
   !!int 0x21bef:
     original: "「ここは どうぐやです.<FE> どんな ごようですか?<FC>"
     pointer_location: 0
-    translation: "TODO_0x21bef"
+    translation: "「This is the item shop.<FE>What do you need?<FC>"
 
   !!int 0x21cea:
     original: "「<var1>さんは<FE> どくに おかされています.<FF>"
     pointer_location: 0
-    translation: "TODO_0x21cea"
+    translation: "「<var1><FE>is poisoned.<FF>"
 
   !!int 0x21cff:
     original: "「みなさん けんこう \"てすよ.<FF>"
     pointer_location: 0x1bbe0
-    translation: "TODO_0x21cff"
+    translation: "「Everyone is healthy.<FF>"
 
   !!int 0x21d10:
     original: "「<var1>さんは<FD> あと<price>ポイントで<FE> レべルがあがります.<FF>"
     pointer_location: 0x1bc20
-    translation: "TODO_0x21d10"
+    translation: "「<var1> needs<FD><price> more points<FE>to level up.<FF>"
 
   !!int 0x21d2c:
     original: "「ほかに ごようは ありますか?<FC>"
     pointer_location: 0x1b9ff
-    translation: "TODO_0x21d2c"
+    translation: "「Anything else?<FC>"
 
   !!int 0x21d45:
     original: "「<var1>さんは<FE> きぜつしていませんよ.<FF>"
     pointer_location: 0x1b9f4
-    translation: "TODO_0x21d45"
+    translation: "「<var1><FE>is not fainted.<FF>"
 
   !!int 0x21d58:
     original: "「<var1>さんは<FE> ケガしていませんよ.<FF>"
     pointer_location: 0x1bb03
-    translation: "TODO_0x21d58"
+    translation: "「<var1><FE>is not injured.<FF>"
 
   !!int 0x21d6a:
     original: "「<var1>さんは<FE> どくを うけていませんよ.<FF>"
     pointer_location: 0x1bb85
-    translation: "TODO_0x21d6a"
+    translation: "「<var1><FE>is not poisoned.<FF>"
 
   !!int 0x21d7f:
     original: "「<var1>さんは<FE> このみちを きわめました.<FF>"
     pointer_location: 0x1bbfe
-    translation: "TODO_0x21d7f"
+    translation: "「<var1> has<FE>mastered this path.<FF>"
 
   !!int 0x21d94:
     original: "「よくたすかったわね.<FE> ひこうきが おちたんですって?<FD>「あなたは ケガは ない?<FE> あったら ちりょうして あげるわ.<FC>"
     pointer_location: 0
-    translation: "TODO_0x21d94"
+    translation: "「Glad you're safe.<FE>Your plane crashed?<FD>Are you hurt?<FE>If so, I'll heal you.<FC>"
 
   !!int 0x21e38:
     original: "「おはようございます.<FE> では おきをつけて.<FF>"
     pointer_location: 0x10704
-    translation: "TODO_0x21e38"
+    translation: "「Good morning.<FE>Take care.<FF>"
 
   !!int 0x21e50:
     original: "「すいません.<FE> おかねが たりませんよ.<FF>"
     pointer_location: 0x0e814
-    translation: "TODO_0x21e50"
+    translation: "「Sorry.<FE>Not enough money.<FF>"
 
   !!int 0x21e66:
     original: "「では こんどまた<FE> よってくださいね.<FF>"
     pointer_location: 0x10715
-    translation: "TODO_0x21e66"
+    translation: "「Please come again<FE>next time.<FF>"
 
   !!int 0x21e7b:
     original: "「いらっしゃいませ.<FE> ここは やどやです.<FD>「ひとばん <amount>ゴールドですが<FE> おとまりに なりますか?<FC>"
     pointer_location: 0
-    translation: "TODO_0x21e7b"
+    translation: "「Welcome.<FE>This is the inn.<FD>「One night is <amount> gold.<FE>Will you stay?<FC>"
 
   !!int 0x21eba:
     original: "「ホテル グランドへ ようこそ.<FD>「ごしゅくはくは 500Gに<FE> なりますが よろしいですか?<FC>"
     pointer_location: 0
-    translation: "TODO_0x21eba"
+    translation: "「Welcome to Hotel Grand.<FD>「A room is 500G.<FE>Is that OK?<FC>"
 
   !!int 0x21f2a:
     original: "「だれが あずけますか?<FC>"
     pointer_location: 0x10479
-    translation: "TODO_0x21f2a"
+    translation: "「Who will deposit it?<FC>"
 
   !!int 0x21f61:
     original: "「どれを おかえししますか?<FC>"
     pointer_location: 0x1016e
-    translation: "TODO_0x21f61"
+    translation: "「Which one should I return?<FC>"
 
   !!int 0x21f89:
     original: "「おや? おかねをもってない?<FD> では とくべつに<FE> タダで おあずかり しましょう.<FF>"
     pointer_location: 0x10532
-    translation: "TODO_0x21f89"
+    translation: "「Oh? You don't have money?<FD>Then I'll keep it<FE>for free this time.<FF>"
 
   !!int 0x21fb5:
     original: "「これいじょう あずかれませんよ.<FE> すこし ひきとって ください.<FF>"
     pointer_location: 0x10481
-    translation: "TODO_0x21fb5"
+    translation: "「I can't store any more.<FE>Please take some back.<FF>"
 
   !!int 0x21fd8:
     original: "「ここは あずかりものコーナーです.<FE> どんな ごようですか?<FC>"
     pointer_location: 0
-    translation: "TODO_0x21fd8"
+    translation: "「This is the storage counter.<FE>What do you need?<FC>"
 
   !!int 0x22010:
     original: "「さいきん ジャングルでは<FE> ゴートだんという やつらが<FD> わるさを している らしいの.<FD>「やつらは どうぶつたちを<FE> つかまえて とかいに うりつける<FD> みつりょうそしき なんじゃが<FD> その てさきには<FD> なぜか どうぶつたちまでが<FE> つかわれとるらしい.<FF>"
@@ -2889,1870 +2889,1870 @@ script:
   !!int 0x22445:
     original: "「おや もちものが いっぱいじゃな.<FD>「どこかで なにか もちものを<FE> うるか すてるか してきておくれ.<FF>"
     pointer_location: 0x0e469
-    translation: "TODO_0x22445"
+    translation: "「Oh, your inventory is full.<FD>「Sell or drop something<FE>somewhere first.<FF>"
 
   !!int 0x2247b:
     original: "「いらっしゃいませ.こちらは<FE> こどもふく うりばで ございます.<FC>"
     pointer_location: 0
-    translation: "TODO_0x2247b"
+    translation: "「Welcome. This is<FE>the kids' clothing shop.<FC>"
 
   !!int 0x224ca:
     original: "「いらっしゃい! いらっしゃい!<FD> ほんじつは くだものが<FE> とくばいだよ!<FD>「おにいさん! なにが いるの?<FC>"
     pointer_location: 0x0e239
-    translation: "TODO_0x224ca"
+    translation: "「Welcome! Welcome!<FD>Fruit is on sale<FE>today!<FD>「Hey! What do you want?<FC>"
 
   !!int 0x22533:
     original: "「もう もちものが いっぱいですよ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x22533"
+    translation: "「Your inventory is full.<FF>"
 
   !!int 0x22546:
     original: "「また どうぞ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x22546"
+    translation: "「Come again.<FF>"
 
   !!int 0x2254f:
     original: "「あいよ! ありがとうございました!<FF>"
     pointer_location: 0x1b815
-    translation: "TODO_0x2254f"
+    translation: "「Thanks! Much obliged!<FF>"
 
   !!int 0x22562:
     original: "「んー おにいさんも うまいねえ.<FE> それなら <gold>Gで どうだい?<FC>"
     pointer_location: 0x1b7c2
-    translation: "TODO_0x22562"
+    translation: "「Hmm, you're good.<FE>How about <gold>G?<FC>"
 
   !!int 0x225a2:
     original: "「とほほ***.<FF>"
     pointer_location: 0x1b81f
-    translation: "TODO_0x225a2"
+    translation: "「Oh no...<FF>"
 
   !!int 0x225ab:
     original: "「えっ? おにいちゃんたち<FE> かわを わたってきたの?<FD>「はしが ながされて いたから<FE> かわは だれもわたれなかったんだ.<FD>「すごいなあ!<FE> どうやって かわを わたったの?<FF>"
     pointer_location: 0
-    translation: "TODO_0x225ab"
+    translation: "「Huh? You crossed the river?<FD>「The bridge washed away, so<FE>no one could cross.<FD>「That's amazing!<FE>How did you cross?<FF>"
 
   !!int 0x22604:
     original: "「ここから にしに いったところに<FE> ひこうじょうが できるよていなの.<FD>「わたしも ひこうきに のって<FE> とかいへ いってみたいなあ.<FF>"
     pointer_location: 0x0e01a
-    translation: "TODO_0x22604"
+    translation: "「West of here they're building<FE>an airport.<FD>「I want to ride a plane<FE>to the big city someday.<FF>"
 
   !!int 0x22649:
     original: "「ひこうじょうが やっとできたのよ!<FD>「こんど かれと<FE> とかいへ あそびにいくの!<FF>"
     pointer_location: 0
-    translation: "TODO_0x22649"
+    translation: "「The airport is finally done!<FD>「Next time I'll go with him<FE>to the big city!<FF>"
 
   !!int 0x22674:
     original: "「とかいに いきたいの?<FD>「それなら ずっと きたにある<FE> みなとまちから<FD> ふねにのるといいよ.<FF>"
     pointer_location: 0x0e025
-    translation: "TODO_0x22674"
+    translation: "「Want to go to the big city?<FD>「Then take a ship from<FE>the port town far north.<FF>"
 
   !!int 0x226a6:
     original: "「とかいに いきたいの?<FD>「いまは ひこうきも ふねもあるから<FE> べんりで いいよね.<FF>"
     pointer_location: 0
-    translation: "TODO_0x226a6"
+    translation: "「Want to go to the big city?<FD>「Now there are planes and ships,<FE>so it's convenient.<FF>"
 
   !!int 0x226d2:
     original: "「このむらの きたの やまのうえに<FE> いっけんの いえがある.<FD>「そこに すんどる じいさんは<FE> もう ええとしなんじゃが<FD> むかしの ことに くわしくての.<FD>「なにか ききたいことがあれば<FE> たずねて みんさいや.<FD>「わかいうちは よく いっしょに<FE> ばんどで ぎぐを やったもんじゃ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x226d2"
+    translation: "There's a house on the mountain<FE>north of this village.<FD>「An old man lives there;<FE>he's very old now, but<FD>he knows about the past.<FD>「If you want to ask something,<FE>go see him.<FD>「When I was young, we often<FE>played gigs in a band.<FF>"
 
   !!int 0x22763:
     original: "「つよいぶきが ほしいの?<FD>「あいにく このむらでは<FE> ぶきは うってないの.<FD>「でも このさきの やまのうえに<FE> つうじている どうくつには<FD> いろんなものが あるってはなしよ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x22763"
+    translation: "「Want strong weapons?<FD>「Sorry, this village doesn't<FE>sell weapons.<FD>「But in the cave up the mountain<FE>beyond here, there's lots of stuff.<FF>"
 
   !!int 0x227be:
     original: "「おお どうくつを ぬけてきたのか?<FE> おきゃくは ひさしぶりじゃわい.<FD>「おや このむすめさんは<FE> うらないおババの まごじゃと?<FD>「そうじゃったか***<FE> はなしは きいたことが あるよ.<FD>「おまえの ごりょうしんは<FE> それは それは なかのいい<FD> こいびとどうし じゃった.<FD>「じゃが うらないババには<FE> むすめが とかいそだちの おとこと<FD> いっしょに なるのが<FE> どうしても がまん ならんでのう.<FD>「そうこうしとるうちに<FE> おまえのパパは ようじができて<FD> とかいに かえらねば<FE> ならなくなってしもうた.<FD>「なくなく わかれた そのあとで<FE> おまえのママは おなかのなかに<FD> こどもが いることに<FE> きづいたんじゃ.<FD>「うらないババの いえを でたと<FE> きいたのは そのすぐあとじゃった.<FD>「***そうか おかあさんは<FE> いま びょうきなのか.<FD>「おんなでひとつで<FE> むすめを ここまで そだてて**<FD>「くろう なさったんじゃろうのう.<FF>"
     pointer_location: 0
-    translation: "TODO_0x227be"
+    translation: "「Oh, you made it through the cave?<FE>It's been a while since I had visitors.<FD>「Oh, this young lady is<FE>the fortune-teller's granddaughter?<FD>「So that's it...<FE>I've heard about that.<FD>「Your parents were<FE>truly in love.<FD>「But the fortune-teller<FE>couldn't bear her daughter<FD>marrying a city-raised man.<FD>「While that was happening,<FE>your father had to return<FD>to the city for business.<FD>「After they tearfully parted,<FE>your mother realized<FD>she was carrying a child.<FD>「Soon after, she left<FE>the fortune-teller's house.<FD>「So... your mother is<FE>ill now.<FD>「Raising you alone<FE>all this time...<FD>「She must have suffered so much.<FF>"
 
   !!int 0x22968:
     original: "「ぼく きょうは おるすばんなの.<FD>「このあいださあ<FE> みなみのほうに いったら<FD> きに かこまれた ところに<FE> ひみつの ジャングルが あったよ.<FD>「ぼくは おっかなくって<FE> もどって きちゃったんだけどね.<FF>"
     pointer_location: 0
-    translation: "TODO_0x22968"
+    translation: "「I'm home alone today.<FD>「The other day I went south<FE>and found a secret jungle<FD>surrounded by trees.<FD>「I got scared and<FE>came back though.<FF>"
 
   !!int 0x229d2:
     original: "「あたし このこの<FE> おもりを してる パンジーよ.<FD>「このいえをでて<FE> かわぞいに きたに いくと<FD> みなとまちが あるの.<FD>「あたしの ともだちも<FE> その みなとまちに いるわ.<FD>「さいきん あってないけど<FE> げんきかしら.<FF>"
     pointer_location: 0
-    translation: "TODO_0x229d2"
+    translation: "「I'm Pansy, watching<FE>this child.<FD>「If you leave this house and go<FE>north along the river,<FD>there's a port town.<FD>「My friend lives there.<FE>I haven't seen her lately.<FD>「I wonder if she's well.<FF>"
 
   !!int 0x22a45:
     original: "かまわに*ゴート<FE>「けけけけけ.<FD>「よくも わたしを<FE> よんで くださいました.<FD>「まぬけな れんちゅうめ.<FD> さあ! さっさと<FE> おれの こうぶつを だせ!<FF>"
     pointer_location: 0x0eeac
-    translation: "TODO_0x22a45"
+    translation: "Kamawani*Goat<FE>「Kekekeke.<FD>「Thanks for calling me.<FD>「You fools.<FD>Now! Hurry and<FE>hand over my favorite thing!<FF>"
 
   !!int 0x22a95:
     original: "「ん!?<FE> なんだ もって ねーじゃないか.<FD>「そんなやつ しらねーよ.<FD>「みなとまちで<FE> おれさまの こうぶつを かって<FD> でなおして きな.<FF>"
     pointer_location: 0x0eec2
-    translation: "TODO_0x22a95"
+    translation: "「Huh!? You don't have it.<FD>「I don't know you.<FD>「Go buy my favorite thing<FE>in Port Town and come back.<FF>"
 
   !!int 0x22ade:
     original: "かまわに*ゴート<FE>「ふええ***<FD>「ごめんなさい.<FE> アピーニ*ゴートに<FD> にんぎょの みはりを しろと<FE> めいれい されたんです.<FD>「ただ みはりを してるのは<FE> たいくつ だったんで<FD> つい いろいろ わるさを***<FE> ごめんなさい.<FD>「にんぎょさんは いいひとですよ.<FD> どうして みはりが ひつようなのか<FE> わたしには よくわからないんです.<FD> ぜひ あって あげてください.<FF>"
     pointer_location: 0x0f26e
-    translation: "TODO_0x22ade"
+    translation: "Kamawani*Goat<FE>「Waa...<FD>「I'm sorry.<FE>Apini*Goat<FD>ordered me to watch the mermaids.<FD>「But standing guard was<FE>so boring that I...<FD>ended up causing trouble...<FE>I'm sorry.<FD>「The mermaids are good people.<FD>I don't really know why<FE>they need to be watched.<FD>Please go meet them.<FF>"
 
   !!int 0x22b9f:
     original: "マりーナ<FE>「ああ! あなたたちは あのわにを<FD> たおせたのですね.<FD> わたしは あのわにに<FE> かんしされてたのです.<FD>「おねがいが あるんです!<FD> わたしの こどもを<FE> たすけて ください!<FD>「わたしの こどもは<FE> ゴートだんの にんげんたちに<FD> つかまって しまったのです.<FD>「かわいそうに あのこは<FE> そのときの しょっくで<FD> いしになって しまいました.<FD>「あのこをつかまえた ふなのりたちは<FE> とおくに ふきとばされてしまい<FD> いしになった わたしのこ だけを<FE> のせた ふねは***<FD> いまでは ゆうれいせんと なって<FE> うみを さまよっているのです.<FD>「それでも アピーニ*ゴートは<FE> わたしたちを みせものに<FD> したい らしくって<FD> はやく こどもを<FE> もとに もどせって<FD> わたしを おどすんです.<FD>「また つかまって<FE> みせものに なる ぐらいだったら<FD> いまのままのほうが<FE> まだ ましですが***<FD>「でも ひとりさまよう わがこも<FE> かわいそうで かわいそうで***<FD>「ゆうれいせんは いま<FD> きたの とうだいの ちかくを<FE> さまよっています.<FD>「ときどき とうだいの うえから<FE> ふねが みえるんだそうです.<FD>「おねがいです!<FE> そのふねを みつけて<FD> いしに なってしまった<FE> わたしの こどもを<FD> うみに かえしてください!<FF>"
     pointer_location: 0x0e037
-    translation: "TODO_0x22b9f"
+    translation: "Marina<FE>「Ah! You defeated that croc.<FD>I was being watched by it.<FD>「I have a favor!<FD>Please save my child!<FD>My child was captured by<FE>the Goat Gang's men.<FD>Shock turned my child to stone.<FD>Those sailors were blown far away,<FE>and the ship with only my child...<FD>has become a ghost ship,<FE>wandering the sea.<FD>Apini*Goat wants to use us<FE>as a show and threatens me<FD>to return my child quickly.<FD>I'd rather stay like this than<FE>be captured again...<FD>But my child is all alone...<FE>It's so sad...<FD>「The ghost ship now<FD>drifts near the northern lighthouse.<FD>Sometimes you can see it<FE>from the top of the lighthouse.<FD>Please! Find that ship and<FE>return my stone child<FD>to the sea!<FF>"
 
   !!int 0x22de0:
     original: "「ふね?***ゆうれいせんの<FE> はなしを しらないのかい?<FD>「みんな こわがって ふねをだそう<FE> なんてやつは いないよ.<FD>「ロープさえ あれば<FE> あのタルに むすびつけて<FD> おれが ゆうれいせんに<FE> わたって やるのによう.<FD>「こわくないかって?<FD>「おれは まち いちばんの<FE> ふなのりだぜ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x22de0"
+    translation: "「A ship...? You don't know<FE>about the ghost ship?<FD>Everyone's too scared to go.<FD>If I had a rope,<FE>I'd tie it to that barrel<FD>and cross to the ghost ship.<FD>Afraid? I'm the best<FE>sailor in town.<FF>"
 
   !!int 0x22e74:
     original: "「ロープですか?<FE> もうしわけ ありません.<FD>「このまえ ゴりラの<FE> パルカ*ゴートが ぜんぶ<FD> もっていって しまいました.<FD>「おかねも はらわないで ですよ.<FD>「でも あんな たくさんの ロープ<FE> いったいなにに つかうんでしょう?<FF>"
     pointer_location: 0x1029e
-    translation: "TODO_0x22e74"
+    translation: "「Rope?<FE>I'm sorry.<FD>Gorilla Paluka*Goat took<FE>them all the other day.<FD>He didn't even pay.<FD>But what would he use<FE>so many ropes for?<FF>"
 
   !!int 0x22eeb:
     original: "「かまわに*ゴートかい?<FD>「あいつの こうぶつは<FE> たこやき なんだ.<FD>「みんな あいつに おそわれたら<FE> たこやきを なげるんだ.<FD>「あいつが それに<FE> きを とられている スキに<FD> にげだして きちゃうのさ.<FF>"
     pointer_location: 0x0e04f
-    translation: "TODO_0x22eeb"
+    translation: "「Kamawani*Goat?<FD>His favorite thing is<FE>takoyaki.<FD>When he attacks, throw it<FE>and run while he's distracted.<FF>"
 
   !!int 0x22f56:
     original: "「かまわにに あったのか?<FD> ぼくの ちゅうこくは<FE> やくに たったかい?<FF>"
     pointer_location: 0
-    translation: "TODO_0x22f56"
+    translation: "「You met Kamawani?<FD>Did my warning<FE>help?<FF>"
 
   !!int 0x22f7c:
     original: "「こまったものよね.<FE> あの かまわにの やつ.<FD>「あのまえを とおるたんびに<FE> いろいろ いたずら するんだから.<FD>「え? どんなことを するのかって?<FD> ***それは そうぞうに<FE> まかせるわよ.<FF>"
     pointer_location: 0x0e071
-    translation: "TODO_0x22f7c"
+    translation: "「What a nuisance.<FE>That Kamawani...<FD>Every time you pass by,<FE>he plays pranks.<FD>Huh? What kind?<FD>...Use your imagination.<FF>"
 
   !!int 0x22fe1:
     original: "「かまわにのやつに あったの?<FE> なにか いたずら されなかった?<FF>"
     pointer_location: 0
-    translation: "TODO_0x22fe1"
+    translation: "「You met Kamawani?<FE>Did he mess with you?<FF>"
 
   !!int 0x23003:
     original: "「かまわに*ゴートは<FE> あそこで みはりを してるんだ.<FD>「なんでも にんぎょの おやこを<FE> ゴートだんが つかまえた らしくて<FD> それを かんし してるらしいな.<FD>「それが ほんとうなら おれも<FE> にんぎょに あって みたいけどよ.<FF>"
     pointer_location: 0x0e066
-    translation: "TODO_0x23003"
+    translation: "「Kamawani*Goat is keeping watch there.<FD>It seems the Goat Gang captured<FE>a mermaid parent and child,<FD>and he's guarding them.<FD>If that's true, I'd like<FE>to meet a mermaid too.<FF>"
 
   !!int 0x23079:
     original: "「にんぎょに あった? ふーん***<FE> マりーナさんて いうのか.<FF>"
     pointer_location: 0
-    translation: "TODO_0x23079"
+    translation: "「You met a mermaid? Hmm...<FE>Her name is Marina.<FF>"
 
   !!int 0x2309b:
     original: "「みなとを でると きたと みなみに<FE> ふたつの とうだいが あるんだ.<FD>「ぼく ピクニックで<FE> その とうだいまで<FD> あるいて いったことが あるよ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x2309b"
+    translation: "「When you leave the port, there are two lighthouses<FE>to the north and south.<FD>「I once walked to them<FE>on a picnic.<FF>"
 
   !!int 0x230e8:
     original: "「キャー! あなた かわいい!<FE> そう サスケくんって いうの.<FD> ねえ あたしと いいことしない?<FD>「***やだー じょう*だ*ん*よ!<FD> まっかに なっちゃって<FE> じゅんじょうねー うふふ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x230e8"
+    translation: "「Eek! You're cute!<FE>So you're Sasuke.<FD>Hey, want to have some fun?<FD>「...Just kidding!<FD>You're blushing, so pure! Hehe.<FF>"
 
   !!int 0x2314a:
     original: "「とかいに いって おかいものを<FE> したいのにっ!<FD>「ゆうれいせんの おかげで<FE> めいわくだったら ありゃしない!<FF>"
     pointer_location: 0
-    translation: "TODO_0x2314a"
+    translation: "「I want to go shopping in<FE>the big city!<FD>「That ghost ship is such a<FE>nuisance!<FF>"
 
   !!int 0x23184:
     original: "「にしの やまのなかの どうくつには<FE> いかないほうが いいよ!<FD>「いじわるな ゴりラが<FE> とおせんぼ してるんだ.<FF>"
     pointer_location: 0x0e043
-    translation: "TODO_0x23184"
+    translation: "「You shouldn't go into the cave<FE>in the western mountains!<FD>「A nasty gorilla is blocking<FE>the way.<FF>"
 
   !!int 0x231bf:
     original: "「えっ!?***あのゴりラを<FE> たおしちゃったの!?<FD>「きみたちって つよいんだね***.<FD>「***ぼくは いいこに してるから<FD> ぼくたちは けんかなんか<FE> しないように しようね.ね?<FF>"
     pointer_location: 0
-    translation: "TODO_0x231bf"
+    translation: "「What!? You beat that gorilla!?<FE>You're strong...<FD>「I'll be a good kid, so<FD>let's not fight, okay? Okay?<FF>"
 
   !!int 0x2321e:
     original: "「げんざい とかいいきの ふねは<FE> うんこう しておりません.<FF>"
     pointer_location: 0
-    translation: "TODO_0x2321e"
+    translation: "「Currently the ship to the city<FE>is not running.<FF>"
 
   !!int 0x2323e:
     original: "「おい ゆうれいせんを<FE> みたことが あるか?<FD>「いしになった にんぎょを のせて<FE> うみを さまよって いるんだと.<FF>"
     pointer_location: 0x0e096
-    translation: "TODO_0x2323e"
+    translation: "「Hey, have you seen the ghost ship?<FE>They say it wanders the sea<FD>with a stone mermaid aboard.<FF>"
 
   !!int 0x2327a:
     original: "「おい! みろよ!!<FE> ゆうれいせんが はしってるぜっ!<FD>「あれは みなとまちに<FE> むかってる ようだぞ.<FD>「したへ いって みてこよう!<FF>"
     pointer_location: 0x0e09b
-    translation: "TODO_0x2327a"
+    translation: "「Hey! Look!!<FE>The ghost ship is sailing!<FD>「It looks like it's heading<FE>for Port Town.<FD>「Let's go down and check!<FF>"
 
   !!int 0x232c0:
     original: "「ゆうれいせんも いなくなって<FE> これで ゴートだんさえ<FD> いなくなって くれれば<FE> よのなか へいわなのになあ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x232c0"
+    translation: "「With the ghost ship gone,<FE>if the Goat Gang would leave,<FD>the world would be peaceful.<FF>"
 
   !!int 0x232fa:
     original: "「かわいそうな にんぎょのこ.<FD> はやく おかあさんの ところに<FE> かえりたい でしょうに.<FF>"
     pointer_location: 0x0e07c
-    translation: "TODO_0x232fa"
+    translation: "「Poor mermaid child.<FD>She must want to return<FE>to her mother soon.<FF>"
 
   !!int 0x23329:
     original: "「にんぎょの あかちゃん<FE> げんきに なったかなあ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x23329"
+    translation: "「I wonder if the mermaid baby<FE>got better.<FF>"
 
   !!int 0x23344:
     original: "「このまえ みなとまちの にしの<FE> やまのうえを とんでたら<FD> にんげんの こえが きこえたよ.<FD>「あんなところに<FE> だれか いるのかなあ***.<FF>"
     pointer_location: 0
-    translation: "TODO_0x23344"
+    translation: "「The other day I flew over the<FE>west mountain by Port Town,<FD>and I heard a human voice.<FD>「I wonder if someone is there...<FF>"
 
   !!int 0x2338e:
     original: "「<character>さん げんきですか?<FE> ぼくは たびの オウムです.<FF>"
     pointer_location: 0x0e087
-    translation: "TODO_0x2338e"
+    translation: "「<character>, are you well?<FE>I'm a traveling parrot.<FF>"
 
   !!int 0x233ab:
     original: "パルカ*ゴート<FE>「ん!? なんだ おまえたちは.<FD> やまのうえには いかさんぞ.<FE> かえった! かえった!<FF>"
     pointer_location: 0x0eba4
-    translation: "TODO_0x233ab"
+    translation: "Paluka*Goat<FE>「Huh!? Who are you?<FD>I won't let you go up the mountain.<FE>Go back! Go back!<FF>"
 
   !!int 0x233e1:
     original: "パルカ*ゴート<FE>「そうか オレさまが<FD> これだけいっても わからないのか.<FD> すなおに いうことを きかないと<FE> どうなるか おもいしらせてくれる.<FF>"
     pointer_location: 0x0eed4
-    translation: "TODO_0x233e1"
+    translation: "Paluka*Goat<FE>「So you still don't get it.<FD>If you won't listen nicely,<FD>I'll teach you a lesson.<FE>You'll regret it.<FF>"
 
   !!int 0x2342c:
     original: "パルカ*ゴート<FE>「いてててて***.<FD> まいった! こうさん!<FD>「さあ どうぞ どうぞ<FE> とおってください.<FF>"
     pointer_location: 0x0f2a3
-    translation: "TODO_0x2342c"
+    translation: "Paluka*Goat<FE>「Ow ow ow...<FD>I give up! I surrender!<FD>Go on, go on,<FE>you may pass.<FF>"
 
   !!int 0x23463:
     original: "「あーあ やっと たすかったぜ!<FD> おれたち アピーニ*ゴートに<FE> とじこめられて いたんだ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x23463"
+    translation: "「Ah, we're finally saved!<FD>Apini*Goat locked us up here.<FE>We were trapped.<FF>"
 
   !!int 0x23493:
     original: "「にんぎょを つかまえたのは<FE> おれたちだよ.<FD> でも いしに なった にんぎょに<FE> ふっとばされて***.<FD>「あんなに こわいめに あったのは<FE> はじめてだ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x23493"
+    translation: "「We were the ones who caught the mermaid.<FE>But that stone mermaid blasted us away...<FD>「That was the scariest thing ever.<FF>"
 
   !!int 0x234e4:
     original: "「おれたちは ゴートだんの ために<FE> はたらいて いたんだ.<FD> だけど にんぎょの いっけんで<FD> すっかり おそろしく<FE> なっちまって***.<FD>「もう ゴートだんなんて<FE> やめようと おもって いったら<FD> アピーニ*ゴートの やつに<FE> とっつかまって ここに<FD> とじこめられちまったって わけさ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x234e4"
+    translation: "「We worked for the Goat Gang.<FE>But after the mermaid incident,<FD>we got so scared...<FE>we wanted to quit.<FD>「When we said we'd quit,<FE>Apini*Goat grabbed us and<FD>locked us up here.<FF>"
 
   !!int 0x23579:
     original: "「ゴートだんなんかの<FE> てさきに なっちまったから<FD> このざまだ.めんぼくねえ.<FD> もう にどと わるさはしねえよ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x23579"
+    translation: "「We got mixed up with the Goat Gang<FE>and this is what happened. Sorry.<FD>We won't do evil again.<FF>"
 
   !!int 0x235b4:
     original: "にんぎょのこども<FE>「ここはどこ? あなたは だあれ?<FD> おかあさんは どこに いったの?<FD>「あたし にんげんたちが こわくて<FE> おおごえを だしたら<FD> うごけなく なっちゃったの.<FD>「おねがい!<FE> あたしを うみに かえして!<FD> あたしを ふねの そとまで<FE> おして いってよ!<FF>"
     pointer_location: 0x0ec0a
-    translation: "TODO_0x235b4"
+    translation: "Mermaid Child<FE>「Where am I? Who are you?<FD>Where did my mother go?<FD>「I was scared of humans and<FE>when I screamed, I couldn't move.<FD>「Please!<FE>Return me to the sea!<FD>Push me out of the ship!<FE>Please!<FF>"
 
   !!int 0x23640:
     original: "マりーナ<FE>「ありがとう!<FD> こどもを うみに かえしてくれて.<FD> このこは このまま ずっと<FE> ながいあいだ うみのそこにいて<FD> すこしずつ もとのすがたに<FE> もどります.<FD>「ほんとうに ありがとう.<FE> ジャングルボーイたち.<FD> おれいに とかいまで<FE> つれていって あげましょう.<FF>"
     pointer_location: 0x0ec9f
-    translation: "TODO_0x23640"
+    translation: "Marina<FE>「Thank you!<FD>For returning my child to the sea.<FD>This child will stay on the seabed<FE>and slowly return to normal.<FD>「Thank you so much,<FE>Jungle Boys.<FD>As thanks, I'll take you<FE>to the big city.<FF>"
 
   !!int 0x236ce:
     original: "「ミオや ミオ.<FE> レべルが あがった ようじゃな.<FD>「では あたらしい じゅもんを<FE> おしえて あげよう.<FF>"
     pointer_location: 0x02b94
-    translation: "TODO_0x236ce"
+    translation: "「Mio, Mio.<FE>Looks like you leveled up.<FD>「Then I'll teach you<FE>a new spell.<FF>"
 
   !!int 0x23705:
     original: "「では ミオ.<FE> がんばるのじゃ.<FF>"
     pointer_location: 0x02ba9
-    translation: "TODO_0x23705"
+    translation: "「Now, Mio.<FE>Do your best.<FF>"
 
   !!int 0x23717:
     original: "「そのまえに いまおまえが つかえる<FE> じゅもんの せつめいじゃ.<FD>「まず ニナ.<FD> これは てきひとりに こうかのある<FE> ひのたまの じゅもんじゃ.<FD>「ひの じゅもんは<FD> たいていの てきには<FE> こうかが あるじゃろう.<FD>「MPを 2 つかうぞ.<FD>「それから ピニ.<FD> からだを げんきにする<FE> じゅもんじゃ.<FD>「みかた ひとりの HPを<FD> 50ポイントぐらい<FE> かいふくすることが できる.<FD>「MPを 5 つかうぞ.<FD>「あたらしく おしえる じゅもんは<FE> マチャニじゃ.<FD>「てき 1グループの<FE> しゅびりょくを さげるぞ.<FD>「なんどでも かけることが できるが<FE> 0より さげることは できんな.<FD>「MPを 3 つかうぞ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x23717"
+    translation: "「Before that, I'll explain<FE>the spells you can use.<FD>「First, Nina.<FD> It is a fireball spell<FE>that hits one enemy.<FD>「Fire spells<FD>work on most enemies.<FE>They're effective.<FD>「Costs 2 MP.<FD>「Next, Pini.<FD> It restores the body,<FE>a healing spell.<FD>「It can heal one ally's HP<FD>by about 50 points.<FE>It restores HP.<FD>「Costs 5 MP.<FD>「The new spell is<FE>Machani.<FD>「It lowers defense of<FE>one enemy group.<FD>「You can cast it many times,<FE>but not below 0.<FD>「Costs 3 MP.<FF>"
 
   !!int 0x23851:
     original: "「あたらしく おしえる じゅもんは<FE> パスカニじゃ.<FD>「どくを きれいに する<FE> げどくの じゅもんじゃ.<FD>「MPを 2 つかうぞ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x23851"
+    translation: "「The new spell is<FE>Paskani.<FD>「It cures poison,<FE>an antidote spell.<FD>「Costs 2 MP.<FF>"
 
   !!int 0x23894:
     original: "「あたらしく おしえる じゅもんは<FE> フりオじゃ.<FD>「てき 1グループに こうかのある<FE> こおりの じゅもんじゃ.<FD>「こおりの じゅもんは<FD> みずや そのちかくにすむ てきに<FE> こうかが あるのじゃ.<FD>「MPを 4つかうぞ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x23894"
+    translation: "「The new spell is<FE>Furio.<FD>「An ice spell that affects<FE>one enemy group.<FD>「Ice spells<FD>work well on water and<FE>near-water enemies.<FD>「Costs 4 MP.<FF>"
 
   !!int 0x23905:
     original: "「あたらしく おしえる じゅもんは<FE> アマチャニじゃ.<FD>「みかた ぜんたいの<FE> しゅびりょくを あげる.<FD>「MPを 4 つかうぞ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x23905"
+    translation: "「The new spell is<FE>Amachani.<FD>「Raises defense of<FE>all allies.<FD>「Costs 4 MP.<FF>"
 
   !!int 0x23947:
     original: "「あたらしく おしえる じゅもんは<FE> ルパじゃ.<FD>「てき 1グループに こうかのある<FE> ほのおの じゅもんじゃ.<FD>「ほのおの じゅもんも<FD> たいていの てきに<FE> こうかが ある.<FD>「MPを 4 つかうぞ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x23947"
+    translation: "「The new spell is<FE>Rupa.<FD>「A fire spell that affects<FE>one enemy group.<FD>「Fire spells<FD>work on most enemies.<FE>They are effective.<FD>「Costs 4 MP.<FF>"
 
   !!int 0x239ae:
     original: "「あたらしく おしえる じゅもんは<FE> プニニじゃ.<FD>「てき 1グループを<FE> ねむらせることが できる.<FD>「MPを 3 つかうぞ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x239ae"
+    translation: "「The new spell is<FE>Punini.<FD>「It can put one enemy group<FE>to sleep.<FD>「Costs 3 MP.<FF>"
 
   !!int 0x239ef:
     original: "「あたらしく おしえる じゅもんは<FE> アルピーじゃ.<FD>「どうくつなどの なかから<FE> いりぐちまで でることが できる.<FD>「MPを 6 つかうぞ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x239ef"
+    translation: "「The new spell is<FE>Arupi.<FD>「It lets you exit caves and<FE>return to the entrance.<FD>「Costs 6 MP.<FF>"
 
   !!int 0x23a38:
     original: "「あたらしく おしえる じゅもんは<FE> ピチカピニじゃ.<FD>「みかた ひとりの HPを<FD> 80ポイントぐらい<FE> かいふくすることが できる.<FD>「MPを 10 つかうぞ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x23a38"
+    translation: "「The new spell is<FE>Pichikapini.<FD>「It can heal one ally's HP<FD>by about 80 points.<FE>It restores HP.<FD>「Costs 10 MP.<FF>"
 
   !!int 0x23a8b:
     original: "「あたらしく おしえる じゅもんは<FE> ニニャじゃ.<FD>「てきひとりに こうかのある<FE> ひのたまの じゅもんじゃ.<FD>「ニナと おなじ しゅるいじゃが<FE> ずっと つよい じゅもんじゃ.<FD>「MPを 5 つかうぞ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x23a8b"
+    translation: "「The new spell is<FE>Ninya.<FD>「A fireball spell that hits<FE>one enemy.<FD>「It's the same type as Nina,<FE>but much stronger.<FD>「Costs 5 MP.<FF>"
 
   !!int 0x23af2:
     original: "「あたらしく おしえる じゅもんは<FE> サマニじゃ.<FD>「てき 1グループの じゅもんを<FE> ふうじることが できる.<FD>「MPを 3 つかうぞ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x23af2"
+    translation: "「The new spell is<FE>Samani.<FD>「It can seal the spells of<FE>one enemy group.<FD>「Costs 3 MP.<FF>"
 
   !!int 0x23b38:
     original: "「あたらしく おしえる じゅもんは<FE> ルパニじゃ.<FD>「てき 1グループに こうかのある<FE> ほのおの じゅもんじゃ.<FD>「ルパの 2ばいぐらいの<FE> こうかが ある.<FD>「MPを 10 つかうぞ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x23b38"
+    translation: "「The new spell is<FE>Rupani.<FD>「A fire spell that affects<FE>one enemy group.<FD>「It's about twice as strong<FE>as Rupa.<FD>「Costs 10 MP.<FF>"
 
   !!int 0x23b97:
     original: "「あたらしく おしえる じゅもんは<FE> ラチャパじゃ.<FD>「てきひとりから<FE> MPを すいとる じゅもんじゃ.<FD>「MPは つかわんぞ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x23b97"
+    translation: "「The new spell is<FE>Rachapa.<FD>「It drains MP from<FE>one enemy.<FD>「It costs no MP.<FF>"
 
   !!int 0x23bd9:
     original: "「あたらしく おしえる じゅもんは<FE> クムムじゃ.<FD>「てき 1グループに こうかのある<FE> いかづちの じゅもんじゃ.<FD>「かみなりの じゅもんは<FE> たいていの てきに きくが<FD> みずにすむ どうぶつには<FE> とくに よくきくのじゃ.<FD>「MPを 15 つかうぞ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x23bd9"
+    translation: "「The new spell is<FE>Kumumu.<FD>「A lightning spell that affects<FE>one enemy group.<FD>「Lightning works on most foes,<FE>especially water creatures.<FD>「Costs 15 MP.<FF>"
 
   !!int 0x23c5a:
     original: "「あたらしく おしえる じゅもんは<FE> マカチャクじゃ.<FD>「みかた ひとりの こうげきりょくを<FE> ドドーンと あげる じゅもんじゃ.<FD>「MPを 12 つかうぞ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x23c5a"
+    translation: "「The new spell is<FE>Makachak.<FD>「It greatly boosts one ally's<FE>attack power.<FD>「Costs 12 MP.<FF>"
 
   !!int 0x23caa:
     original: "「あたらしく おしえる じゅもんは<FE> アナクじゃ.<FD>「みかた ひとりに こうかがあり<FD> そのひとに かけられた じゅもんを<FE> てきに はねかえす じゅもんじゃ.<FD>「MPを 10 つかうぞ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x23caa"
+    translation: "「The new spell is<FE>Anak.<FD>「It affects one ally and<FD>reflects spells cast on them<FE>back at the enemy.<FD>「Costs 10 MP.<FF>"
 
   !!int 0x23d09:
     original: "「あたらしく おしえる じゅもんは<FE> パチャピニじゃ.<FD>「みかた ひとりの HPを<FD> かんぜんに<FE> かいふくすることが できるぞ.<FD>「MPを 20 つかうぞ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x23d09"
+    translation: "「The new spell is<FE>Pachapini.<FD>「It can fully restore one ally's HP<FD>to maximum.<FE>Fully restores HP.<FD>「Costs 20 MP.<FF>"
 
   !!int 0x23d59:
     original: "「あたらしく おしえる じゅもんは<FE> チりフりオじゃ.<FD>「てき 1グループに こうかのある<FE> こおりの じゅもんじゃ.<FD>「フりオより うんと つよく<FD> みずに かんけいのある てきに<FE> よく きくのじゃ.<FD>「MPを 15 つかうぞ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x23d59"
+    translation: "「The new spell is<FE>Chirifurio.<FD>「An ice spell that affects<FE>one enemy group.<FD>「It's much stronger than Furio,<FD>and works well on water foes.<FE>Very effective.<FD>「Costs 15 MP.<FF>"
 
   !!int 0x23dce:
     original: "「あたらしく おしえる じゅもんは<FE> カマルパニじゃ.<FD>「てき ぜんたいに こうかのある<FE> ほのおの じゅもんじゃ.<FD>「MPを 20 つかうぞ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x23dce"
+    translation: "「The new spell is<FE>Kamarupani.<FD>「A fire spell that affects<FE>all enemies.<FD>「Costs 20 MP.<FF>"
 
   !!int 0x23e17:
     original: "「あたらしく おしえる じゅもんは<FE> アりアピニじゃ.<FD>「みかた ぜんいんの HPを<FD> かんぜんに<FE> かいふくすることが できるのじゃ.<FD>「MPを 50 つかうぞ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x23e17"
+    translation: "「The new spell is<FE>Ariapini.<FD>「It can fully restore all allies' HP<FD>to maximum.<FE>Completely heals all.<FD>「Costs 50 MP.<FF>"
 
   !!int 0x23e6a:
     original: "「あたらしく おしえる じゅもんは<FE> クムクムじゃ.<FD>「てき ぜんたいに こうかのある<FE> いかづちの じゅもんじゃ.<FD>「このじゅもんが さいきょうの<FE> こうげきじゅもん じゃな.<FD>「MPを 30 つかうぞ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x23e6a"
+    translation: "「The new spell is<FE>Kumukumu.<FD>「A lightning spell that affects<FE>all enemies.<FD>「This is the strongest<FE>attack spell.<FD>「Costs 30 MP.<FF>"
 
   !!int 0x23ed2:
     original: "「あたらしく おしえる じゅもんは<FE> カパカパラじゃ.<FD>「てき 1グループを<FE> こんらんさせる じゅもんじゃ.<FD>「なにが おこるか<FE> わしにも わからん.<FD>「MPを 10 つかうぞ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x23ed2"
+    translation: "「The new spell is<FE>Kapakapara.<FD>「It can confuse one enemy group.<FE>A confusion spell.<FD>「Even I don't know<FE>what will happen.<FD>「Costs 10 MP.<FF>"
 
   !!int 0x23f2e:
     original: "5<FF>"
     pointer_location: 0
-    translation: "TODO_0x23f2e"
+    translation: "5<FF>"
 
   !!int 0x23f30:
     original: "ト221117ヅャ<FF>"
     pointer_location: 0
-    translation: "TODO_0x23f30"
+    translation: "221117<FF>"
 
   !!int 0x23f36:
     original: "お166テ221あム1<FF>"
     pointer_location: 0
-    translation: "TODO_0x23f36"
+    translation: "166 221 1<FF>"
 
   !!int 0x23f3e:
     original: "お223ドみ5<FF>"
     pointer_location: 0
-    translation: "TODO_0x23f3e"
+    translation: "223 5<FF>"
 
   !!int 0x23f44:
     original: "トパコ190221ジト<FE>ス2231<FF>"
     pointer_location: 0
-    translation: "TODO_0x23f44"
+    translation: "190221<FE>2231<FF>"
 
   !!int 0x23f50:
     original: "ニ165ダウ<var5><var3>ア183タ191マ<FD>タしア<FE>かぱニ<var7>116<FD>117┣ド<FE>ト タ<FE>ト175ょ187かムト<FE>アポタぶ116<FE>アプド<enemy>トゅア<var5>ド<FF>"
     pointer_location: 0
-    translation: "TODO_0x23f50"
+    translation: "<var5><var3><FD>Unknown.<FE>Please wait.<FD>Check <var7><FE>Status.<FE>Enemy <enemy><FE>Unknown <var5><FF>"
 
   !!int 0x23f86:
     original: "ニ239180<FF>"
     pointer_location: 0
-    translation: "TODO_0x23f86"
+    translation: "239180<FF>"
 
   !!int 0x23f8a:
     original: "L223ト┗181<FD>イ238お<FE>ダねっ<FD>ア[FB]テ183ド185°ゲドムか187タ221ト223い223か<FE>ア223ド237かHス<enemy>アオニ<FD>ニ215!ート<FC>"
     pointer_location: 0
-    translation: "TODO_0x23f8a"
+    translation: "Mystery code<FD>Line one<FE>Line two<FD>Item <FB>??<FE>Enemy <enemy><FD>End<FC>"
 
   !!int 0x23fc2:
     original: "°239に239あ<FF>"
     pointer_location: 0
-    translation: "TODO_0x23fc2"
+    translation: "239239<FF>"
 
   !!int 0x2e52c:
     original: "「でんせつのひょう ランバじいさんの<FE> はなしは きいたかね?<FD>「このむらの きたの ウルクやまの<FE> ちょうじょうに すんでいるんだ.<FD>「もう 200さいぐらいの としだが<FE> まだ ピンピンしてるよ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x2e52c"
+    translation: "「Have you heard the tale of the legendary leopard, Grandpa Ramba?<FE>He lives on the summit of Ulk Mountain north of this village.<FD>「He's about 200 years old,<FE>but still lively.<FF>"
 
   !!int 0x2e590:
     original: "「ランバじいさんは ひょうだけど<FE> やさしい おじいさんだ.<FD>「ウルクやまでは<FE> まぼろしに きを つけろ!<FD>「ウルクやまが あまりに たかいので<FD> くうきが うすすぎて<FE> へんな まぼろしを みるんだよ.<FD>「それから いざというときの ために<FE> ロープも あったほうが いいな.<FF>"
     pointer_location: 0
-    translation: "TODO_0x2e590"
+    translation: "「Grandpa Ramba is a leopard, but a kind old man.<FE>Beware of mirages on Ulk Mountain!<FD>「Ulk Mountain is so high<FD>the air is thin, and you see<FE>strange mirages.<FD>「Also, it is good to have<FE>a rope just in case.<FF>"
 
   !!int 0x2e61d:
     original: "「ランバじいさんと カメのナンさんが<FE> しんゆうだって きいたことがある.<FD>「なんでも 3にんで ジャングルを<FE> きりひらいた らしいよ.<FD>「うん? ということは もうひとり<FE> しんゆうが いるはずだね.<FD>「そのひとは いったい だれだろう?<FF>"
     pointer_location: 0
-    translation: "TODO_0x2e61d"
+    translation: "「I heard Grandpa Ramba and Nan the turtle<FE>are close friends.<FD>「They say three people together<FE>cleared the jungle.<FD>「Hmm? That means there should be<FE>another close friend.<FD>「Who could that be?<FF>"
 
   !!int 0x2e697:
     original: "「ウルクやまには<FE> いりぐちが 3つあるんだ.<FD>「どの いりぐちから はいっても<FE> おたからが いっぱいだって.<FD>「ウルクやまには<FE> まぼろしが でるから<FD> みんな おっかながって<FD> おたからを なげすてて<FE> にげるんだってさ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x2e697"
+    translation: "「Ulk Mountain has<FE>three entrances.<FD>「No matter which entrance you use,<FE>there are lots of treasures.<FD>「But Ulk Mountain has mirages,<FE>so everyone gets scared<FD>and throws away treasure<FE>as they run away.<FF>"
 
   !!int 0x2e70a:
     original: "「わるいうわさを きいたんだ.<FE> あの ジャングルパパが<FD> ゴートだんに つかまって<FE> ころされて しまったって.<FD>「え? きみ<FE> ジャングルパパの むすこかい?<FD>「ひ ひどいこと いっちゃたな***<FE> だ だいじょうぶだよ.<FD>「ジャングルパパは そう かんたんに<FE> しんだり しないさ.<FD>「ただの うわさだろ.<FE> うわさ うわさ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x2e70a"
+    translation: "「I heard a bad rumor.<FE>That Jungle Papa was captured<FD>by the Goat Gang and killed.<FE>They say...<FD>「What? You're Jungle Papa's son?<FE>Oh, I shouldn't have said that...<FD>「It's fine, it's fine.<FE>Jungle Papa won't die so easily.<FD>「It's just a rumor.<FE>A rumor, a rumor.<FF>"
 
   !!int 0x2e7b1:
     original: "ランバじいさん<FE>「きたな! ジャングルボーイ!<FD> まっとったぞ!<FD>「いま おまえも しっとる<FE> わしの テンを ここへ よんだ.<FD>「この てがみを もって<FD> テンと いっしょに<FE> カメのしまの ナンに あいにいけ.<FD>「そしたら あいつが<FE> なんとかして くれるだろう.<FD>「ほんとうは これは わしらが<FE> やらねば ならんことなのだ.<FD>「だが としよりの わしらには<FE> もう どうすることも できん.<FD>「ジャングルパパに<FE> たのもうとも おもったが<FD> たのめんように なってしもうた.<FD>「ジャングルボーイ!! いまや<FE> おまえの わかさと ちからだけが<FD> すべての たよりじゃ.<FF>"
     pointer_location: 0x0e400
-    translation: "TODO_0x2e7b1"
+    translation: "Ramba<FE>「You came, Jungle Boy!<FD>I've been waiting!<FD>「I called my friend Ten here,<FE>whom you already know.<FD>「Take this letter and go<FD>with Ten to see Nan on Turtle Island.<FD>「He will surely help you.<FE>He can handle it.<FD>「This is something we should do,<FE>but we must not.<FD>「Yet we old folks<FE>can do nothing now.<FD>「I wanted to ask Jungle Papa,<FE>but I can no longer.<FD>「Jungle Boy! Now your youth<FE>and strength are our only hope.<FF>"
 
   !!int 0x2e8d2:
     original: "ケン<FE>「ハーッ ハーッ ハーッ<FD>「ランバじいさん!<FD> ここは くうきが うすくて<FE> たいへんだって いって<FD> とうさんは このごようを<FE> ぼくに たのみました.<FD>「ぼくで おやくに たてますか?<FF>"
     pointer_location: 0x0e429
-    translation: "TODO_0x2e8d2"
+    translation: "Ken<FE>「Huff, huff, huff.<FD>「Grandpa Ramba!<FD>The air is thin up here, so<FE>Dad asked me to do this task.<FD>「Can I be of service?<FF>"
 
   !!int 0x2e934:
     original: "ランバじいさん<FE>「おう! ケンが きたか.<FD>「おまえさん この 3にんを<FE> カメじままで おくって いけるか?<FD>「なら けっこうじゃ.<FE> さっそく とんでいって くれ.<FF>"
     pointer_location: 0x0e436
-    translation: "TODO_0x2e934"
+    translation: "Ramba<FE>「Oh! Ken is here.<FD>「Can you take these three<FE>to Turtle Island?<FD>「Good. Then hurry and fly there.<FE>Go at once.<FF>"
 
   !!int 0x2e989:
     original: "ケン<FE>「<character>さん<FD> また おあいできて うれしいです.<FD>「じゃ さっそく のってください.<FE> いきますよ.<FF>"
     pointer_location: 0x0e444
-    translation: "TODO_0x2e989"
+    translation: "Ken<FE>「<character>,<FD>I'm happy to see you again.<FD>「Please get on.<FE>Here we go.<FF>"
 
   !!int 0x2e9be:
     original: "ランバじいさん<FE>「ケン!! ボーイを おろしたら<FD> すぐに とびたって かえるんだぞ.<FD>「かめの しまは いま<FE> ゴートだんで いっぱいじゃ.<FD>「やつらの てっぽうで ねらわれたら<FE> ちょっと めんどうに なるからな.<FF>"
     pointer_location: 0x0e44a
-    translation: "TODO_0x2e9be"
+    translation: "Ramba<FE>「Ken!! After you drop the boys off,<FD>fly back immediately.<FD>「Turtle Island is now<FE>full of the Goat Gang.<FD>「If their guns target you,<FE>it'll be a bit of trouble.<FF>"
 
   !!int 0x2ea2c:
     original: "「じゃあ <character> よろしくたのむ!<FF>"
     pointer_location: 0x0e458
-    translation: "TODO_0x2ea2c"
+    translation: "「Alright, <character>, I'm counting on you!<FF>"
 
   !!int 0x2ea3c:
     original: "ランバじいさん<FE>「ごくろうじゃったな<FD>「では この てがみを もって<FD> テンと いっしょに<FE> カメのしまの ナンに あいにいけ<FD>「そしたら あいつが<FE> なんとかして くれるだろう.<FF>"
     pointer_location: 0x0e475
-    translation: "TODO_0x2ea3c"
+    translation: "Ramba<FE>「Good work.<FD>「Take this letter and go<FD>with Ten to see Nan on Turtle Island.<FD>「Then he will help you.<FE>He should handle it.<FF>"
 
   !!int 0x2ea97:
     original: "ランバじいさん<FD>「うーむ どうしたんじゃ?<FE> また ケンを よぶかね?<FC>"
     pointer_location: 0x0e47b
-    translation: "TODO_0x2ea97"
+    translation: "Ramba<FD>「Hmm, what's the matter?<FE>Do you want to call Ken again?<FC>"
 
   !!int 0x2eabb:
     original: "「かれに のせていって もらって<FE> がんばってくれ.<FD>「おまえさんだけが<FE> たよりじゃからな.<FF>"
     pointer_location: 0x0e484
-    translation: "TODO_0x2eabb"
+    translation: "「Have him take you and<FE>do your best.<FD>「You're our only hope.<FE>We rely on you.<FF>"
 
   !!int 0x2eaeb:
     original: "「そうか***<FE> とにかく がんばってくれ.<FD>「おまえさんだけが<FE> たよりじゃからな.<FF>"
     pointer_location: 0x0e489
-    translation: "TODO_0x2eaeb"
+    translation: "「I see...<FE>Just do your best.<FD>「You're our only hope.<FE>We rely on you.<FF>"
 
   !!int 0x2eb17:
     original: "ナン<FD>「すまん! ここの カメたちは<FE> みんな むくち なんじゃ.<FD>「それに ゴートだんが<FE> ウロウロ しとるからのう.<FD>「よそものとは はなすなと<FE> きつく いって あるんじゃよ.<FD>「てがみは うけとったぞ.<FE> ここから きたに みえるしま.<FD> あれが カーマックのすむ<FE> サークラルとうじゃ.<FD>「そらから いこうとして<FD> てっぽうで うちおとされても<FE> しょうがない.<FD>「でも うみから じゃったら<FE> いけるじゃろう.<FD>「そこで ちょっと まっておいで<FE> わたれるように してあげよう.<FD>「カーマックは にんげんの<FE> かわを かぶった あくまじゃ.<FD>「カーマックの やぼうを うちくだき<FD> ジャングルに へいわを<FE> とりもどしてくれ!<FD>「ああ*** あのじけんが なければ<FE> あいつも ああは ならんかった.<FD>「じゃが くやんでも しょうがない.<FE> あとのことは たのんだぞ.<FF>"
     pointer_location: 0x0e4a4
-    translation: "TODO_0x2eb17"
+    translation: "Nan<FD>「Sorry! The turtles here<FE>are all silent.<FD>「And the Goat Gang is<FE>roaming around.<FD>「I told them strictly<FE>not to talk to outsiders.<FD>「I received your letter.<FE>The island you can see north of here.<FD>That is Sarkral Island,<FE>where Carmack lives.<FD>「If you try to go by air,<FD>and get shot down, it can't be helped.<FE>That's the risk.<FD>「But by sea<FE>you should be able to go.<FD>「So wait a moment and I'll<FE>make it possible to cross.<FD>「Carmack is a demon wearing<FE>human skin.<FD>「Crush Carmack's ambitions<FD>and bring peace back to the jungle!<FE>Restore it.<FD>「Ah... if not for that incident,<FE>he wouldn't have become this way.<FD>「But regret won't help.<FE>I'm counting on you.<FF>"
 
   !!int 0x2ec9e:
     original: "ナン<FD>「だれの しょうかいで<FE> ここに こられたのかな?<FD>「なにか てがみとか<FE> おもちでは ないかね?<FF>"
     pointer_location: 0x0e4a9
-    translation: "TODO_0x2ec9e"
+    translation: "Nan<FD>「Who sent you here?<FE>Do you have a letter with you?<FF>"
 
   !!int 0x2ecd3:
     original: "「ぼくたち カーマックの やりかたに<FE> はんたいして います.<FD>「いまは ちかに もぐって<FE> ぼくたちの せいりょくを<FD> ひろげようと している<FE> ところ なんですよ.<FF>"
     pointer_location: 0x0ea0b
-    translation: "TODO_0x2ecd3"
+    translation: "「We oppose Carmack's ways.<FE>For now we're underground<FD>and trying to expand our forces.<FE>That's what we're doing.<FF>"
 
   !!int 0x2ed28:
     original: "「ここは ゴートだんの<FE> ひみつの くうこうなのだ.<FD>「ひみつを しられたからには<FE> しんで もらおう.<FF>"
     pointer_location: 0x0ef3f
-    translation: "TODO_0x2ed28"
+    translation: "「This is the Goat Gang's<FE>secret airport.<FD>「Now that you know the secret,<FE>you must die.<FF>"
 
   !!int 0x2ed5d:
     original: "「ここは ゴートだんの<FE> ひみつの みなとさ.<FD>「ひみつを しった やつは<FE> いきては かえれないのさ.<FF>"
     pointer_location: 0x0ef37
-    translation: "TODO_0x2ed5d"
+    translation: "「This is the Goat Gang's<FE>secret port.<FD>「Anyone who knows the secret<FE>won't leave alive.<FF>"
 
   !!int 0x2ed92:
     original: "パルカ*ゴート<FE>「ここは とおさん!!<FF>"
     pointer_location: 0x0ef4c
-    translation: "TODO_0x2ed92"
+    translation: "Paluka*Goat<FE>「You shall not pass!!<FF>"
 
   !!int 0x2eda6:
     original: "クイール*ゴート<FE>「とおさねえぞ!<FF>"
     pointer_location: 0x0ef59
-    translation: "TODO_0x2eda6"
+    translation: "Quill*Goat<FE>「I won't let you through!<FF>"
 
   !!int 0x2edb8:
     original: "パンパ*ゴート<FE>「ここは とおせんぼじゃ.<FD>「なんか わしら<FE> こればっかり いっとるなあ.<FF>"
     pointer_location: 0x0ef66
-    translation: "TODO_0x2edb8"
+    translation: "Panpa*Goat<FE>「No passing here.<FD>「Feels like we always say this.<FF>"
 
   !!int 0x2ede7:
     original: "かまわに*ゴート<FE>「もう いいよ とおっても.<FF>"
     pointer_location: 0x0ef78
-    translation: "TODO_0x2ede7"
+    translation: "Kamawani*Goat<FE>「Alright, you can pass.<FF>"
 
   !!int 0x2edff:
     original: "「ジャングルボーイ!<FE> たすけに きてくれたのか!<FF>"
     pointer_location: 0
-    translation: "TODO_0x2edff"
+    translation: "「Jungle Boy!<FE>You came to help!<FF>"
 
   !!int 0x2ee19:
     original: "「ありがとう ボーイ!<FD> たいちょうは べつの ところに<FE> とじこめられて いるらしいぞ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x2ee19"
+    translation: "「Thanks, Boy!<FD>The captain seems locked up<FE>somewhere else.<FF>"
 
   !!int 0x2ee47:
     original: "「たいちょうは もっと おくの<FE> へやに つれて いかれたよ.<FD>「この ろうかを まっすぐ<FE> すすんで いった ところだ.<FD>「ところで ケガは ないかい?<FE> あったら みてあげるよ.<FC>"
     pointer_location: 0
-    translation: "TODO_0x2ee47"
+    translation: "「The captain was taken to a deeper room.<FE>Go straight down this corridor.<FD>「By the way, are you hurt?<FE>If so, I'll check you.<FC>"
 
   !!int 0x2eea3:
     original: "「きみたちか? こんなところまで<FE> たいしたもんだ.<FF>"
     pointer_location: 0x1b433
-    translation: "TODO_0x2eea3"
+    translation: "「You guys? Not bad to come this far.<FE>Impressive.<FF>"
 
   !!int 0x2eebe:
     original: "「おお! かわいそうに!!<FE> きぜつしている***<FD>「いま いいものをあげよう.<FF>"
     pointer_location: 0x1b449
-    translation: "TODO_0x2eebe"
+    translation: "「Oh! Poor thing!!<FE>You're fainted...<FD>「Let me give you something good.<FF>"
 
   !!int 0x2eee7:
     original: "たいちょうは いのちのきのみを<FE><var1>に のませた.<FD><var1>は げんきに なった!<FF>"
     pointer_location: 0x1b454
-    translation: "TODO_0x2eee7"
+    translation: "The captain gave a Life Nut<FE>to <var1>.<FD><var1> recovered!<FF>"
 
   !!int 0x2ef0d:
     original: "ミオ<FE>「おとうさん!<FD>「わたし マりアの むすめです!<FE> ミオです!<FF>"
     pointer_location: 0x1b4bc
-    translation: "TODO_0x2ef0d"
+    translation: "Mio<FE>「Father!<FD>「I'm Maria's daughter!<FE>I'm Mio!<FF>"
 
   !!int 0x2ef30:
     original: "たいちょう<FE>「いま なんて いった!?<FD>「マりア! わたしの あいするひと!<FD> きみは マりアのむすめ.<FD> そして わたしの むすめなのか?<FD>「おお! なんてことだ!<FD> こんなところで むすめに<FE> あえるなんて!<FF>"
     pointer_location: 0x1b4ca
-    translation: "TODO_0x2ef30"
+    translation: "Captain<FE>「What did you say!?<FD>「Maria! My beloved!<FD>You're Maria's daughter,<FD>and my daughter too?<FD>「Oh! What a miracle!<FD>To meet my daughter here!<FF>"
 
   !!int 0x2ef9b:
     original: "サスケ<FE>「アニキ! いきましょうぜ.<FD>「せっかく おやこが あえたんだ.<FE> ここは そっと しておいて<FD> カーマックは オイラたちだけで<FE> やっつけましょう.<FF>"
     pointer_location: 0x10feb
-    translation: "TODO_0x2ef9b"
+    translation: "Sasuke<FE>「Boss! Let's go.<FD>「They finally met as parent and child.<FE>Let's leave them be.<FD>We'll handle Carmack ourselves.<FE>Let's do it.<FF>"
 
   !!int 0x2efeb:
     original: "ミオ<FE>「おとうさん!<FF>"
     pointer_location: 0x1b4e4
-    translation: "TODO_0x2efeb"
+    translation: "Mio<FE>「Father!<FF>"
 
   !!int 0x2eff6:
     original: "たいちょう<FE>「ミオ!<FF>"
     pointer_location: 0x1b4ea
-    translation: "TODO_0x2eff6"
+    translation: "Captain<FE>「Mio!<FF>"
 
   !!int 0x2f001:
     original: "たいちょう<FE>「きをつけて いきなさい.<FF>"
     pointer_location: 0
-    translation: "TODO_0x2f001"
+    translation: "Captain<FE>「Be careful out there.<FF>"
 
   !!int 0x2f015:
     original: "ミオ<FE>「<character>! まって!<FD>「あんたたちだけで カーマックが<FE> たおせると おもってんの?<FD>「しんぱいしないで!<FE> あたしも いくわよ!<FD>「おとこたちだけで いこうなんて<FD> そんな カッコいいこと<FE> させないわよ.<FF>"
     pointer_location: 0x1b4fd
-    translation: "TODO_0x2f015"
+    translation: "Mio<FE>「<character>! Wait!<FD>「You think you can beat Carmack<FE>all by yourselves?<FD>「Don't worry!<FE>I'm coming too!<FD>「I'm not letting you guys go alone<FD>and be all heroic!<FF>"
 
   !!int 0x2f07f:
     original: "ジャングルパパ<FE>「ボーイ!! きたのか!?<FD>「わたしは たったいま すきを みて<FE> にげだして きたところだ.<FD>「なに?<FE> しんだと おもっていたって?<FD>「ハッハッハ!<FE> わたしは ジャングルパパだ.<FD>「かんたんに やられは せんよ.<FD>「じつは ゴートだんの ほんきょちが<FE> どこにあるか わからなかったので<FD> わざと つかまえられて<FE> ここまで きたのだ.<FD>「おまえも よく ここまで<FE> たどりついたな.<FF>"
     pointer_location: 0x0f8ee
-    translation: "TODO_0x2f07f"
+    translation: "Jungle Papa<FE>「Boy!! You're here!?<FD>「I just escaped while I could.<FE>I slipped away.<FD>「What? You thought I was dead?<FD>「Ha ha ha!<FE>I'm Jungle Papa.<FD>「I won't go down so easily.<FD>「I let myself be captured on purpose<FE>to find the Goat Gang's base.<FD>That's why I came here.<FD>「You made it here too.<FE>Well done.<FF>"
 
   !!int 0x2f14b:
     original: "パパ<FE>「ん? きみが ミオくんか.<FD>「ボーイが せわに なったようだね.<FD>「きみの パパも このなかに<FE> つかまっているはずだ.<FD>「わたしが ここで みはっているから<FE> <character> たすけてきなさい.<FF>"
     pointer_location: 0x0f92b
-    translation: "TODO_0x2f14b"
+    translation: "Papa<FE>「Hmm? You must be Mio.<FD>「Boy has been looking after you.<FD>「Your father should be trapped in here.<FE>I'll keep watch here.<FD><character>, go rescue him.<FF>"
 
   !!int 0x2f1ac:
     original: "「さて カーマックは どこだろう?<FE> てわけして さがしてみよう.<FD>「わたしは こっちへ いく.<FE> ボーイは そっちへ いけ.<FF>"
     pointer_location: 0x0f8fa
-    translation: "TODO_0x2f1ac"
+    translation: "「Now, where is Carmack?<FE>Let's split up and search.<FD>「I'll go this way.<FE>Boy, you go that way.<FF>"
 
   !!int 0x2f1ec:
     original: "ジャングルパパ<FE>「いたか? ボーイ.<FD>「まだ みつからんか.<FF>"
     pointer_location: 0
-    translation: "TODO_0x2f1ec"
+    translation: "Jungle Papa<FE>「Did you find him, Boy?<FD>「Not yet?<FF>"
 
   !!int 0x2f20b:
     original: "アピーニ<FE>「ホホホホホ!<FD>「おどろいた? わたしたちは<FE> 3つごだったのよ.<FD>「わたしが アピーニ.<FF>"
     pointer_location: 0x0d68d
-    translation: "TODO_0x2f20b"
+    translation: "Apini<FE>「Hohoho!<FD>「Surprised? We are triplets.<FE>「I'm Apini.<FF>"
 
   !!int 0x2f23e:
     original: "アンカース<FE>「わたしが アンカースよ.<FF>"
     pointer_location: 0x0efa3
-    translation: "TODO_0x2f23e"
+    translation: "Ankers<FE>「I'm Ankers.<FF>"
 
   !!int 0x2f252:
     original: "アンカール<FE>「そして わたしが アンカールよ.<FD>「3にん まとめての こうげき.<FE> うけてみるが いいわ!<FF>"
     pointer_location: 0x0efb1
-    translation: "TODO_0x2f252"
+    translation: "Ankar<FE>「And I'm Ankar.<FD>「Our combined attack.<FE>Try to take it!<FF>"
 
   !!int 0x2f288:
     original: "アピーニ<FE>「こりずに またきたの?<FF>"
     pointer_location: 0x0efd1
-    translation: "TODO_0x2f288"
+    translation: "Apini<FE>「You came again without learning?<FF>"
 
   !!int 0x2f29a:
     original: "アピーニ<FE>「パパ! にげて!<FF>"
     pointer_location: 0x0f3d9
-    translation: "TODO_0x2f29a"
+    translation: "Apini<FE>「Papa! Run!<FF>"
 
   !!int 0x2f2a9:
     original: "アンカース<FE>「つよいわね あんたたち!<FF>"
     pointer_location: 0x0f3e5
-    translation: "TODO_0x2f2a9"
+    translation: "Ankers<FE>「You're strong!<FF>"
 
   !!int 0x2f2bd:
     original: "アンカール<FE>「パパは その とびらの むこうよ.<FD>「あんたたち なんか パパに<FE> やられちゃえば いいんだわ.<FF>"
     pointer_location: 0x0f3f1
-    translation: "TODO_0x2f2bd"
+    translation: "Ankar<FE>「Papa is beyond that door.<FD>「I hope Papa beats you.<FE>You deserve it.<FF>"
 
   !!int 0x2f2f5:
     original: "カーマック<FE>「ボーイ! ついに ここまできたか.<FD>「わたしが ゴートだんの しゅりょう<FE> カーマック*ゴートさまじゃ.<FD> むすめの かたき!<FE> わが ちからを うけてみよ.<FF>"
     pointer_location: 0x0efde
-    translation: "TODO_0x2f2f5"
+    translation: "Carmack<FE>「Boy! You finally made it.<FD>「I am Carmack*Goat, leader<FE>of the Goat Gang!<FD>For my daughter's revenge!<FE>Take my power!<FF>"
 
   !!int 0x2f34c:
     original: "カーマック<FE>「ひるまずに やってきたか ボーイ<FD>「しかし わしの ほんとうのすがたに<FE> かつことが できるかな?<FF>"
     pointer_location: 0x0efe4
-    translation: "TODO_0x2f34c"
+    translation: "Carmack<FE>「You came without fear, Boy.<FD>「But can you defeat my true form?<FE>Can you?<FF>"
 
   !!int 0x2f385:
     original: "カーマック<FE>「つよい! つよいな ボーイ!<FD>「しかし わしの ほんとうのすがたに<FE> かつことが できるかな?<FF>"
     pointer_location: 0x0efed
-    translation: "TODO_0x2f385"
+    translation: "Carmack<FE>「Strong! You're strong, Boy!<FD>「But can you defeat my true form?<FE>Can you?<FF>"
 
   !!int 0x2f3bc:
     original: "カーマック<FD>「これが わたしの<FE> ほんとうの すがただ.<FD>「わたしは この 2つの すがたを<FE> つかいわけて<FD> にんげんどもも どうぶつたちも<FE> あやつって いたのだ.<FD>「わたしは 137ねん いきてきた.<FD> 80ねんまえ<FE> わたしは やぎの おうさまだった.<FD>「わたしは この サークラルとうと<FE> いまの カメのしまと<FD> このあたり いったいを<FE> おさめていた.<FD>「しかし このしまで<FE> あの いまわしい きんが<FD> とれはじめると<FE> すべてが おわって しまったのだ.<FD>「わたしの ぶかたちは<FE> あるものは にんげんに つかまり<FD> きんを はこぶ どれいになり<FE> あるものは ここを にげだし<FD> ながれ さすらう たみと<FE> なって しまった.<FD>「わたしの あいする ものたちは<FE> いなくなって しまった.<FD>「わたしの あいする このしまは<FE> あれほうだいに なってしまった.<FD>「そのとき わたしは きめたのだ.<FD> ぜったいに にんげんに<FE> ふくしゅう してやると.<FD>「そのためには つよい ちからを<FE> もたなくては だめだと.<FD>「わたしは じぶんの まほうを<FE> きたえぬき<FD> ゴートだんを つくり<FD> どうぶつたちと<FE> にんげんども さえ しはいした.<FD>「わたしのなは カーマック<FE> すべてを しはいするものだ.<FD>「わたしの もくてきは<FE> もうすぐ かなう.<FD>「じゃまするやつは ゆるさん!<FF>"
     pointer_location: 0x0f040
-    translation: "TODO_0x2f3bc"
+    translation: "Carmack<FD>「This is my<FE>true form.<FD>「I used these two forms<FE>to manipulate humans and animals.<FD>「I have lived 137 years.<FD>Eighty years ago<FE>I was the goat king.<FD>「I ruled Sarkral Island<FE>and what is now Turtle Island,<FD>this whole region.<FE>I ruled it all.<FD>「But when that cursed gold<FE>began to be mined on this island,<FD>everything ended.<FE>All was lost.<FD>「Some of my followers were caught by humans,<FE>enslaved to carry gold,<FD>others fled this place and<FE>became wandering tribes.<FD>「Those I loved<FE>disappeared.<FD>「This island I loved<FE>was left in ruin.<FD>「Then I decided.<FD>I would take revenge on humans.<FE>Without fail.<FD>「To do that, I needed<FE>great power.<FD>「I honed my magic<FE>to the limit,<FD>built the Goat Gang,<FD>and ruled animals<FE>and even humans.<FD>「My name is Carmack,<FE>ruler of all.<FD>「My goal will soon<FE>be fulfilled.<FD>「I will not forgive those who interfere!<FF>"
 
   !!int 0x2f610:
     original: "「じつは きょうりゅうじまの<FE> きょうりゅうたちは<FD> たいまつさえ もってれば<FE> へいきなんでさ.<FD>「でも だんながたくらい<FE> おつよければ<FD> かんけい ないでげしょう.<FD>「まあ おきをつけなすって.<FF>"
     pointer_location: 0x0f3b5
-    translation: "TODO_0x2f610"
+    translation: "「Actually, the dinosaurs on Dino Island<FE>are fine as long as you have a torch.<FD>「But if you're that strong,<FE>it probably won't matter.<FD>「Well then, take care.<FF>"
 
   !!int 0x2f675:
     original: "カーマック<FE>「うおーーっ!!<FF>"
     pointer_location: 0
-    translation: "TODO_0x2f675"
+    translation: "Carmack<FE>「Uooo!!<FF>"
 
   !!int 0x2f684:
     original: "「す すごい!!<FF>"
     pointer_location: 0
-    translation: "TODO_0x2f684"
+    translation: "「A-amazing!!<FF>"
 
   !!int 0x2f68d:
     original: "「すさまじい つよさだな ボーイ!<FF>"
     pointer_location: 0
-    translation: "TODO_0x2f68d"
+    translation: "「Such incredible strength, Boy!<FF>"
 
   !!int 0x2f69f:
     original: "「わたしが かなわなかった<FE> おまえの その はてしないちからは<FD> いったい どこから きているのだ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x2f69f"
+    translation: "「The power I couldn't overcome...<FE>where does your endless strength<FD>come from?<FF>"
 
   !!int 0x2f6d3:
     original: "「ジャングルを あいする こころか?<FF>"
     pointer_location: 0
-    translation: "TODO_0x2f6d3"
+    translation: "「Is it a heart that loves the jungle?<FF>"
 
   !!int 0x2f6e6:
     original: "「ひとや どうぶつたちを<FE> いつくしむ こころか?<FF>"
     pointer_location: 0
-    translation: "TODO_0x2f6e6"
+    translation: "「A heart that cherishes people and animals?<FE>Is that it?<FF>"
 
   !!int 0x2f700:
     original: "「それとも<FE> さらに おおいなる<FD> すべての ものへの<FE> つよい あいか?<FF>"
     pointer_location: 0
-    translation: "TODO_0x2f700"
+    translation: "「Or an even greater<FE>love for all things?<FF>"
 
   !!int 0x2f726:
     original: "「まけたよ ジャングルボーイ<FE> <character>!!<FD>「おまえは こころに<FE> つばさを もっている.<FD>「じゆうを もとめ ひとを あいする<FE> つよい つばさだ.<FD>「ほんとうに つよいこころは<FE> うらみの ような<FD> うしろむきの かんがえの ものには<FE> えることが できないのだな.<FD>「わたしも ひとを うらむ こころは<FE> すてて しまうことに しよう.<FD>「こころに つばさを ひろげ<FE> ほんとうに つよく そだてて<FD> みんなの ために<FE> はたらくことに するよ.<FF>"
     pointer_location: 0x0f4dc
-    translation: "TODO_0x2f726"
+    translation: "「I lost, Jungle Boy<FE><character>!!<FD>「You have wings in your heart.<FE>Strong wings that seek freedom<FD>and love people.<FE>They are strong.<FD>「A truly strong heart<FE>cannot be born from<FD>backward thoughts like hatred.<FE>It cannot.<FD>「I will cast aside my hate.<FE>I will let it go.<FD>「I'll spread the wings of my heart,<FE>grow truly strong, and work<FD>for everyone.<FE>I will.<FF>"
 
   !!int 0x2f807:
     original: "「おお!! かわいそうに!<FD> きみの ともだちが<FE> きぜつして しまっている.<FD>「わたしの せいだ.<FE> わたしが なおして あげよう.<FF>"
     pointer_location: 0x0f4ed
-    translation: "TODO_0x2f807"
+    translation: "「Oh!! Poor thing!<FD>Your friend has<FE>fainted.<FD>「It's my fault.<FE>I'll heal them.<FF>"
 
   !!int 0x2f84b:
     original: "パパ<FE>「よくやったぞ ボーイ!<FD>「これで おまえも りっぱな<FE> ジャングルの まもりてだ!!<FD>「ああ おまえの このすがた<FD> おまえの ママに<FE> みせて やりたかったなあ!!<FF>"
     pointer_location: 0
-    translation: "TODO_0x2f84b"
+    translation: "Papa<FE>「Well done, Boy!<FD>「Now you are a fine<FE>guardian of the jungle!!<FD>「Ah, I wish your mother<FD>could have seen you like this!!<FF>"
 
   !!int 0x2f8a3:
     original: "マクドフ<FE>「がんばったね <character>くん.<FD>「ミオの ことも<FE> ほんとうに ごくろうだった.<FD>「この かんしゃの きもち***<FE> なんといって いいやら.<FF>"
     pointer_location: 0
-    translation: "TODO_0x2f8a3"
+    translation: "McDuff<FE>「You did great, <character>.<FD>「You worked so hard<FE>for Mio too.<FD>「I can't express<FE>my gratitude...<FF>"
 
   !!int 0x2f8ed:
     original: "サスケ<FE>「やったね! アニキ!!<FD>「アニキに ついてきて<FE> おいらも はなが たかいや.<FD>「さあ じゃあ おいらも<FD> りラが まってる ジャングルへ<FE> はやく かーえろっと!<FF>"
     pointer_location: 0
-    translation: "TODO_0x2f8ed"
+    translation: "Sasuke<FE>「We did it, boss!!<FD>「Following you, I'm proud.<FE>My nose is high.<FD>「Now let's hurry back<FD>to the jungle where Rira waits!<FE>Let's go!<FF>"
 
   !!int 0x2f945:
     original: "ミオ<FE>「ありがとう <character>くん!<FD>「みんな あなたが<FE> がんばってくれた おかげよ.<FD>「また どこかで あいたいね!<FD> そして また こんな ぼうけんを<FE> <character>くんと したいな!<FF>"
     pointer_location: 0
-    translation: "TODO_0x2f945"
+    translation: "Mio<FE>「Thank you, <character>!<FD>「Everyone is safe thanks to you.<FE>It's all because you tried.<FD>「Let's meet again someday!<FD>And go on another adventure<FE>with you, <character>!<FF>"
 
   !!int 0x2f99c:
     original: "ツチカ<FE>「わたしは また もとのなまえ<FD> やぎの ツチカに もどります.<FD>「こんどは このまほうや じゅもんを<FD> ジャングルの ために<FE> やくだてて いきますよ.<FD>「ジャングルボーイ!<FE> きみの ことは わすれませんよ!!<FF>"
     pointer_location: 0
-    translation: "TODO_0x2f99c"
+    translation: "Tsuchika<FE>「I'll return to my old name,<FD>Tsuchika the goat.<FD>「This time I'll use my magic<FD>for the jungle's sake.<FE>For good.<FD>「Jungle Boy!<FE>I will never forget you!!<FF>"
 
   !!int 0x2fa0c:
     original: "テン<FE>「よくやった <character>!<FD> ジャングルに へいわが もどって<FE> よかったな.<FD>「おいわいに わたしが みんなを<FE> つれて かえって あげよう.<FD>「さあ のってくれ.<FF>"
     pointer_location: 0x0e57d
-    translation: "TODO_0x2fa0c"
+    translation: "Ten<FE>「Well done, <character>!<FD>Peace has returned to the jungle.<FE>I'm glad.<FD>「To celebrate, I'll take everyone<FE>back home.<FD>「Come on, hop on.<FF>"
 
   !!int 0x38000:
     original: "「!? どこから はいって<FE> きたのかね きみたち?<FD>「まさか ひょうりゅうしてきた<FE> わけじゃ ないだろうな.<FF>"
     pointer_location: 0x0da5a
-    translation: "TODO_0x38000"
+    translation: "「!? Where did you come in from?<FE>You didn't drift here, did you?<FD>「Surely not.<FF>"
 
   !!int 0x38038:
     original: "「ジャングルいきの ふねは<FD> ゆうれいせんの おかげで<FE> ずっと けっこうしたままなんだよ.<FF>"
     pointer_location: 0x0e0f9
-    translation: "TODO_0x38038"
+    translation: "「The jungle-bound ship is still<FD>suspended because of the ghost ship.<FE>It's been closed for a while.<FF>"
 
   !!int 0x38067:
     original: "「いらっしゃいませ.<FD> ジャングルいきの ふねは<FE> まもなく しゅっこうです.<FD>「きっぷを おかいもとめください.<FF>"
     pointer_location: 0
-    translation: "TODO_0x38067"
+    translation: "「Welcome.<FD>The jungle-bound ship<FE>will depart soon.<FD>「Please buy your ticket.<FF>"
 
   !!int 0x380a1:
     original: "「あら まあ!? いったい どこから<FE> はいってきたの!?<FF>"
     pointer_location: 0x0e7cd
-    translation: "TODO_0x380a1"
+    translation: "「Oh my!? Where did you<FE>come in from!?<FF>"
 
   !!int 0x380bf:
     original: "「ふねは ずっと でていないのよ.<FD> ジャングルに いくのなら<FE> ほかのほうほうを つかわないと.<FF>"
     pointer_location: 0x0e7d2
-    translation: "TODO_0x380bf"
+    translation: "「The ship hasn't sailed in ages.<FD>If you want to go to the jungle,<FE>you'll need another way.<FF>"
 
   !!int 0x380f1:
     original: "「こんなに りっぱな<FE> とうだいが あるというのに<FD> ふねが うごけんかったら<FE> なんにもならんな.<FD>「のう そうおもわんか おわかいの.<FF>"
     pointer_location: 0
-    translation: "TODO_0x380f1"
+    translation: "「Even with such a fine<FE>lighthouse here,<FD>if ships don't move<FE>it's all for nothing.<FD>「Don't you agree, young one?<FF>"
 
   !!int 0x38137:
     original: "「ここからの うみの ながめって<FE> とっても すてき***.<FD>「ああ もし あなたが<FE> ここに いてくれたら***.<FD>「***うるさいわね!<FD> せっかく ひとが ロマンチックな<FE> きぶんに ひたってるっていうのに.<FD>「え? ふね!? しらないわよ!<FD> でも たしか ジャングルまで<FE> ひこうきが とぶことに<FD> なったらしいわよ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x38137"
+    translation: "「The ocean view from here<FE>is so beautiful...<FD>「Ah, if only you were<FE>here with me...<FD>「...You're so noisy!<FD>I'm trying to be romantic.<FE>Let me enjoy the mood.<FD>「Huh? A ship!? I don't know!<FD>But I heard that a plane<FE>will fly to the jungle soon.<FD>Seems so.<FF>"
 
   !!int 0x381dc:
     original: "「こちらは こんいんとどけの<FE> まどぐちで ございます.<FF>"
     pointer_location: 0x0e830
-    translation: "TODO_0x381dc"
+    translation: "「This is the marriage registration<FE>counter.<FF>"
 
   !!int 0x381f9:
     original: "「こちらは りこんとどけの<FE> まどぐちで ございます.<FF>"
     pointer_location: 0x0e835
-    translation: "TODO_0x381f9"
+    translation: "「This is the divorce registration<FE>counter.<FF>"
 
   !!int 0x38215:
     original: "「わたしたちは ジャングルの<FE> ちょうさたい.<FD>「ゴートだん という そしきが<FD> ジャングルで あくじを<FE> はたらいて いるらしい.<FD>「われわれは その ちょうさのために<FE> そしきされたのだ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x38215"
+    translation: "「We are the jungle investigation team.<FE>「A group called the Goat Gang<FD>seems to be committing crimes<FE>in the jungle.<FD>「We were formed to investigate.<FE>That's why we're here.<FF>"
 
   !!int 0x38276:
     original: "たいちょう<FD>「ほう!? きみたちは<FE> ジャングルから やってきたのか.<FD>「***なんだと!?<FD> その りラっていう<FE> おさるの おんなのこは<FD> ゴートだんに ゆうかいされたのか!<FD> それは なんとかしないと***.<FD>「***わかった.<FD> では そのりラって こを<FE> ジャングルに つれていく やくめは<FD> よろこんで ひきうけよう.<FF>"
     pointer_location: 0x0e119
-    translation: "TODO_0x38276"
+    translation: "Captain<FD>「Oh!? You came from the jungle?<FE>From the jungle?<FD>「What!?<FD>The monkey girl named Rira<FE>was kidnapped by the Goat Gang!?<FD>We have to do something...<FD>「...Alright.<FD>I'll gladly take Rira<FE>back to the jungle.<FD>I'll do it.<FF>"
 
   !!int 0x3831c:
     original: "「あまり むちゃを しないでくれよ.<FF>"
     pointer_location: 0x0e125
-    translation: "TODO_0x3831c"
+    translation: "「Don't push yourself too hard.<FF>"
 
   !!int 0x3832f:
     original: "「おお たすけだせたのか.<FE> よかった よかった.<FD>「きみが りラか.<FE> たいへんだったね.<FD>「さあ ジャングルボーイ こんどは<FE> サスケくんを たすけてあげてくれ.<FD>「もう しんぱいは いらないよ.<FD> わたしたちが ジャングルまで<FE> つれて かえって あげるからね.<FF>"
     pointer_location: 0x0e136
-    translation: "TODO_0x3832f"
+    translation: "「Oh, you rescued her.<FE>Good, good.<FD>「So you're Rira.<FE>That was hard, wasn't it.<FD>「Jungle Boy, now please<FE>go save Sasuke.<FD>「Don't worry anymore.<FD>We'll take you back<FE>to the jungle.<FF>"
 
   !!int 0x383b6:
     original: "「つぎの でんしゃは サーカスが<FE> おわったら はっしゃします.<FF>"
     pointer_location: 0x01de0
-    translation: "TODO_0x383b6"
+    translation: "「The next train departs<FE>after the circus ends.<FF>"
 
   !!int 0x383d7:
     original: "「サーカス もう みた?<FD> おサルさんが<FE> すごい にんきなんだ!<FD>「ぼくなんか もう<FE> 5かいも みちゃった!<FF>"
     pointer_location: 0
-    translation: "TODO_0x383d7"
+    translation: "「Have you seen the circus?<FD>The monkeys are super popular!<FE>「I've already seen it<FE>five times!<FF>"
 
   !!int 0x38410:
     original: "「ひーん! もらしちゃったよー!<FF>"
     pointer_location: 0
-    translation: "TODO_0x38410"
+    translation: "「Waa! I wet myself!<FF>"
 
   !!int 0x38421:
     original: "「うちの こったら!<FD> いまから デパートに いくって<FE> いうのに***<FF>"
     pointer_location: 0
-    translation: "TODO_0x38421"
+    translation: "「My kid!<FD>We're going to the department store<FE>right now...<FF>"
 
   !!int 0x38446:
     original: "「おっ! なんだ てめえら!<FE> おれたちは ぎんこうごうとうだぞ!<FF>"
     pointer_location: 0
-    translation: "TODO_0x38446"
+    translation: "「Hey! Who are you!?<FE>We're bank robbers!<FF>"
 
   !!int 0x38468:
     original: "「ガキが でしゃばると ケガするぜ!<FE> さっさと かねを だしな!!<FF>"
     pointer_location: 0
-    translation: "TODO_0x38468"
+    translation: "「Kid, stay out or you'll get hurt!<FE>Hand over the money!!<FF>"
 
   !!int 0x3848b:
     original: "「こら ぼうず!<FD> おれが なくこも だまる<FE> ぎんこうごうとうの ボスさまだ!<FD>「せいぎの みかたの<FE> まねごとなら おうちで やんな!<FD>「どうしても やるのか?<FD> では おじさんたちが<FE> こどもが おとなに さからうと<FD> どうなるか おしえてやらあ!!<FF>"
     pointer_location: 0x0eee5
-    translation: "TODO_0x3848b"
+    translation: "「Hey, brat!<FD>I'm the boss of the bank robbers!<FE>「If you want to play hero, do it at home!<FD>「Do you really want to fight?<FD>Then we'll show you<FE>what happens when kids defy adults!!<FF>"
 
   !!int 0x3850c:
     original: "「お おい まった!<FE> かんべんしてくれよ!<FD>「わかった わるかったよ もう<FE> ごうとうなんて しねえからよ!<FF>"
     pointer_location: 0x0f2cb
-    translation: "TODO_0x3850c"
+    translation: "「W-wait!<FE>Please forgive us!<FD>「Alright, alright, we were wrong.<FE>We won't rob again!<FF>"
 
   !!int 0x38544:
     original: "「あ ありがとう! きみたちの<FE> おかげで たすかったよ!<FD>「おれいに このおかねを<FE> うけとってくれ!<FD>「いやー ほんとに なんて<FE> ゆうかんな しょうねんたちなんだ!<FF>"
     pointer_location: 0x0e171
-    translation: "TODO_0x38544"
+    translation: "「Th-thank you! You saved us!<FE>We owe you.<FD>「As thanks, take this money!<FE>「Wow, you're truly brave kids!<FF>"
 
   !!int 0x3859a:
     original: "ぎんこうごうとうを やっつけた!!<FF>"
     pointer_location: 0
-    translation: "TODO_0x3859a"
+    translation: "Defeated the bank robbers!!<FF>"
 
   !!int 0x385ac:
     original: "「ぎんこうごうとうは<FE> にげていったよ.<FD>「きみが ゆうきを ふりしぼって<FE> たたかって くれたからさ.<FD>「おれいに このおかねを<FE> うけとってくれ!<FD>「いやー ほんとに なんて<FE> ゆうかんな しょうねんたちなんだ!<FF>"
     pointer_location: 0x0e17a
-    translation: "TODO_0x385ac"
+    translation: "「The bank robbers ran away.<FE>It was thanks to your courage.<FD>「As thanks, take this money!<FE>「Wow, you're truly brave kids!<FF>"
 
   !!int 0x38619:
     original: "<character>は 2000G もらった!<FF>"
     pointer_location: 0x0e180
-    translation: "TODO_0x38619"
+    translation: "<character> received 2000G!<FF>"
 
   !!int 0x38628:
     original: "「いやー ほんとに なんて<FE> ゆうかんな しょうねんたちなんだ!<FF>"
     pointer_location: 0
-    translation: "TODO_0x38628"
+    translation: "「Wow, you're truly brave kids!<FF>"
 
   !!int 0x38649:
     original: "「きみたちは このぎんこうを<FE> すくった えいゆうだよ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x38649"
+    translation: "「You are the heroes who saved this bank.<FE>Real heroes.<FF>"
 
   !!int 0x38666:
     original: "「ほんとうに ありがとう!<FE> かっこ よかったわよ.<FD>「ところで ごうとうを やっつけた<FD> きねんに うちの ぎんこうに<FE> よきん しません?<FD>「***あ そう.いいの.<FE> ふーん***.<FF>"
     pointer_location: 0x0e888
-    translation: "TODO_0x38666"
+    translation: "「Thank you so much!<FE>You were cool.<FD>「By the way, to celebrate<FD>defeating the robbers,<FE>would you like to deposit here?<FD>「...Oh, no? That's fine.<FE>Hmm...<FF>"
 
   !!int 0x386c5:
     original: "「あっ! あなた ごうとうを<FE> やっつけた ひとでしょ?<FD>「ほかのひとは あなたのこと<FE> わすれちゃった みたいね.<FD>「とかいの ひとは<FE> いそがしいからねー.<FF>"
     pointer_location: 0x0e87f
-    translation: "TODO_0x386c5"
+    translation: "「Ah! You're the one who defeated the robbers,<FE>right?<FD>「Seems everyone else forgot you.<FE>「People in the city are busy, you know.<FF>"
 
   !!int 0x38716:
     original: "「もう すこしの ところで<FD> わしの なけなしの へそくりまで<FE> もっていかれる ところじゃった!<FD>「なんと おれいを<FE> いったら よいやら!<FF>"
     pointer_location: 0x0e5be
-    translation: "TODO_0x38716"
+    translation: "「I was just about to lose<FD>my last savings!<FE>How can I thank you!<FF>"
 
   !!int 0x3875e:
     original: "「おや? どなたさんじゃったかのう.<FE> かわった かっこうを してなさる.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3875e"
+    translation: "「Oh? Who might you be?<FE>What a strange outfit.<FF>"
 
   !!int 0x38784:
     original: "「うちの デパートは しにせなんだ.<FD> どうぶつを つれて はいっちゃ<FE> こまるよ.<FF>"
     pointer_location: 0x0ecfc
-    translation: "TODO_0x38784"
+    translation: "「Our department store is long-established.<FD>Please don't bring animals inside.<FE>It causes trouble.<FF>"
 
   !!int 0x387af:
     original: "「あっ!<FE> サーカスの サルくんですね.<FD>「かっこよかったですよ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x387af"
+    translation: "「Ah!<FE>You're the circus monkey.<FD>「You were awesome.<FF>"
 
   !!int 0x387d1:
     original: "「すみません.びょうきのひとを<FE> デパートに いれてもらっては<FD> こまるんですけど***<FE>「しやくしょに<FD> いむしつが ありますので<FE> みてもらって ください.<FF>"
     pointer_location: 0x0ed0a
-    translation: "TODO_0x387d1"
+    translation: "「Sorry, we can't let sick people<FE>into the department store...<FD>「There's a clinic at city hall,<FD>so please have them checked there.<FE>Go there, please.<FF>"
 
   !!int 0x38822:
     original: "「いらっしゃいませ.<FE> ごゆっくり どうぞ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x38822"
+    translation: "「Welcome.<FE>Please take your time.<FF>"
 
   !!int 0x38839:
     original: "「いらっしゃいませ.<FF>"
     pointer_location: 0x0e5b3
-    translation: "TODO_0x38839"
+    translation: "「Welcome.<FF>"
 
   !!int 0x38844:
     original: "「なにか おさがしですか?<FF>"
     pointer_location: 0
-    translation: "TODO_0x38844"
+    translation: "「Are you looking for something?<FF>"
 
   !!int 0x38852:
     original: "「きょうは だれも<FE> かって くれないなあ.<FD>「みんな サーカスを<FE> みに きてるんだろうな.<FF>"
     pointer_location: 0
-    translation: "TODO_0x38852"
+    translation: "「No one is buying today.<FE>「Everyone must be here<FD>to see the circus.<FE>That's it.<FF>"
 
   !!int 0x38882:
     original: "「あくせさりー うりばは どこかな?<FE> かのじょへの おくりもの なんだ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x38882"
+    translation: "「Where is the accessories section?<FE>It's a gift for my girlfriend.<FF>"
 
   !!int 0x388a8:
     original: "「ママー! ママー! わーん!!<FF>"
     pointer_location: 0
-    translation: "TODO_0x388a8"
+    translation: "「Mama! Mama! Waaah!!<FF>"
 
   !!int 0x388b9:
     original: "「うちの こどもが いないんです.<FE> さがして くれますか?<FF>"
     pointer_location: 0x0e5a7
-    translation: "TODO_0x388b9"
+    translation: "「My child is missing.<FE>Will you help me find them?<FF>"
 
   !!int 0x388d8:
     original: "「え!? うちの こども いました?<FE> そうですか ありがとうございます.<FF>"
     pointer_location: 0
-    translation: "TODO_0x388d8"
+    translation: "「Huh!? You found my child?<FE>Oh, thank you so much.<FF>"
 
   !!int 0x388fe:
     original: "「ジャングルウオーズ<FE> アニメビデオも はつばいちゅう!!<FF>"
     pointer_location: 0
-    translation: "TODO_0x388fe"
+    translation: "「Jungle Wars<FE>anime video now on sale!!<FF>"
 
   !!int 0x3891c:
     original: "「ジャングルウオーズ おとずかん<FE> はつばいちゅう!!<FD>「シングルCD*ゲームつきCDも<FE> はつばいちゅうです!!<FF>"
     pointer_location: 0
-    translation: "TODO_0x3891c"
+    translation: "「Jungle Wars sound library<FE>now on sale!!<FD>「Single CD and game CD<FE>also on sale!!<FF>"
 
   !!int 0x38956:
     original: "「いらっしゃいませー!<FE> なんめいさまでしょうか?<FD>「***もうしわけありません.<FD> ぺットは なかに いれないように<FE> して いただきたいんですが.<FD>「***は? ともだち?<FD> ***そうですか***.<FD>「じゃ こうしましょう.<FE> ハダカじゃ ちょっとこまるので<FD> したの うりばで こどもふくを<FE> かってきて くださいよ.<FD>「そしたら にんげんと みわけが<FE> つかないので オーケーですよ.<FF>"
     pointer_location: 0x0e18d
-    translation: "TODO_0x38956"
+    translation: "「Welcome!<FE>How many in your party?<FD>「...I'm terribly sorry.<FD>We can't allow pets inside.<FE>That's our policy.<FD>「...Huh? Friends?<FD>...Oh, I see...<FD>「Let's do this.<FE>It's awkward to be naked, so<FD>please buy kids' clothes downstairs.<FE>Then you won't be mistaken.<FD>You'll be allowed in.<FF>"
 
   !!int 0x38a1c:
     original: "「いらっしゃいませー!<FE> なんめいさまでしょうか?<FF>"
     pointer_location: 0
-    translation: "TODO_0x38a1c"
+    translation: "「Welcome!<FE>How many in your party?<FF>"
 
   !!int 0x38a36:
     original: "「あたしたち デートちゅうなの.<FE> うらやましいでしょ!<FD>「しょくじの あとは<FE> サーカスを みにいくのよ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x38a36"
+    translation: "「We're on a date.<FE>Jealous?<FD>「After the meal,<FE>we're going to the circus.<FF>"
 
   !!int 0x38a6d:
     original: "「しかし あの しにせデパートも<FE> やることが せこいよな.<FD>「サーカスを みるためには<FD> デパートのなかを とおらなきゃ<FE> いけなく なってるんだものな.<FD>「うりばの まえを とおると<FE> つい かいたく なっちゃうんだよ.<FD>「とくに デートちゅうは<FE> たいへんだぜ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x38a6d"
+    translation: "「That old department store is stingy.<FE>They make you pass through it.<FD>To see the circus, you have<FD>to walk through the store.<FE>That makes you buy things.<FD>「Passing the shops makes you<FE>want to spend money.<FD>「It's especially tough<FE>when you're on a date.<FF>"
 
   !!int 0x38af4:
     original: "「ありがとう ございました.<FE> また どうぞ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x38af4"
+    translation: "「Thank you very much.<FE>Please come again.<FF>"
 
   !!int 0x38b0c:
     original: "「このこには どんな ふくが<FE> にあうかしらね.<FF>"
     pointer_location: 0
-    translation: "TODO_0x38b0c"
+    translation: "「What kind of clothes<FE>would suit this child?<FF>"
 
   !!int 0x38b25:
     original: "「おねがいだから がっこうで<FE> わらわれない ふくに してよ!<FD>「だって ママ<FE> しゅみ わるいんだもん!<FF>"
     pointer_location: 0
-    translation: "TODO_0x38b25"
+    translation: "「Please don't pick clothes<FE>that get me laughed at at school!<FD>「Because, Mom,<FE>your taste is bad!<FF>"
 
   !!int 0x38b5b:
     original: "「いらっしゃいませ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x38b5b"
+    translation: "「Welcome.<FF>"
 
   !!int 0x38b66:
     original: "「いらっしゃいませ.こちらは<FE> ぼうし うりばで ございます.<FF>"
     pointer_location: 0
-    translation: "TODO_0x38b66"
+    translation: "「Welcome. This is the hat section.<FE>Please browse.<FF>"
 
   !!int 0x38b86:
     original: "「わ わしが ぼうしを かうのは<FE> はげ かくしの ためじゃ ないぞ!<FD> ごかい せんといて もらおう!<FF>"
     pointer_location: 0
-    translation: "TODO_0x38b86"
+    translation: "「I-I'm not buying a hat<FE>to hide my bald head!<FD>Don't misunderstand!<FF>"
 
   !!int 0x38bbb:
     original: "「さあ よってらっしゃい<FE> みてらっしゃい!<FD>「たのしい たのしい<FE> サーカスだよ!<FF>"
     pointer_location: 0
-    translation: "TODO_0x38bbb"
+    translation: "「Come one, come all!<FE>Take a look!<FD>「A fun, fun circus!<FE>Come see!<FF>"
 
   !!int 0x38be6:
     original: "「にゅうじょうりょう 50Gです.<FF>"
     pointer_location: 0x0e8e8
-    translation: "TODO_0x38be6"
+    translation: "「Admission is 50G.<FF>"
 
   !!int 0x38bf8:
     original: "サスケ<FE>「り***りラ!?<FF>"
     pointer_location: 0x0e8ee
-    translation: "TODO_0x38bf8"
+    translation: "Sasuke<FE>「Ri...Rira!?<FF>"
 
   !!int 0x38c06:
     original: "しかし よくみると それは<FD>ぬいぐるみを かぶった<FE>にんげんだった.<FF>"
     pointer_location: 0x0e8f4
-    translation: "TODO_0x38c06"
+    translation: "But on closer look, it was<FD>a human wearing a plush costume.<FE>It wasn't her.<FF>"
 
   !!int 0x38c29:
     original: "「わるいね.<FE> サインは しない しゅぎなんだ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x38c29"
+    translation: "「Sorry.<FE>I don't do autographs.<FF>"
 
   !!int 0x38c42:
     original: "「となりの やつが<FE> なんて いってるか しらないけど<FD> このぼくが このサーカスの<FE> さいこうの スターさ!<FF>"
     pointer_location: 0
-    translation: "TODO_0x38c42"
+    translation: "「I don't know what the guy next to me says,<FE>but I'm the top star of this circus!<FF>"
 
   !!int 0x38c7a:
     original: "「んー? しんいりか?<FE> ちがう? まあいいや.<FD>「ここにいる やつらは ほとんどが<FE> ねっからの とかいそだち.<FD>「いっぺん あの ライトを<FE> あびちまったんで<FD> もう やせいに もどるなんて<FE> かんがえてない やつらばかりさ.<FD>「もっとも なかには そうでない<FE> やつも いるかもなあ***.<FF>"
     pointer_location: 0
-    translation: "TODO_0x38c7a"
+    translation: "「Hmm? Newbie?<FE>No? Well, whatever.<FD>「Most of the people here are<FE>city-born to the core.<FD>「Once they've basked in those lights,<FE>they never think of going wild again.<FD>「Though maybe some aren't like that...<FF>"
 
   !!int 0x38d0f:
     original: "りラ<FE>「***サスケ!? あなたなの?<FF>"
     pointer_location: 0x1b3c9
-    translation: "TODO_0x38d0f"
+    translation: "Rira<FE>「...Sasuke!? Is that you?<FF>"
 
   !!int 0x38d23:
     original: "サスケ<FE>「りラ!<FD> いま たすけてあげるからね!<FF>"
     pointer_location: 0x1b3cf
-    translation: "TODO_0x38d23"
+    translation: "Sasuke<FE>「Rira!<FD>I'll save you now!<FF>"
 
   !!int 0x38d3c:
     original: "りラ<FE>「サスケ***.<FD> ***! だめ!<FD> みまわりの ひとが くるわ!<FE> にげて!<FF>"
     pointer_location: 0x1b3d5
-    translation: "TODO_0x38d3c"
+    translation: "Rira<FE>「Sasuke...<FD>...No!<FD>The guards will come!<FE>Run!<FF>"
 
   !!int 0x38d68:
     original: "サスケ<FE>「きみを おいて いけるもんか!<FD>「そうだ!<FE> ぼくの この ふくを きて!<FD>「きみのかわりに ぼくが<FE> オりの なかに はいるから!<FF>"
     pointer_location: 0x1b3db
-    translation: "TODO_0x38d68"
+    translation: "Sasuke<FE>「I can't leave you!<FD>「I've got it!<FE>Wear my clothes!<FD>「I'll take your place<FE>inside the cage!<FF>"
 
   !!int 0x38db0:
     original: "サスケ<FE>「はやく いくんだ!<FF>"
     pointer_location: 0
-    translation: "TODO_0x38db0"
+    translation: "Sasuke<FE>「Hurry! Go!<FF>"
 
   !!int 0x38dbf:
     original: "りラ<FE>「ありがとう たすけてくれて***.<FD>「これで また ジャングルに<FE> かえれるのよね.<FD>「でも*** ほんとは ちょっと<FE> もったいないな***.<FD>「サーカスでは おいしいものが<FE> いっぱい たべられたし***<FD>「それに なんといっても<FE> あの はくしゅと かんせい!<FD>「ああ あたし もう******.<FD>「***ごめんなさい.<FE> いまのは ほんの じょうだんよ.<FD>「ほんきにして***ないわよね?<FE> ホホホホホ***.<FD>「じゃあ ちょっと しんぱいだけど<FE> サスケを よろしく!<FD>「ちゃんと たすけて あげてね.<FD>「ひとあしさきに ジャングルに<FE> かえって まってるから!<FD>「じゃあね.<FF>"
     pointer_location: 0x0e144
-    translation: "TODO_0x38dbf"
+    translation: "Rira<FE>「Thank you for saving me...<FD>「So I can go back to the jungle,<FE>right?<FD>「But... honestly I might miss it...<FE>A little...<FD>「At the circus I got to eat lots of good food...<FE>And of course the applause and cheers!<FD>「Ah, I'm already...<FD>「...Sorry.<FE>That was just a joke.<FD>「You're not taking it seriously... right?<FE>Hohoho...<FD>「I'm a bit worried, but please take care of Sasuke!<FD>「Please save him properly.<FD>「I'll return to the jungle first<FE>and wait for you!<FD>「See you.<FF>"
 
   !!int 0x38ee9:
     original: "「ああ いそがしい!<FD>「まったく! どうぶつたちの てが<FE> たりない ときは<FD> わたしたちまで ぬいぐるみに<FE> はいんなきゃ ならないんだから!<FF>"
     pointer_location: 0
-    translation: "TODO_0x38ee9"
+    translation: "「Ah, so busy!<FD>「When there aren't enough animals,<FE>even we have to go into costumes!<FF>"
 
   !!int 0x38f32:
     original: "「ママー! あついよー!<FE> この ぬいぐるみ ぬいでいい?<FF>"
     pointer_location: 0
-    translation: "TODO_0x38f32"
+    translation: "「Mom! It's hot!<FE>Can I take off this costume?<FF>"
 
   !!int 0x38f50:
     original: "だんちょう<FE>「こらっ! うちの はながたスターを<FD> つれだしたのは おまえたちだな!<FD>「ん? なんだって!?<FD>「***そうか あのこは<FD> むりやり ジャングルから<FE> つれてこられた こだったのか.<FD>「うちは もともと<FE> どうぶつえん なんかの<FD> とかいそだちの どうぶつしか<FE> つかわない しゅぎなんだよ.<FD>「***しかし ジャングルそだちには<FE> みえなかった けどなあ.<FD>「あんなに たのしそうに えんぎを<FE> するこは はじめて だったんだが.<FD>「いやー あのこは<FE> てんせいの スターだったよ***.<FD>「ところで たのみが あるんだが.<FD>「あのこは うちの<FE> だいスター だったんだ.<FD>「いなくなって ほんとうに<FE> こまって いるんだよ.<FD>「せめて すこしの あいだだけでも<FD> かわりに サーカスで<FE> はたらいて もらえない だろうか?<FD>「いろいろ じじょうは あるだろうが<FE> な! たのむよ!<FC>"
     pointer_location: 0x0e1a7
-    translation: "TODO_0x38f50"
+    translation: "Ringmaster<FE>「Hey! You dragged off our star!<FD>「Huh? What!?<FD>「...So she was forced to come<FD>from the jungle after all.<FE>「We only use animals raised in the city<FD>or from zoos, that's our policy.<FE>「...But she didn't look like a jungle kid.<FD>「She was the first to perform so happily.<FE>「Yeah, she was a natural star...<FD>「By the way, I have a request.<FD>「She was our big star.<FE>We're really in trouble without her.<FD>「At least for a little while,<FD>could you work at the circus instead?<FE>Just for a short time.<FD>「I know there are reasons, but<FE>please! I'm begging you!<FC>"
 
   !!int 0x390e0:
     original: "「そんなこと いわずに<FE> たすけると おもってさ!!<FC>"
     pointer_location: 0x0e1b0
-    translation: "TODO_0x390e0"
+    translation: "「Don't say that!<FE>I thought you'd help us!!<FC>"
 
   !!int 0x390fb:
     original: "「そうか! ありがとう.<FE> じゃあ さっそく!<FF>"
     pointer_location: 0x0e1b5
-    translation: "TODO_0x390fb"
+    translation: "「I see! Thank you.<FE>Then let's get started!<FF>"
 
   !!int 0x39113:
     original: "「どうも ありがとう.たすかったよ.<FE> ところで もういっかい どうかね?<FC>"
     pointer_location: 0x0e1f6
-    translation: "TODO_0x39113"
+    translation: "「Thanks a lot.<FE>By the way, how about one more?<FC>"
 
   !!int 0x39139:
     original: "「じゃあ また<FE> きが むいたら たのむよ.<FD> これは ほんの おれいだ.<FD><character>は 200Gを てにいれた!<FF>"
     pointer_location: 0x0e201
-    translation: "TODO_0x39139"
+    translation: "「Then come again<FE>when you feel like it.<FD>This is just a small reward.<FD><character> got 200G!<FF>"
 
   !!int 0x3916f:
     original: "「じゃあ また<FE> きが むいたら たのむよ.<FF>"
     pointer_location: 0x0e222
-    translation: "TODO_0x3916f"
+    translation: "「Then come again<FE>when you feel like it.<FF>"
 
   !!int 0x39186:
     original: "「このあいだは たすかったよ.<FE> ところで もういっかい どうだね?<FC>"
     pointer_location: 0x0e217
-    translation: "TODO_0x39186"
+    translation: "「Thanks for last time.<FE>How about one more?<FC>"
 
   !!int 0x391a9:
     original: "「きゃー きゃー!<FE> どいてちょうだい にげるんだから!<FD>「え? そこらへんを うろつき<FE> まわってるのよ.ライオンが!!!<FF>"
     pointer_location: 0
-    translation: "TODO_0x391a9"
+    translation: "「Eek! Eek!<FE>Move, I'm running!<FD>「A lion is roaming around here!!!<FF>"
 
   !!int 0x391e8:
     original: "「うえーん ママー まってよー.<FF>"
     pointer_location: 0
-    translation: "TODO_0x391e8"
+    translation: "「Waaah, Mom, wait!<FF>"
 
   !!int 0x391f9:
     original: "「あんたら えきを でちゃいかんぞ!<FE> ライオンに くわれても ええのか?<FF>"
     pointer_location: 0
-    translation: "TODO_0x391f9"
+    translation: "「You can't leave the station!<FE>Do you want to be eaten by a lion?<FF>"
 
   !!int 0x3921f:
     original: "「いつに なったら<FE> でんしゃが くるんだよー!<FD>「はやく にげださないと!<FF>"
     pointer_location: 0
-    translation: "TODO_0x3921f"
+    translation: "「When will the train come?<FE>We have to escape!<FD>Hurry up!<FF>"
 
   !!int 0x39246:
     original: "「ライオンが にげだしたので<FD> ひこうじょうは<FE> つかえなく なっちゃったの.<FD>「ああ! もし いま ライオンが<FE> このえきに はいってきたら!<FF>"
     pointer_location: 0x0e84a
-    translation: "TODO_0x39246"
+    translation: "「The lion escaped, so<FD>the airport can't be used.<FE>We're stuck.<FD>「Ah! If the lion came<FE>into this station now!<FF>"
 
   !!int 0x3928f:
     original: "「ひえっ! く くわないでくれー!<FD>「おれは おなかは でてるが<FE> にくは うまくないぞー!<FD>「***なんだ.<FE> ライオンじゃ ないのか.<FD>「おどかさないで くれよ.<FE> こんな ときにさ!<FF>"
     pointer_location: 0x0e2af
-    translation: "TODO_0x3928f"
+    translation: "「Eek! D-don't eat me!<FD>「I'm fat, but my meat isn't tasty!<FE>「...Huh? It's not a lion?<FD>「Don't scare me like that!<FE>Not at a time like this!<FF>"
 
   !!int 0x392ee:
     original: "「ライオンが つかまったんだってな!<FD>「ふー いちじは どうなる ことかと<FE> おもったよ.やれやれ***.<FF>"
     pointer_location: 0
-    translation: "TODO_0x392ee"
+    translation: "「They say the lion was caught!<FD>「Phew, I wondered what would happen.<FE>What a relief...<FF>"
 
   !!int 0x39324:
     original: "「あーあ ひこうきが<FE> うごかないって いうのに<FD> なんで ここに いなきゃ<FE> ならないんだろう.<FD>「はやく ぶじに<FE> いえに かえれますように***.<FF>"
     pointer_location: 0x0e2bb
-    translation: "TODO_0x39324"
+    translation: "「Ugh, even though the planes aren't moving,<FE>why do I have to be here?<FD>「I hope I can get home safely...<FE>I really do.<FF>"
 
   !!int 0x39371:
     original: "「ライオンが つかまって<FD> ぶじに いえに かえれると<FE> おもったら<FD> ひこうきが うごきだして<FE> しごとが めちゃハードだよー.<FD>「こんな もんだよな.<FF>"
     pointer_location: 0
-    translation: "TODO_0x39371"
+    translation: "「After the lion was caught,<FD>I thought I could go home,<FE>but the planes started moving and work is brutal!<FD>「That's how it goes.<FF>"
 
   !!int 0x393bf:
     original: "「ここは くうこうカウンター.<FE> チケットは ここで かえますが<FD> げんざい このくうこうは<FE> へいさ されています.<FD>「あーん! なんで わたしが<FE> こんな こわい ところに<FD> いなきゃ なんないのよ.<FF>"
     pointer_location: 0x0e921
-    translation: "TODO_0x393bf"
+    translation: "「This is the airport counter.<FE>Tickets are sold here, but<FD>the airport is currently closed.<FD>「Ah! Why do I have to stay<FE>in a scary place like this?<FF>"
 
   !!int 0x39426:
     original: "「あら おかねが たりないわよ.<FD>「ジャングルに かえれないんじゃあ<FE> たいへんよね.<FD>「どこかで アルバイトでも<FE> してきたら?<FD>「きみは からだが かるそうだし<FE> うしろの おサルさんも いるから<FD> サーカスにでも はたらきに いけば<FE> いいかもよ.<FF>"
     pointer_location: 0x1b8a5
-    translation: "TODO_0x39426"
+    translation: "「Oh, you're short on money.<FD>「If you can't return to the jungle,<FE>that would be rough, wouldn't it?<FD>「Why not do some part-time work?<FD>「You look light, and you have that monkey back there,<FE>so maybe work at the circus.<FF>"
 
   !!int 0x394a6:
     original: "「この さわぎが かたづくまでは<FE> ひこうきは とべないわよ.<FD>「おきゃくが こわがって<FE> みんな きゃんせる しちゃうもの.<FF>"
     pointer_location: 0x0e2c6
-    translation: "TODO_0x394a6"
+    translation: "「Until this commotion settles,<FE>the planes can't fly.<FD>「Customers get scared<FE>and cancel everything.<FF>"
 
   !!int 0x394e6:
     original: "「さあまた しごと がんばらなきゃ.<FE> わたし じつは パイロットなの.<FF>"
     pointer_location: 0
-    translation: "TODO_0x394e6"
+    translation: "「Alright, back to work.<FE>I'm actually a pilot.<FF>"
 
   !!int 0x3950b:
     original: "「ゴートだんが みつゆ してきた<FE> ライオンが にげだしたんだ.<FD>「おかげで まちじゅう<FE> おおさわぎだよ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3950b"
+    translation: "「A lion the Goat Gang smuggled<FE>escaped.<FD>「That's why the whole town is in a panic.<FF>"
 
   !!int 0x39542:
     original: "「われわれは ちょうさたいの<FE> こうはつたい.<FD>「せんぱつたいは ぶじ ジャングルに<FE> むかったのです.<FD>「ジャングルそだちの あの<FE> りラって サルを つれてね.<FD>「だが われわれは ライオンさわぎで<FE> しゅっぱつ できないのです.<FD>「たいちょうは なかまと いっしょに<FE> ライオンを さがしに いってます.<FD>「わたしたちは ライオンを<FE> つかまえたときの ための<FD> じゅんびを しているんです.<FF>"
     pointer_location: 0
-    translation: "TODO_0x39542"
+    translation: "「We are the investigation team's<FE>follow-up unit.<FD>「The advance unit safely headed<FE>to the jungle.<FD>「They took that jungle-born monkey, Rira.<FD>「But we can't depart because of the lion incident.<FE>We're stuck here.<FD>「The captain went with his team<FE>to search for the lion.<FD>「We're preparing for when<FE>the lion is captured.<FF>"
 
   !!int 0x3960a:
     original: "「ライオンを つかまえに<FE> いった ひとたちは ぶじかなあ?<FD>「としょかんの ちかくの<FE> こうえんの いけの なかの<FD> ちいさな しまに<FE> むかったって はなしだけど.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3960a"
+    translation: "「I wonder if the people who went<FE>to capture the lion are safe.<FD>「I heard they headed for the<FE>small island in the pond in the park<FD>near the library.<FF>"
 
   !!int 0x3965f:
     original: "「ライオンの いっけんが かたづいて<FE> やっと ひとあんしんだよ.<FD>「まったく どうぶつの みつゆなんて<FE> やめて ほしいよなあ.<FD>「どうぶつたちだって<FE> かわいそう だよね.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3965f"
+    translation: "「Now that the lion incident is over,<FE>we can finally relax.<FD>「Honestly, I wish they'd stop<FE>smuggling animals.<FD>「The animals suffer too, you know.<FF>"
 
   !!int 0x396b8:
     original: "「もし わたしが<FE> ライオンを つかまえたら***.<FD>「え?<FE> なにを かんがえてるのかって?<FD>「だって ライオンを つかまえると<FD> しちょうさんが しょうきんを<FE> くれるって はなしなんですもん.<FF>"
     pointer_location: 0
-    translation: "TODO_0x396b8"
+    translation: "「If I caught the lion...<FE>just imagine!<FD>「Huh?<FE>What am I thinking about?<FD>「Because if you catch the lion,<FD>the mayor gives a reward, they say.<FE>That's why!<FF>"
 
   !!int 0x3971c:
     original: "「せっかく ひみつの ぶきやで<FE> かいものまで して<FD> ライオンを つかまえに いこうと<FE> おもってたのに!<FD>「あんたたち なんかに<FE> さきを こされるなんてね.<FD>「え? ひみつの ぶきや?<FE> あるえきで うわさを きいたのよ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3971c"
+    translation: "「I even shopped at the secret weapon shop<FE>to go catch the lion!<FD>「And then you went and beat me to it.<FD>「Huh? A secret weapon shop?<FE>I heard a rumor at some station.<FF>"
 
   !!int 0x3978f:
     original: "しちょう<FE>「わたしは このまちの しちょうだ.<FD>「にげた ライオンの はなしは<FE> きいたかね?<FD>「もし ライオンを<FE> つかまえてくれる ひとが いたら<FD> おれいを させて もらうんだが.<FF>"
     pointer_location: 0x0e2d7
-    translation: "TODO_0x3978f"
+    translation: "Mayor<FE>「I am the mayor of this town.<FD>「Have you heard about the escaped lion?<FE>Have you?<FD>「If someone captures the lion,<FE>I'd like to reward them.<FD>That's my plan.<FF>"
 
   !!int 0x397ed:
     original: "しちょう<FE>「きみが ライオンを つかまえた<FD> ジャングルボーイだね.<FD>「きみの なかまたちも<FE> たいしたもんだ.<FD>「ほんとうに たすかったよ.<FD>「かんしゃの しるしだ.<FE> うけとって くれるね?<FD><character>たちは<FE>1000Gを てにいれた!<FF>"
     pointer_location: 0
-    translation: "TODO_0x397ed"
+    translation: "Mayor<FE>「You're the Jungle Boy who caught the lion.<FD>「Your friends are impressive too.<FE>Really impressive.<FD>「You truly saved us.<FD>「Please accept this as thanks.<FE>Will you take it?<FD><character> received<FE>1000G!<FF>"
 
   !!int 0x39862:
     original: "しちょう<FE>「ライオンは マクドフさんが<FD> つれて いったんだね?<FF>"
     pointer_location: 0
-    translation: "TODO_0x39862"
+    translation: "Mayor<FE>「McDuff took the lion<FD>away, didn't he?<FF>"
 
   !!int 0x39883:
     original: "ミオ<FE>「マクドフさん ですって?<FF>"
     pointer_location: 0
-    translation: "TODO_0x39883"
+    translation: "Mio<FE>「McDuff, you say?<FF>"
 
   !!int 0x39894:
     original: "しちょう<FE>「どうしたんだ とつぜん?<FD>「マクドフさんは ちょうさたいの<FE> たいちょうさんだよ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x39894"
+    translation: "Mayor<FE>「What's wrong all of a sudden?<FD>「Mr. McDuff is the captain of<FE>the investigation team, you know.<FF>"
 
   !!int 0x398c4:
     original: "ミオ<FE>「パパの なまえだわ***.<FD> パパよ! まちがいなく<FE> ママに きいた パパの なまえよ!<FD>「なんてことなの!<FD> あの たいちょうさんが<FE> さがしていた パパだったなんて!<FD>「<character>!<FE> ジャングルに もどりましょう!<FD>「わたし どうしても<FE> パパに あいたい!!<FF>"
     pointer_location: 0
-    translation: "TODO_0x398c4"
+    translation: "Mio<FE>「That's my father's name...<FD>It's the name Mom told me.<FE>It has to be his name!<FD>「How can this be!<FD>The captain was the father I was searching for!<FE>「<character>!<FE>Let's go back to the jungle!<FD>「I have to see Dad!!<FF>"
 
   !!int 0x3994b:
     original: "「マクドフさんは わたしが もっとも<FE> しんらいするひとの ひとりだ.<FD>「むすめさんが いるって はなしは<FE> きいたことが なかったが<FD> りっぱな むすめさんじゃないか.<FD>「はやく パパにあえると いいな.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3994b"
+    translation: "「Mr. McDuff is one of the people<FE>I trust the most.<FD>「I never heard he had a daughter,<FE>but she's quite a fine one.<FD>「I hope you can meet your father soon.<FF>"
 
   !!int 0x399b3:
     original: "「あー むずかしい ほんばかり<FE> よんでたら<FD> あたまが クラクラしてきた.<FF>"
     pointer_location: 0
-    translation: "TODO_0x399b3"
+    translation: "「Reading only difficult books<FE>is making my head spin.<FD>It's too much.<FF>"
 
   !!int 0x399da:
     original: "「としょかんの うらに<FD> いけの なかの しまへいく<FE> トンネルが あるの.<FD>「でも あそこは<FE> きけんな ばしょだって<FD> ちいさいころ おしえられたわ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x399da"
+    translation: "「Behind the library<FD>there's a tunnel to the island<FE>in the pond.<FD>「But I was told when I was small<FE>that it's a dangerous place.<FD>Be careful.<FF>"
 
   !!int 0x39a28:
     original: "「マンガが ないよー!<FE> つまんないよー!<FD>「ねえ ママ! はやく かえろう!<FF>"
     pointer_location: 0
-    translation: "TODO_0x39a28"
+    translation: "「There's no manga!<FE>It's boring!<FD>「Hey, Mom! Let's go home!<FF>"
 
   !!int 0x39a50:
     original: "ライオン<FE>「!!***とうとう<FD> みつかって しまったか***.<FD>「いやだ!!<FD> おれは みせもの なんか<FE> ぜったいに なりたくない!<FD>「どんなことを しても<FE> ジャングルに もどるんだ!<FD>「じゃまする やつらを<FE> たおして でも!<FF>"
     pointer_location: 0x0eeed
-    translation: "TODO_0x39a50"
+    translation: "Lion<FE>「!!...So you've finally found me...<FD>「No!!<FD>I never want to be a show!<FE>Never!<FD>「No matter what happens,<FE>I'm going back to the jungle!<FD>「I'll defeat anyone<FE>who gets in my way!<FF>"
 
   !!int 0x39ac6:
     original: "ライオン<FE>「ううう***.<FD>「にるなり やくなり すきに しろ!<FF>"
     pointer_location: 0
-    translation: "TODO_0x39ac6"
+    translation: "Lion<FE>「Uuu...<FD>「Do whatever you want.<FF>"
 
   !!int 0x39ae7:
     original: "サスケ<FE>「ちがうんだってば.<FD>「ぼくたちは きみを ジャングルに<FE> もどしてあげるために きたんだよ.<FD>「きみを むりやり<FE> とかいまで つれてきたのは<FD> ゴートだんという わるものの<FE> そしきなんだ.<FD>「ぼくは サルのサスケ.<FD> この ジャングルボーイと<FE> ミオと いっしょに<FD> ゴートだんと たたかっているんだ.<FD>「それに とかいの ひとたちも<FE> ゴートだんの わるさを しって<FD> ちょうさたいを ジャングルに<FE> はけん するんだ.<FD>「その ちょうさたいの ひとに<FD> ジャングルへ<FE> つれて かえって もらえるように<FD> たのんで あげるからさ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x39ae7"
+    translation: "Sasuke<FE>「That's not it.<FD>「We came to take you back<FE>to the jungle.<FD>「The evil group called the Goat Gang<FE>dragged you to the city by force.<FD>「I'm Sasuke the monkey.<FD>I'm fighting the Goat Gang with<FE>this Jungle Boy and Mio.<FD>「And the city people learned about<FE>the Goat Gang's evil deeds,<FD>so they'll send an investigation team<FE>to the jungle.<FD>「We'll ask that team<FD>to take you back<FE>to the jungle, okay?<FF>"
 
   !!int 0x39bfa:
     original: "ライオン<FE>「そうだったのか***.<FD>「そうとも しらずに<FE> おそいかかったり して***.<FD>「ケガは なかったかい?<FF>"
     pointer_location: 0
-    translation: "TODO_0x39bfa"
+    translation: "Lion<FE>「So that's what happened...<FD>「I attacked without knowing...<FE>I'm sorry...<FD>「Are you hurt?<FF>"
 
   !!int 0x39c35:
     original: "たいちょう<FE>「はなしは きいたよ.<FD>「さあ ライオンくん.<FD> わたしと いっしょに<FE> ジャングルへ もどろう.<FF>"
     pointer_location: 0
-    translation: "TODO_0x39c35"
+    translation: "Captain<FE>「I heard the story.<FD>「Come on, Lion.<FD>Let's go back to the jungle<FE>together.<FF>"
 
   !!int 0x39c6d:
     original: "ミオ<FE>「あれ? たいちょうさん.<FD> どうぶつごが はなせるんですか?<FF>"
     pointer_location: 0
-    translation: "TODO_0x39c6d"
+    translation: "Mio<FE>「Huh? Captain?<FD>Can you speak animal language?<FF>"
 
   !!int 0x39c90:
     original: "たいちょう<FD>「まえに ながく ジャングルに<FE> いたことが あるんだ.<FD>「そのとき あるひとに<FE> おしえて もらったんだよ.<FD>「もう ずいぶん むかしのはなしだ.<FD> 10ねんいじょうも<FE> まえの はなしだよ***.<FD>「じゃあ ライオンくん いこうか?<FF>"
     pointer_location: 0
-    translation: "TODO_0x39c90"
+    translation: "Captain<FD>「I once lived in the jungle for a long time.<FE>Back then, someone taught me.<FD>「That was a long time ago.<FD>More than 10 years ago...<FE>Long ago.<FD>「Now then, Lion, shall we go?<FF>"
 
   !!int 0x39d0d:
     original: "ライオン<FE>「いろいろ めいわくを かけたね.<FD>「さきに かえって まってるから<FD> ジャングルに もどってきたら<FE> いっしょに あそぼうな.<FF>"
     pointer_location: 0
-    translation: "TODO_0x39d0d"
+    translation: "Lion<FE>「I've caused a lot of trouble.<FD>「I'll go back first and wait.<FD>When you return to the jungle,<FE>let's play together.<FF>"
 
   !!int 0x39d53:
     original: "たいちょう<FE>「ジャングルボーイくん.<FD> しちょうさんが はなしが あるって<FE> いってたよ.<FD>「しちょうの いえへ いってごらん.<FF>"
     pointer_location: 0
-    translation: "TODO_0x39d53"
+    translation: "Captain<FE>「Jungle Boy.<FD>The mayor said he wants to talk<FE>to you.<FD>「Go to the mayor's house.<FF>"
 
   !!int 0x39d94:
     original: "ライオンを ジャングルに<FE>かえすことが できた!<FF>"
     pointer_location: 0
-    translation: "TODO_0x39d94"
+    translation: "We managed to return the lion<FE>to the jungle!<FF>"
 
   !!int 0x39dad:
     original: "ミオ<FE>「だめっ!<FD> このままじゃ かえれないわ.<FD>「まだ パパを<FE> みつけて ないじゃない!<FD>「パパを みつけるまでは<FE> わたし かえらないわよ!<FD>「<character>! おねがいだから<FE> さいごまで つきあってよ!<FF>"
     pointer_location: 0x0e92a
-    translation: "TODO_0x39dad"
+    translation: "Mio<FE>「No!<FD>We can't go back yet.<FD>「We still haven't found Dad!<FE>「Until we find him,<FD>I won't go back!<FE>「<character>! Please<FE>stay with me to the end!<FF>"
 
   !!int 0x39e12:
     original: "「こちらは ツインたわービルで<FE> ございます.<FD>「でも きょうは おやすみですよ.<FF>"
     pointer_location: 0x0e917
-    translation: "TODO_0x39e12"
+    translation: "「This is the Twin Tower Building.<FE>But it's closed today.<FD>Come back later.<FF>"
 
   !!int 0x39e3c:
     original: "「ああ いそがしい! いそがしい!<FE>「いまどきの ビジネスマンは<FD> こどもの はなしなど<FE> きいてる ひまは ないのだ.<FD>「きょうは やすみだと いうのに<FE> ああ いが いたい***.<FF>"
     pointer_location: 0
-    translation: "TODO_0x39e3c"
+    translation: "「Busy, busy! Busy!<FE>「Businessmen today<FD>don't have time to listen to kids.<FE>「Even though it's a day off,<FD>ah, my stomach hurts...<FF>"
 
   !!int 0x39e99:
     original: "「ああ いそがしい! いそがしい!<FE>「いまどきの ビジネスウーマンは<FD> こどもの はなしなんて<FE> きいてる ひまはないのよ.<FD>「きょうは やすみだと いうのに<FE> ああ こしが いたい***.<FF>"
     pointer_location: 0
-    translation: "TODO_0x39e99"
+    translation: "「Busy, busy! Busy!<FE>「Businesswomen today<FD>don't have time to listen to kids.<FE>「Even though it's a day off,<FD>ah, my back hurts...<FF>"
 
   !!int 0x39ef9:
     original: "「まったく きょうは かいしゃが<FE> やすみだってのに.<FF>"
     pointer_location: 0
-    translation: "TODO_0x39ef9"
+    translation: "「Honestly, even though the office<FE>is closed today...<FF>"
 
   !!int 0x39f15:
     original: "「ん!? おまえは どろぼうか!?<FD> と いわれて そうですって<FE> こたえるやつは いないわな.<FD>「このビルは<FE> きょうは やすみなんだから<FD> あんまり ウロウロ<FE> するんじゃないよ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x39f15"
+    translation: "「Huh!? Are you a thief!?<FD>No one would answer yes to that.<FE>「This building is closed today,<FD>so don't wander around too much.<FE>Got it?<FF>"
 
   !!int 0x39f72:
     original: "「ことしは やすみが<FE> ぜんぜん なかったなあ.<FD>「みんなが しめきりを<FE> まもってくれれば いいんだけど.<FF>"
     pointer_location: 0
-    translation: "TODO_0x39f72"
+    translation: "「I had no holidays at all this year.<FE>「I wish everyone would meet deadlines.<FD>That would be nice.<FF>"
 
   !!int 0x39fa9:
     original: "「どこに いくの?<FE> ぼくも でんしゃに のりたいなあ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x39fa9"
+    translation: "「Where are you going?<FE>I want to ride the train too.<FF>"
 
   !!int 0x39fc6:
     original: "「はなしかけないで ください<FE> おきゃくさん!<FD>「ああ どうしよう.<FE> また わからなく なっちゃった.<FD>「はじめから やりなおしだわ.<FF>"
     pointer_location: 0x0e91c
-    translation: "TODO_0x39fc6"
+    translation: "「Please don't talk to me, customer!<FE>「Ah, what should I do...<FD>I got confused again.<FE>「I have to start over.<FF>"
 
   !!int 0x3a00b:
     original: "「なに やってんのかしらね もう.<FE> はやくしてよ.<FD> これから かえって<FE> サスぺンスドラマを みるんだから.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a00b"
+    translation: "「What are they doing, seriously?<FE>Hurry up already.<FD>I want to go home and<FE>watch a suspense drama.<FF>"
 
   !!int 0x3a044:
     original: "「ママー! バナナ かってー!<FD>「くりと マンゴーと<FE> それから パパイアも かって!<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a044"
+    translation: "「Mom! Buy bananas!<FD>「Chestnuts and mangoes and<FE>papaya too!<FF>"
 
   !!int 0x3a070:
     original: "「ああ もう うるさいわね.<FD>「こどもづれで かいものなんて<FE> くるもんじゃないわ!<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a070"
+    translation: "「Ugh, you're so noisy.<FD>「You shouldn't come shopping<FE>with kids like this!<FF>"
 
   !!int 0x3a09b:
     original: "「したの スーパーの くだものは<FE> しんせんで ひょうばん いいわよ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a09b"
+    translation: "「The fruit in the downstairs market<FE>is fresh and well regarded.<FF>"
 
   !!int 0x3a0bf:
     original: "「ふーっ!! くだものを<FE> たべすぎ ちゃったー!<FD>「くだものは ビタミンが たっぷりで<FE> からだに いいんだよ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a0bf"
+    translation: "「Phew!! I ate too much fruit!<FE>「Fruit is full of vitamins<FD>and good for your body.<FF>"
 
   !!int 0x3a0f9:
     original: "「いやいや おどろいたの なんの!<FE> えっ!? なんのはなしかって?<FD>「このあいだ そこの がっこうに<FE> ひこうきが ふじちゃく したんだ.<FD>「へんな やつらが のってたぜ.<FD> きみ みたいな かっこうの ひとも<FE> のってたなあ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a0f9"
+    translation: "「Wow, you won't believe it!<FE>Huh!? What happened?<FD>「The other day a plane made<FE>an emergency landing at the school.<FD>「There were some weird folks aboard.<FD>Someone dressed like you was there.<FE>Really.<FF>"
 
   !!int 0x3a16d:
     original: "「あーら ぼうや かわいいわね.<FE> あ でも がっこうは どうしたの?<FD>「きょう がっこうは<FE> やすみじゃないと おもうけど.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a16d"
+    translation: "「Oh my, you're a cute boy.<FE>But what about school?<FD>「I don't think school is off today.<FF>"
 
   !!int 0x3a1ad:
     original: "「ほけんに はいりませんか?<FE> え? いらない?<FD>「ここの ひとたち<FE> みんな はいって くれましたよ.<FD>「このあいだ ちかくに<FE> ひこうきが ふじちゃく したんで<FD> すこし こわく なっちゃったんじゃ<FE> ないですかねー.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a1ad"
+    translation: "「Would you like insurance?<FE>Huh? You don't need it?<FD>「Everyone here joined, you know.<FE>They all did.<FD>「A plane made an emergency landing nearby,<FE>so maybe people got scared, right?<FF>"
 
   !!int 0x3a21d:
     original: "「おむかいは ジャングルちょうさたい<FE> たいちょうさんの おうちよ.<FD>「たいちょうさんは どくしんなの.<FD> なんでも ずっと すきなひとがいて<FE> わすれられないそうよ.<FD>「ちょっと もったいないわね.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a21d"
+    translation: "「Across the street is the jungle<FE>investigation captain's house.<FD>「He's single.<FD>They say he still has someone he loves<FE>and can't forget.<FD>「What a waste, huh?<FF>"
 
   !!int 0x3a282:
     original: "「どこか わるいのかい?<FE> みてあげようか?<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a282"
+    translation: "「Are you feeling unwell?<FE>Let me check you.<FF>"
 
   !!int 0x3a299:
     original: "「こうけつあつで いしゃに<FE> さけを とめられて しまった.<FD>「おれも としなんだなあ***.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a299"
+    translation: "「High blood pressure, so the doctor<FE>made me stop drinking.<FD>「I guess I'm getting old...<FF>"
 
   !!int 0x3a2c9:
     original: "「ねえねえ ぼく ちゅうしゃなんて<FE> されないよね?<FD>「もし されたら おもいっきり<FE> ないて やるから!!<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a2c9"
+    translation: "「Hey, I won't get a shot, right?<FE>「If I do, I'll cry my heart out!!<FF>"
 
   !!int 0x3a300:
     original: "「あたし じょゆうよ.<FD> いまひょうばんの サスぺンスドラマ<FE> みたこと あるでしょ?<FD>「えっ!? しらない!?<FE> トップじょゆうの このわたしを?<FD>「あんた テレビ みたこと あるの?<FD> ジャングルには テレビが ない?<FD>「なあんだ おのぼりさんだったのね.<FE> じゃあ いいわ.よろしくね.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a300"
+    translation: "「I'm an actress.<FD>You've seen that popular suspense drama,<FE>right?<FD>「Huh!? You don't know?<FE>The top actress, me?<FD>「Have you ever watched TV?<FD>No TV in the jungle?<FD>「Oh, you're a country bumpkin.<FE>Well, nice to meet you.<FF>"
 
   !!int 0x3a393:
     original: "「ねえ そこの かのじょー<FE> かわいいじゃない!<FD>「うちの じむしょで<FE> じょゆう めざさない?<FD>「スりーサイズ いくつ?<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a393"
+    translation: "「Hey, that girl over there<FE>is cute!<FD>「Want to aim to be an actress<FE>at our agency?<FD>「What are your measurements?<FF>"
 
   !!int 0x3a3d1:
     original: "「はやく きゅうしょく じかんに<FE> ならないかなあ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a3d1"
+    translation: "「I wonder when lunch time<FE>will finally come.<FF>"
 
   !!int 0x3a3ec:
     original: "「こらこら じゅぎょうちゅうだぞ.<FD>「ん? みかけない かおだな.<FE> なんくみの せいとだ?<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a3ec"
+    translation: "「Hey, we're in class.<FD>「Hmm? I don't recognize you.<FE>What class are you in?<FF>"
 
   !!int 0x3a41b:
     original: "「わ! きゅうに はなしかけるから<FD> ゲームオーバーに<FE> なっちゃったじゃないか!<FD>「あ ぼくが じゅぎょうちゅうに<FE> ゲームボーイ やってるの<FD> せんせいには ないしょだよ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a41b"
+    translation: "「Hey! You made me game over<FD>by talking to me!<FE>「Don't tell the teacher that I<FD>play Game Boy during class, okay?<FF>"
 
   !!int 0x3a474:
     original: "「このまえ グラウンドに<FE> ひこうきが おりてきたんだ.<FD>「でも すぐまた とんでったよ.<FE> うそじゃないよ.ほんとうさ.<FD>「だって ぼく こんなもの<FE> ひろったんだもの.<FD>「きみだけに みせて あげるよ.<FF>"
     pointer_location: 0x0e259
-    translation: "TODO_0x3a474"
+    translation: "「The other day a plane landed<FE>on the playground.<FD>「But it flew away right after.<FE>I'm not lying. It's true.<FD>「Because I found this thing.<FE>「I'll show it only to you.<FF>"
 
   !!int 0x3a4dc:
     original: "<character>は<FE>パパのメモを てに いれた!<FF>"
     pointer_location: 0x0e26e
-    translation: "TODO_0x3a4dc"
+    translation: "<character><FE>got Dad's memo!<FF>"
 
   !!int 0x3a4ee:
     original: "「ぼくがひろった メモは<FE> きみの パパの メモだったの?<FD> ふーん***そうかあ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a4ee"
+    translation: "「So the memo I found<FE>was your dad's memo?<FD>Huh... I see.<FF>"
 
   !!int 0x3a519:
     original: "「ひこうきに のってたひと?<FE> ちらっと みたけど***.<FD>「そうだ! たしか きみみたいな<FE> かっこうをした ひとが いたわね.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a519"
+    translation: "「The person on the plane?<FE>I saw them for a second...<FD>「Yeah! There was someone dressed<FE>like you.<FF>"
 
   !!int 0x3a55b:
     original: "「でも もちものが いっぱいだね.<FE> だから あげない.<FF>"
     pointer_location: 0x0e264
-    translation: "TODO_0x3a55b"
+    translation: "「But your inventory is full.<FE>So I won't give it.<FF>"
 
   !!int 0x3a578:
     original: "「あのねー はなびと パチンコ<FE> かうんだよー!!<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a578"
+    translation: "「Hey, we're buying fireworks<FE>and pachinko!!<FF>"
 
   !!int 0x3a592:
     original: "「ふっふっふ.<FE> わしは なぞの ろうじん.<FD>「すごい ぶきを うっとる<FE> なぞの みせを おしえてやろう.<FD>「だんちの ちかくの ビルに いき<FE> としよりに はなしをきくのじゃ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a592"
+    translation: "「Heh heh heh.<FE>I am a mysterious old man.<FD>「I'll tell you about a secret shop<FE>that sells great weapons.<FD>「Go to the building near the housing area<FE>and talk to an old man there.<FF>"
 
   !!int 0x3a5ed:
     original: "「ここのところ てつや ばっかしだ.<FE> ***ふあーあ***.<FD>「うちは ゲームを つくっている<FE> かいしゃなんだよ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a5ed"
+    translation: "「Lately it's been all-nighters.<FE>...Yaaawn...<FD>「We run a company that makes games.<FE>That's what we do.<FF>"
 
   !!int 0x3a629:
     original: "「ぼくは アルバイトなんです.<FD>「もう いっしゅうかんも<FE> いえに かえって ないや.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a629"
+    translation: "「I'm just a part-timer.<FD>「I haven't gone home for a week.<FE>Not once.<FF>"
 
   !!int 0x3a655:
     original: "「グーグー スースー<FD> グーグー スースー<FD>「はっ! いけないっ!<FD> とんでもない ところで<FE> ねちゃったわ!<FD>「あー はずかしい.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a655"
+    translation: "「Zzz... snore...<FD>Zzz... snore...<FD>「Ah! I shouldn't!<FD>I fell asleep in the wrong place!<FE>「Ah, how embarrassing.<FF>"
 
   !!int 0x3a698:
     original: "「ふっふっふ.<FE> わしは なぞの ろうじん.<FD>「えきで じょうほうを きいてから<FE> またくるが いいぞ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a698"
+    translation: "「Heh heh heh.<FE>I am a mysterious old man.<FD>「Come back after you gather info<FE>at the station.<FF>"
 
   !!int 0x3a6cd:
     original: "「ハーハーハー! ああ つかれた!<FD>「ふっふっふ.<FE> わしは なぞの ろうじん.<FD>「よく ここが わかったのう.<FE> ほっほっほ!<FD>「ここは ぶきやじゃ.<FE> なにに するかね?<FC>"
     pointer_location: 0
-    translation: "TODO_0x3a6cd"
+    translation: "「Ha ha ha! Ah, I'm tired!<FD>「Heh heh heh.<FE>I am a mysterious old man.<FD>「You found this place well.<FE>Ho ho ho!<FD>「This is the weapon shop.<FE>What will you buy?<FC>"
 
   !!int 0x3a725:
     original: "「きみも ここの かそうパーテイに<FE> さんか するのかい?<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a725"
+    translation: "「Are you joining the costume party<FE>too?<FF>"
 
   !!int 0x3a743:
     original: "「うちは いっかそろって<FE> ターザンの かっこうなのよ.<FD>「どう? かんじ でてる?<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a743"
+    translation: "「Our whole family is dressed<FE>as Tarzan.<FD>「How is it? Do we look the part?<FF>"
 
   !!int 0x3a76e:
     original: "「やや! あんたがたも<FE> おなじような かっこうじゃな!<FD>「うーん<FE> しんせんみが うすれてしまう.<FD>「おねがいじゃ.べつの かっこうに<FE> して もらえんかのう.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a76e"
+    translation: "「Oh! You're dressed the same!<FE><FD>「Hmm... it loses the freshness.<FE><FD>「Please, could you wear<FE>a different outfit?<FF>"
 
   !!int 0x3a7c0:
     original: "「ぼく ジャングルボーイだよ.<FE> まね すんなよー.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a7c0"
+    translation: "「I'm Jungle Boy.<FE>Don't copy me.<FF>"
 
   !!int 0x3a7db:
     original: "「いくら かそうの ためとはいえ<FE> ぬいぐるみは しっぱいだったな.<FD>「あついし りょうりは まともに<FE> くえないしさ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a7db"
+    translation: "「Even for a costume party,<FE>the plush costume was a failure.<FD>「It's hot and I can't even<FE>eat properly.<FF>"
 
   !!int 0x3a818:
     original: "「さっきから みんなが かみを<FE> たべさせようと するんだ!<FD>「もう いいかげんに してくれ!<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a818"
+    translation: "「Everyone keeps trying to feed me paper!<FE><FD>「Enough already!<FF>"
 
   !!int 0x3a848:
     original: "「げげ! おなじ ぬいぐるみの<FE> やつが いる!<FD>「せっかく かわった サルを<FE> かんがえついたのに.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a848"
+    translation: "「Gah! There's someone in the same costume!<FE><FD>「I thought I came up with a unique monkey.<FE><FF>"
 
   !!int 0x3a87c:
     original: "「きゃくしつがかりって<FE> らくじゃ ないわよ.<FD>「だれか さいふごと チップを<FE> おいていって くれないかしら.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a87c"
+    translation: "「Being in charge of guest rooms<FE>isn't easy.<FD>「I wish someone would leave a tip,<FE>wallet and all.<FF>"
 
   !!int 0x3a8b5:
     original: "「あたしは りゅうこう さっかよ.<FD>「このホテルに かんづめに なって<FE> もう いっかげつ.つらいわ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a8b5"
+    translation: "「I'm a popular writer.<FD>I've been stuck in this hotel<FE>for a month. It's tough.<FF>"
 
   !!int 0x3a8e9:
     original: "「せんせー! まだですかー?<FE> はやく かいて くださいよー.<FD>「まったく ねてばっかり<FE> いるんだから.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a8e9"
+    translation: "「Teacher! Are you done yet?<FE>Hurry up and write!<FD>「Seriously, you're always sleeping.<FE><FF>"
 
   !!int 0x3a91f:
     original: "「いらっしゃいませ.<FE> どうぞ ごゆっくり おくつろぎを.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a91f"
+    translation: "「Welcome.<FE>Please relax and enjoy your stay.<FF>"
 
   !!int 0x3a93d:
     original: "「かそうパーテイは みてきたかい?<FE> よく あんなこと やるよな.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a93d"
+    translation: "「Did you see the costume party?<FE>They really go all out, huh.<FF>"
 
   !!int 0x3a95f:
     original: "「みんな パーテイかいじょうに<FE> いっちゃって バーは ひまだわ.<FD>「しごとないから らくで いいけど.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a95f"
+    translation: "「Everyone went to the party,<FE>so the bar is quiet.<FD>「No work, so it's easy, I guess.<FF>"
 
   !!int 0x3a994:
     original: "「すごいっ! すごいよねーっ!!<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a994"
+    translation: "「Amazing! Amazing!!<FF>"
 
   !!int 0x3a9a5:
     original: "「かっこいいなあ!<FD> ぼくも サーカスの スター<FE> めざそうかなあ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a9a5"
+    translation: "「So cool!<FD>Maybe I should aim to be<FE>a circus star too.<FF>"
 
   !!int 0x3a9c8:
     original: "「ブラボー! ブラボー!<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a9c8"
+    translation: "「Bravo! Bravo!<FF>"
 
   !!int 0x3a9d5:
     original: "「わくわくっ!<FE> つぎは どんなのが でるのかな?<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a9d5"
+    translation: "「So excited!<FE>What will come next?<FF>"
 
   !!int 0x3a9ef:
     original: "「ここは ナンのとう.<FD>「むかし こだいの たみが つくり<FD> 3びきの けんじゃが<FE> それぞれ まもった<FD> 3つの とうの ひとつです.<FD>「とうの ちかを つたっていけば<FD> べつの とうに<FE> たどりつくことが できます.<FD>「となりの とうは さばくの なかに<FE> あるそうですね.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3a9ef"
+    translation: "「This is Nan's Tower.<FD>「Long ago, ancient people built it,<FD>and three sages each guarded<FE>one of the three towers.<FD>「If you follow the underground passages,<FD>you can reach another tower.<FE><FD>「They say the next tower is<FE>in the desert.<FF>"
 
   !!int 0x3aa7b:
     original: "「ジャングルいきの ひこうきが<FE> ふじちゃく したんですってね?<FD>「のってたひとに<FE> ケガは なかったそうよ.<FD> よかったわね.<FF>"
     pointer_location: 0x0e30a
-    translation: "TODO_0x3aa7b"
+    translation: "「I heard the jungle-bound plane<FE>made an emergency landing.<FD>「I heard no one was hurt.<FE>That's good news.<FF>"
 
   !!int 0x3aabc:
     original: "パンパ*ゴート<FE>「うるさい ガキどもだ.<FD>「わたしを パンパ*ゴートさまと<FE> しっての ろうぜきか?<FF>"
     pointer_location: 0x0eef5
-    translation: "TODO_0x3aabc"
+    translation: "Panpa*Goat<FE>「Noisy brats.<FD>「Do you know who Lord<FE>Panpa*Goat is?<FF>"
 
   !!int 0x3aaef:
     original: "「たすけにきて くれたんだよね?<FE> いじめに きたんじゃ ないよね?<FD> わーい! うれしいな!<FD>「ぼく ゴートだんに<FE> つかまっちゃったの.<FD>「さばくを わたるときの<FE> にもつはこびを やらされてたんだ.<FD>「きみたちも さばくを わたるの?<FE> じゃあ ぼくが おてつだいするよ.<FD>「これは ぼくを よぶための<FE> ラッパだよ.<FD>「もし ぼくが<FE> みんなと はぐれたときには<FD> この ラッパを ふいてね.<FF>"
     pointer_location: 0x0e318
-    translation: "TODO_0x3aaef"
+    translation: "「You came to save me, right?<FE>You didn't come to bully me, right?<FD>Yay! I'm so happy!<FD>「The Goat Gang<FE>captured me.<FD>「They made me carry luggage<FE>when crossing the desert.<FD>「Are you crossing the desert too?<FE>Then I'll help you.<FD>「This is a trumpet to<FE>call me.<FD>「If I get separated<FE>from everyone,<FD>blow this trumpet, ok?<FF>"
 
   !!int 0x3abb8:
     original: "<character>は ラッパを てにいれた!<FF>"
     pointer_location: 0x0e328
-    translation: "TODO_0x3abb8"
+    translation: "<character> got the trumpet!<FF>"
 
   !!int 0x3abc7:
     original: "ゴンタ<FE>「じゆうに なれて うれしいな.<FD> さきに そとに いってるからね.<FF>"
     pointer_location: 0x0e33a
-    translation: "TODO_0x3abc7"
+    translation: "Gonta<FE>「I'm happy to be free.<FD>I'll head outside first.<FF>"
 
   !!int 0x3abee:
     original: "「ちょうさたいの ひとたちは<FE> パニアチルむらへ いったよ.<FD>「パニアチルむらは<FE> ハーサむらの みなみにあるよ.<FD>「ランバのとうの まえを とおって<FD> ひがしの ほうへ<FE> あるいて いくのさ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3abee"
+    translation: "「The survey team went to Paniatil Village.<FD>「Paniatil Village is south of Harsa Village.<FD>「Go past Ramba Tower,<FD>then head east<FE>on foot.<FF>"
 
   !!int 0x3ac50:
     original: "「さばくには じめんに おおきなえが<FE> かいて あるんだよ.<FD>「あんな おおきなえ<FE> だれが かいたのかなあ?<FF>"
     pointer_location: 0
-    translation: "TODO_0x3ac50"
+    translation: "「There are huge drawings<FE>on the desert ground.<FD>「Who drew a picture that huge?<FE>I wonder who it was.<FF>"
 
   !!int 0x3ac88:
     original: "「さばくを こえるのは たいへんだ.<FD>「はいえなや ジャッカルも いるし<FD> とちゅうに オアシスが なければ<FE> しんじゃう とこだぜ.<FD>「オアシスには うまいみずが<FE> たんとあるぞ.<FD> ビールは うってないけどな.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3ac88"
+    translation: "「Crossing the desert is tough.<FD>「There are hyenas and jackals,<FD>and without an oasis along the way<FE>you'd die out there.<FD>「The oasis has plenty of good water.<FD>No beer for sale though.<FF>"
 
   !!int 0x3acf4:
     original: "「ほーほほほ!<FE> わたしは クレオパトラ.<FD>「なんぜんねんもの ねんげつを へて<FE> また このよに ふっかつした<FD> せかいいちの びじょよ!<FD>「***はっ! いけない!<FE> また ねぼけちゃった みたい.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3acf4"
+    translation: "「Ho ho ho!<FE>I am Cleopatra.<FD>「After thousands of years,<FE>I have returned to this world,<FD>the most beautiful woman alive!<FD>「...Ah! Oh no!<FE>Looks like I was dozing again.<FF>"
 
   !!int 0x3ad5a:
     original: "「ちょうさたいの ひとたちは<FE> にしに むかったよ.<FD>「いまごろは オアシスの<FE> あたりじゃ ないかなあ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3ad5a"
+    translation: "「The survey team<FE>headed west.<FD>「They should be near the oasis<FE>by now.<FF>"
 
   !!int 0x3ad90:
     original: "「オアシスには わかがえりの<FE> いずみが あるそうよ.<FD>「わたし それを きいて<FE> とかいから やってきたの.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3ad90"
+    translation: "「They say the oasis has a fountain of youth.<FE>So I've heard.<FD>「When I heard that,<FE>I came from the city.<FF>"
 
   !!int 0x3adc8:
     original: "「ぼくは りょこうしゃの<FE> てんじょういん.<FD>「さばくと オアシスの ツアーの<FE> せきにんしゃです.<FD>「さばくには さそりもいるし<FE> ゴートだん だって あばれてるのに<FD> みんな いったい なにをかんがえて<FE> こんなところに くるんでしょう.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3adc8"
+    translation: "「I'm a travel company<FE>staffer.<FD>「I'm in charge of the desert and oasis tour.<FE>That's my job.<FD>「The desert has scorpions,<FE>and even the Goat Gang is rampaging.<FD>Why would everyone think<FE>this is a good place to come?<FF>"
 
   !!int 0x3ae42:
     original: "「オアシスには わかがえりの<FE> いずみが あるそうじゃな.<FD>「わしも わかがえって<FD> きれいな おねえさんがたに<FE> もてようと おもっとるんじゃ.<FD> ほっほっほっほっほ!<FF>"
     pointer_location: 0
-    translation: "TODO_0x3ae42"
+    translation: "「They say the oasis has a fountain of youth.<FE>So they say.<FD>「If I got young again,<FD>I could be popular with the ladies.<FE>That's what I hope.<FD>Ho ho ho ho ho!<FF>"
 
   !!int 0x3ae98:
     original: "「さばくの えの まんなかに<FE> へんなあなが あったよ.<FD>「ぼくは はねが あるから<FE> おっこちなかったけどさ.<FD>「でも あそこの あな<FE> なんか ありそうだぜっ!<FF>"
     pointer_location: 0
-    translation: "TODO_0x3ae98"
+    translation: "「There was a strange hole<FE>in the middle of the desert drawing.<FD>「I have wings, so I didn't fall in,<FE>but still.<FD>「That hole over there<FE>looks like something's up!<FF>"
 
   !!int 0x3aeeb:
     original: "「あなたが サスケさん?<FD>「りラちゃんは<FE> おうちに かえったわよ.<FD>「わたしのことは しんぱいしないで<FE> がんばんなさいって<FD> つたえてほしいって いわれたわ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3aeeb"
+    translation: "「Are you Sasuke?<FD>「Rila went home.<FE>She's back at her house.<FD>「She told me to tell you<FE>not to worry about me<FD>and to keep doing your best.<FF>"
 
   !!int 0x3af3d:
     original: "「スーパーじしゃくは<FE> てに いれたかい?<FD>「あれは もってるだけで<FD> てっぽうの たまを<FE> あたりにくく するものなのさ.<FD>「このあたりに すむ<FE> かねもちの どうぶつたちは<FD> みんな もってるぜ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3af3d"
+    translation: "「Did you get the Super Magnet?<FE>Have it yet?<FD>「Just carrying it<FD>makes bullets miss more often.<FE>That's how it works.<FD>「The rich animals around here<FE>all have one.<FF>"
 
   !!int 0x3afa2:
     original: "「さばくのオアシスで みずあび***<FE> あたしって ぜいたくな カバだわ.<FD>「もう にどと<FE> ここから でたくない***<FF>"
     pointer_location: 0
-    translation: "TODO_0x3afa2"
+    translation: "「Bathing in the desert oasis...<FE>I'm such a luxurious hippo.<FD>「I never want to leave here again...<FF>"
 
   !!int 0x3afdf:
     original: "「このあたりの かんこうめいしょは<FE> なんといっても ちじょうえ.<FD>「さらに そのきたに あるといわれる<FE> でんせつの モアイぞうだね.<FD>「しかも モアイぞうには<FD> ふるくから いいつたえのある<FE> とてつもない ざいほうが<FD> かくされている らしいよ.<FD>「モアイぞうの まえを しらべると<FE> いりぐちが みつかるんだって.<FD>「でも モアイぞうは たくさんあって<FD> どこが いりぐちだか<FE> いまだに わかって ないのさ.<FD>「そのことを かきしるした<FE> こもんじょも いまでは<FD> どこにあるのか わからないしね.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3afdf"
+    translation: "「The main attraction around here is<FE>the ground drawings.<FD>「Further north, they say, are<FE>the legendary Moai statues.<FD>「Those Moai statues are said<FD>to hide an incredible treasure from old times.<FE>That's the tale.<FD>「If you check the front of a Moai,<FE>an entrance can be found.<FD>「But there are so many Moai,<FD>no one knows which has the entrance.<FE>Even now.<FD>「The old document that recorded it<FE>is now lost,<FD>so nobody knows where it is.<FF>"
 
   !!int 0x3b0de:
     original: "「はるか むかしの<FE> たみが のこしたもの.<FD>「あの きょだいな ちじょうえ.<FE> でんせつの モアイぞう.<FD>「しかし のこされたものは<FE> それだけなので あろうか.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3b0de"
+    translation: "「Left by people long ago,<FE>things they left behind.<FD>「Those giant ground drawings.<FE>The legendary Moai statues.<FD>「But were those the only things left?<FE>Perhaps not.<FF>"
 
   !!int 0x3b131:
     original: "「ちょうさたいの ひとたちは<FE> モアイぞうの ちょうさにいったわ.<FD>「でも そのすぐあとから<FE> ゴートだんの アピーニたちが<FD> それをきいて おっかけてったの.<FD>「ちょうさたいの ひとたち<FE> だいじょうぶかしら.<FD> しんぱいだわ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3b131"
+    translation: "「The survey team<FE>went to investigate the Moai statues.<FD>「But right after that,<FE>Apini and the Goat Gang heard and chased them.<FD>「I hope the survey team is okay.<FE>I'm worried.<FF>"
 
   !!int 0x3b1a5:
     original: "「この オアシスの みずは<FE> ただの みずなんだよ.<FD>「でも わかがえりの みずだって<FE> うわさが ながれちゃって<FD> みんな ここに やってくるのさ.<FD>「あの いやな アピーニ*ゴートも<FE> のんで いったってさ.ははは***<FF>"
     pointer_location: 0
-    translation: "TODO_0x3b1a5"
+    translation: "「The water in this oasis<FE>is just plain water.<FD>「But rumors say it's rejuvenating water,<FE>so everyone comes here.<FD>「Even that nasty Apini*Goat<FE>drank some. Ha ha...<FF>"
 
   !!int 0x3b216:
     original: "「しーーーっ!!<FE> みんなに ないしょに しといてね.<FD>「じつは ぼく さっき<FE> オアシスのみずに おしっこしたの.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3b216"
+    translation: "「Shhh!!<FE>Keep it a secret from everyone.<FD>「Actually, earlier<FE>I peed in the oasis water.<FF>"
 
   !!int 0x3b251:
     original: "「この おくに なにがいるのか<FE> しってるのかい?<FD>「オー ブルブル***<FD>「わるいことは いわない.<FE> ひきかえした ほうが いいよ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3b251"
+    translation: "「Do you know what's in there?<FE>Do you really?<FD>「Oh, brrr...<FD>「I'm not kidding.<FE>You should turn back.<FF>"
 
   !!int 0x3b296:
     original: "「アピーニ*ゴートでさえ<FE> ここには よりつかないんだよ.<FD>「やめたほうが いいと おもうよ.<FD>「え? ちょうさたい?<FE> あ! もしかしたら<FD> その アピーニ*ゴートが<FE> おいかけていた ひとたちかな?<FD>「おそろいの たんけんようのふくを<FE> きていた ひとたちでしょ?<FD>「さばくの にしの<FE> ツチカの むらの ほうへ<FD> あるいて いったけど すぐあとを<FE> アピーニが おっかけてったよ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3b296"
+    translation: "「Even Apini*Goat<FE>doesn't come here.<FD>「I think you should stop.<FD>「Huh? The survey team?<FE>Ah! Maybe those are the ones<FD>Apini*Goat was chasing.<FE>Right?<FD>「They wore matching explorer outfits,<FE>didn't they?<FD>「They walked west of the desert<FE>toward Tsuchika Village,<FD>and Apini chased right after them.<FF>"
 
   !!int 0x3b358:
     original: "せいなるライオン<FE>「このクロスが ほしいのか?<FD>「みたところ じゃあくなこころを<FE> もっているわけでは ないようだな.<FD>「しかし この クロスの ぬしに<FE> なるためには<FD> ほんとうの ゆうかんな こころが<FE> ひつようなのだ.<FD>「わたしが ためして あげよう.<FD> かかって きなさい.<FF>"
     pointer_location: 0x0ef06
-    translation: "TODO_0x3b358"
+    translation: "Sacred Lion<FE>「You want this cross?<FD>「You don't seem to have an evil heart.<FD>「But to become its master,<FE>you need a truly brave heart.<FD>「I will test you.<FD>Come at me.<FF>"
 
   !!int 0x3b3e6:
     original: "せいなるライオン<FE>「よくぞ このわたしに かちえたな!<FD>「しかし どうくつは もうひとつ.<FE> クロスも もうひとつ ある.<FD>「2つが そろわねば<FE> おまえの みらいは ひらけまい.<FD>「もうひとつの どうくつで<FD> わたしの きょうだいが<FE> おまえを まっている.<FD>「こころして かかられよ!<FF>"
     pointer_location: 0x0f349
-    translation: "TODO_0x3b3e6"
+    translation: "Sacred Lion<FE>「Well done, you beat me!<FD>「But there is another cave.<FE>There is another cross too.<FD>「If the two are not together,<FE>your future will not open.<FD>「In the other cave, my sibling<FE>is waiting for you.<FD>「Prepare yourself and fight!<FF>"
 
   !!int 0x3b477:
     original: "せいなるライオン<FE>「おまえが わがきょうだいを<FD> たおした おとこか.<FD>「ちいさいのに なかなか やるな.<FD>「おもしろい.<FD> ひさびさに やりがいの ある<FE> たたかいに なりそうだな.<FF>"
     pointer_location: 0x0ef0b
-    translation: "TODO_0x3b477"
+    translation: "Sacred Lion<FE>「So you're the one who defeated my sibling.<FD>「Small, yet impressive.<FD>「Interesting.<FD>It's been a while since a fight worth having.<FF>"
 
   !!int 0x3b4d4:
     original: "せいなるライオン<FE>「みごとだ!<FD>「これで 2つの クロスが<FE> そろったな.<FD>「これで おまえの ゆくてをはばむ<FE> いまわしい とびらがひらくだろう.<FD>「おまえは でんせつの<FD> せいなる ライオンを<FE> たおした おとこだ.<FD>「このことを ほこりに<FE> けっして くじけず たたかえよ!<FF>"
     pointer_location: 0x0f36e
-    translation: "TODO_0x3b4d4"
+    translation: "Sacred Lion<FE>「Splendid!<FD>「Now the two crosses are together.<FD>「This will open the cursed door<FE>that blocks your path.<FD>「You are the one who defeated the legendary<FD>Sacred Lion.<FD>「Take pride in this and never yield in battle!<FF>"
 
   !!int 0x3b561:
     original: "せいなるライオンを たおした<FF>"
     pointer_location: 0
-    translation: "TODO_0x3b561"
+    translation: "Defeated the Sacred Lion!<FF>"
 
   !!int 0x3b570:
     original: "ゴンタ<FE>「<character> ほんとうに ありがとう.<FD> おかげで おうちに かえれるよ.<FD>「さばくに きたら ラッパで<FE> また ぼくを よんでよ.<FD>「すぐに やってきて またきみたちを<FE> のせていって あげるよ.<FD>「じゃあね! がんばって!!<FF>"
     pointer_location: 0x0e35e
-    translation: "TODO_0x3b570"
+    translation: "Gonta<FE>「<character>, thank you so much.<FD>Thanks to you, I can go home.<FD>「When you come to the desert, blow the trumpet<FE>to call me again.<FD>「I'll come right away and give you a ride.<FD>See you! Good luck!!<FF>"
 
   !!int 0x3b5e3:
     original: "「ここは ツチカの むら.<FD> ツチカとは のにさく<FE> はなの ことです.<FD>「むかし ツチカという なまえの<FE> とても かしこい やぎがいました.<FD>「そのかたが あいした とうが<FD> このむらの みなみに のこされた<FE> ツチカのとうです.<FD>「その とうの ちかくに あるので<FE> このむらも ツチカむら なのです.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3b5e3"
+    translation: "「This is Tsuchika Village.<FD>Tsuchika is a flower<FE>that blooms in the fields.<FD>「Long ago there was a very wise goat<FE>named Tsuchika.<FD>「The tower he loved<FD>remains south of this village,<FE>Tsuchika Tower.<FD>「Because it's near that tower,<FE>this village is called Tsuchika Village.<FF>"
 
   !!int 0x3b67e:
     original: "「ツチカのとうには<FE> のろいが かかっている.<FD>「のろいを とくのには<FE> モアイの どうくつの***<FF>"
     pointer_location: 0x0e383
-    translation: "TODO_0x3b67e"
+    translation: "「Tsuchika Tower<FE>is cursed.<FD>「To lift the curse,<FE>the Moai cave's...<FF>"
 
   !!int 0x3b6b1:
     original: " 2つの ひほうが ひつようなんだ.<FE>「モアイは さばくのなかに あるよ.<FD> さばくに もどって<FE> ひほうを とって こなくちゃね.<FF>"
     pointer_location: 0x0e397
-    translation: "TODO_0x3b6b1"
+    translation: " Two treasures are needed.<FE>「The Moai are in the desert.<FD>Go back to the desert<FE>and bring the treasures.<FF>"
 
   !!int 0x3b6f4:
     original: " 2つの ひほうが ひつようなんだ.<FE> ひとつじゃ こうかが ないんだよ.<FF>"
     pointer_location: 0x0e39c
-    translation: "TODO_0x3b6f4"
+    translation: " Two treasures are needed.<FE>One alone won't work.<FF>"
 
   !!int 0x3b71a:
     original: " なんだ! きみ もってるじゃない.<FF>"
     pointer_location: 0x0e392
-    translation: "TODO_0x3b71a"
+    translation: " What! You already have them.<FF>"
 
   !!int 0x3b72d:
     original: "「とかいから ちょうさたいの ひとが<FE> このむらに きたわ.<FD>「きたの とうだいに むかったけど<FE> だれも かえって こないのよ.<FD>「きたの とうだいからは<FD> ゴートだんの ほんきょちの しまが<FE> みえるからって.<FD>「みんな あぶないからって<FE> とめたんだけどねえ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3b72d"
+    translation: "「People from the city survey team<FE>came to this village.<FD>「They headed for the northern lighthouse,<FE>but no one has come back.<FD>「They said from the northern lighthouse<FD>you can see the Goat Gang's base island.<FE>That's why.<FD>「Everyone tried to stop them<FE>because it's dangerous.<FF>"
 
   !!int 0x3b7b3:
     original: "「おれは ゴートだんだ!<FE> はっはっはっはっ!<FF>"
     pointer_location: 0
-    translation: "TODO_0x3b7b3"
+    translation: "「I'm with the Goat Gang!<FE>Ha ha ha ha!<FF>"
 
   !!int 0x3b7cb:
     original: "「ゴートだんの まねを するなんて<FE> はずかしい やつだなあ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3b7cb"
+    translation: "「Imitating the Goat Gang<FE>is shameful.<FF>"
 
   !!int 0x3b7eb:
     original: "「でんせつの 3びきの けんじゃの<FE> はなしを しっとるかの?<FD> ジャングルいち かしこい<FE> 3びきの はなしじゃ.<FD>「きいて みるかの?<FC>"
     pointer_location: 0x0e3ba
-    translation: "TODO_0x3b7eb"
+    translation: "「Do you know the tale of the three legendary sages?<FE>Do you?<FD>Jungle's three wisest ones.<FE>That's the story.<FD>「Want to hear it?<FC>"
 
   !!int 0x3b831:
     original: "「むかし むかし<FE> もう100ねんいじょうも まえに<FD> ジャングルを おさめていた<FE> どうぶつのおうさまたちが おった.<FD>「カメの ナン.<FD> ひょうの ランバ.<FD> そして やぎの ツチカじゃ.<FD>「かれらは こだいのたみが のこした<FE> ぶんめいの なごりを ほりおこし<FD> じゅもんや のろいや<FE> しんぴの ちからを みにつけた.<FD>「ジャングルに のこる 3つの とう<FD> あれは こだいのたみが<FE> のこしたものを<FD> かれらが つくりなおした もの.<FD>「かれらは じぶんが おさめていた<FE> くにと くにを つなぐために<FD> そのとうを つかったのじゃ.<FD>「だが かれら 3びきの おうも<FD> あるものは すみかを かえ<FE> あるものは いんきょし<FD> あるものは ゆくえが<FE> わからなくなってしまった.<FD>「ツチカと よばれた やぎの おう<FD> のろいの とう ツチカの<FE> しょゆうしゃ.<FD>「かれは どこに いって<FE> しまったのじゃろう.<FF>"
     pointer_location: 0x0e3c3
-    translation: "TODO_0x3b831"
+    translation: "「Once upon a time,<FE>more than 100 years ago,<FD>there were animal kings<FE>who ruled the jungle.<FD>「Nan the turtle.<FD>Ramba the leopard.<FD>And Tsuchika the goat.<FD>「They dug up remnants of an ancient people<FE>and their civilization,<FD>and learned spells and curses,<FE>and mysterious powers.<FD>「The three towers in the jungle<FD>were rebuilt by them from things<FE>left by the ancient people.<FD>「They used those towers<FE>to connect the lands they ruled.<FD>「But of the three kings,<FD>one changed his home,<FE>one went into seclusion,<FD>and one vanished<FE>without a trace.<FD>「Tsuchika, the goat king,<FD>owner of the cursed tower, Tsuchika Tower.<FE>「Where could he have gone?<FE>I wonder.<FF>"
 
   !!int 0x3b9cc:
     original: "「そうか***<FF>"
     pointer_location: 0x0e3c8
-    translation: "TODO_0x3b9cc"
+    translation: "「I see...<FF>"
 
   !!int 0x3b9d4:
     original: "「なにか こまったことが あるの?<FD> そしたら ひょうの ランバじいに<FE> きいて みたら?<FC>"
     pointer_location: 0x0e3a6
-    translation: "TODO_0x3b9d4"
+    translation: "「Got a problem?<FD>Then ask Grandpa Ramba the leopard.<FE>Why not?<FC>"
 
   !!int 0x3ba02:
     original: "「ランバじいさんは<FE> 3びきの けんじゃの いっぴきよ.<FD> なにか いいほうほうを<FE> かんがえて くれると おもうわ.<FD>「ランバじいさんは<FE> きょうりゅうじまの<FD> だいさんみゃくの うえに<FE> すんでるんですって.<FD>「きょうりゅうじまはね<FD> こだいの きょうりゅうたちが<FE> いっぱい すんでるの.<FD>「ツチカの とうの うえなら<FE> きょうりゅうじまが みえるそうよ.<FD>「あそこまで いけば<FE> きょうりゅうじま まで<FD> いく ほうほうも<FE> わかるんじゃ ないかしら?<FD>「あ でも そういえば<FD> ツチカの とうって<FE> のろいが かかって いるんだっけ?<FF>"
     pointer_location: 0x0e3af
-    translation: "TODO_0x3ba02"
+    translation: "「Grandpa Ramba is<FE>one of the three sages.<FD>I think he'll come up with something good.<FE>I really do.<FD>「They say Grandpa Ramba lives<FE>on the third mountain range<FD>of Dinosaur Island.<FE>That's what I heard.<FD>「Dinosaur Island has<FD>lots of ancient dinosaurs living there.<FE>So many.<FD>「From the top of Tsuchika Tower,<FE>you can see Dinosaur Island.<FD>「If you get that far,<FE>you might find a way<FD>to reach Dinosaur Island.<FE>Maybe?<FD>「Ah, but come to think of it,<FD>Tsuchika Tower is cursed,<FE>right?<FF>"
 
   !!int 0x3bb13:
     original: "「いじわるっ!!<FF>"
     pointer_location: 0x0e3b4
-    translation: "TODO_0x3bb13"
+    translation: "「You're mean!!<FF>"
 
   !!int 0x3bb1c:
     original: "「ぎゃっ!! みつかっちゃった!<FD> なんだ.こどもたちと サルかあ.<FD>「ぼくたちね カメの しまから<FE> いえで してきたの.<FD>「ぼくはウサギと きょうそうするのが<FE> ゆめなんだもの.<FD>「ぼくは こうみえても<FE> たんきょりの せんしゅなのさ.<FD>「なのに ちょうろうの ナンさまは<FD> カメは カメの しまから<FE> でちゃあいけないって いうの.<FD> カメいがいの ひととも<FE> くちを きいちゃ いけないって.<FD>「いまの カメのしまには<FE> カメと ゴートだんしか いないから<FD> くちを きかなくても いいけどさ.<FD>「ぼく ゴートだんが<FE> だいきらい なんだもん.<FD>「ナンさまは ゴートだんと<FE> たたかわないのかなあ.<FF>"
     pointer_location: 0x0e3d8
-    translation: "TODO_0x3bb1c"
+    translation: "「Eek!! You found us!<FD>What, it's just kids and a monkey.<FD>「We ran away from Turtle Island.<FE>We snuck out.<FD>「My dream is to race a rabbit.<FE>That's what I want.<FD>「Even though I look like this,<FE>I'm a sprinter.<FD>「But Elder Nan says<FD>turtles can't leave Turtle Island.<FE>That's what he says.<FD>He also says we can't talk<FE>to anyone but turtles.<FD>「Right now Turtle Island has<FE>only turtles and the Goat Gang,<FD>so it's fine not to talk, but still.<FD>「I really hate the Goat Gang.<FE>I do.<FD>「I wonder why Nan won't<FE>fight the Goat Gang.<FF>"
 
   !!int 0x3bc4c:
     original: "「わたしは おとうとに つきあって<FE> ここまで きたんだけど***<FD> でも このジャングルには<FE> ウサギは いないんですって?<FD>「あーあ.かえったら ナンさまに<FE> おこられちゃうな.<FD>「えっ? カメのしまには<FE> どういくのかって?<FD>「こないほうが いいわよ.<FE> しまは ゴートだんで いっぱいだし<FD> カメたちは だれも<FE> あいてをしてくれないと おもうわ.<FD>「かめの おうさま ナンさまが<FE> よそものを きらってるの.<FD>「ナンさまと はなしが できるのは<FD> きょうりゅうじまに すむ<FE> ひょうの ランバじいさん だけよ.<FF>"
     pointer_location: 0x0e3e8
-    translation: "TODO_0x3bc4c"
+    translation: "「I came along with my little brother<FE>all the way here...<FD>But there aren't any rabbits in this jungle?<FE>That's what I heard.<FD>「Ugh. When we get back,<FE>Nan will scold me.<FD>「Huh? How do you get to Turtle Island?<FE>You ask?<FD>「You shouldn't go.<FE>The island is full of the Goat Gang,<FD>and I don't think the turtles<FE>will talk to you.<FD>「Nan the turtle king<FE>hates outsiders.<FD>「The only one who can talk to Nan<FD>is Grandpa Ramba the leopard on Dinosaur Island.<FE>Only him.<FF>"
 
   !!int 0x3bd51:
     original: "「わたしたちは このとうだいから<FD> ゴートだんの ほんきょち<FE> サークラルとうを みはるよう<FD> めいれい されたのだ.<FD>「たいちょうたちは このとうを<FE> おりていったが<FD> そのあと すぐに<FE> ひめいが きこえた.<FD>「たいちょうたちに<FD> なにか わるいことが<FE> おきてなければ いいが***<FF>"
     pointer_location: 0
-    translation: "TODO_0x3bd51"
+    translation: "「We were ordered from this lighthouse<FD>to watch the Goat Gang's base,<FE>Sarkral Tower.<FD>That's our mission.<FD>「The captain and the others went down<FE>from this lighthouse,<FD>and right after that<FE>we heard screams.<FD>「I hope nothing bad happened<FD>to the captain and the others...<FF>"
 
   !!int 0x3bde2:
     original: "「サークラルとうには<FD> ゴートだんの ひこうきや ふねが<FE> ひんぱんに でいりしている.<FD>「おもてから ちかづくのは ムりだ.<FD> ちかくの カメの しまから<FD> いける ほうほうが あれば<FE> いいのだがなあ.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3bde2"
+    translation: "「At Sarkral Tower,<FD>the Goat Gang's planes and ships<FE>come and go constantly.<FD>「You can't approach from the front.<FD>If only there were a way from nearby Turtle Island<FE>to get there.<FF>"
 
   !!int 0x3be4a:
     original: "クイール*ゴート<FE>「のろいの とびらは どうしたのだ?<FD>「まさか クロスを 2つとも!?<FD> おそろしい やつらだな.<FD>「え? おれか? おれさまは<FD> ハゲタカに はこんで もらって<FE> ここで みはりを していたのさ.<FD>「アピーニ*ゴートさまの<FE> いちの こぶん.<FD> クイール*ゴートさまとは<FE> おれさまの ことだあ.<FF>"
     pointer_location: 0x0ef20
-    translation: "TODO_0x3be4a"
+    translation: "Quill*Goat<FE>「What happened to the cursed door?<FD>「Don't tell me you got both crosses!?<FD>That's terrifying.<FD>「Me? I had a vulture carry me<FD>here to stand guard.<FE>That's why I'm here.<FD>「I'm Apini*Goat's top underling.<FE>That's right.<FD>Quill*Goat is the name of yours truly.<FE>That's me.<FF>"
 
   !!int 0x3bee9:
     original: "クイール*ゴート<FE>「おみそれしやした だんながた.<FD>「こいつは むささびのマントです.<FD>「あっしが このとうを おりるときに<FE> いつもつかってる しろものでさあ.<FD>「こいつが あると<FE> そらを かっくうできるって やつで<FD> そうびしなくても もってるだけで<FE> こうかが ありますぜ.<FD>「おわびに これを さしあげますので<FE> いのちばかりは ごかんべんを.<FF>"
     pointer_location: 0x0f394
-    translation: "TODO_0x3bee9"
+    translation: "Quill*Goat<FE>「I underestimated you, sirs.<FD>「This is a flying squirrel cloak.<FD>「I use it every time I go down this tower.<FE>That's what it is.<FD>「With this, you can glide through the air,<FE>or so they say.<FD>You don't even need to equip it,<FE>just carrying it has an effect.<FD>「Please accept this as an apology,<FE>and spare my life.<FF>"
 
   !!int 0x3bf9b:
     original: "「いのちばかりは ごかんべんを.<FF>"
     pointer_location: 0
-    translation: "TODO_0x3bf9b"
+    translation: "「Spare my life, please.<FF>"
 
